@@ -1,0 +1,715 @@
+,Date,Mood,Tags,Weather
+0,2024 Tue Apr 23 12:55 PM,Amused,Outside;Co-workers;Hanging out,scattered clouds
+1,2024 Mon Apr 22 9:20 PM,Chill,Resting;By myself;Vacation home;Watching shows,broken clouds
+2,2024 Mon Apr 22 3:56 PM,Tired,Co-workers;Networking;Work,broken clouds
+3,2024 Sun Apr 21 9:38 PM,Good,Resting;Vacation home;By myself,few clouds
+4,2024 Sun Apr 21 5:03 PM,Enthusiastic,Commuting;Strangers;Between places,overcast clouds
+5,2024 Sun Apr 21 8:22 AM,Excited,Home;Planning life;Pets,broken clouds
+6,2024 Sat Apr 20 10:33 PM,Excited,Resting;Home;Pets,clear sky
+7,2024 Sat Apr 20 2:45 PM,Productive,By myself;Home,broken clouds
+8,2024 Sat Apr 20 7:07 AM,Thoughtful,Walking;Pets;Outside,broken clouds
+9,2024 Fri Apr 19 9:25 PM,Apathetic,Watching shows;By myself;Home;Resting,overcast clouds
+10,2024 Fri Apr 19 3:00 AM,Lonely,Resting;Home;By myself,broken clouds
+11,2024 Thu Apr 18 1:31 PM,Lost,Resting;Home;By myself,overcast clouds
+12,2024 Wed Apr 17 4:06 PM,At Ease,By myself;Resting;Home,overcast clouds
+13,2024 Wed Apr 17 9:42 AM,Eager,Co-workers;Networking;Outside,broken clouds
+14,2024 Tue Apr 16 2:14 PM,Chill,Home;Resting;By myself,few clouds
+15,2024 Mon Apr 15 2:40 PM,Valued,Networking;Co-workers;Work,overcast clouds
+16,2024 Sun Apr 14 7:57 PM,Balanced,Resting;Home;Pets,clear sky
+17,2024 Sat Apr 13 2:00 PM,Empathetic,Hanging out;Home;Family,overcast clouds
+18,2024 Sat Apr 13 9:15 AM,Empowered,By myself;Running;Outside;Listening to music,broken clouds
+19,2024 Sat Apr 13 6:36 AM,Frustrated,Waking up;By myself;Home,broken clouds
+20,2024 Fri Apr 12 7:57 PM,Comfortable,Home;Pets;Resting,broken clouds
+21,2024 Thu Apr 11 11:25 AM,Excited,Home;Friends;Networking,broken clouds
+22,2024 Thu Apr 11 8:45 AM,Disgusted,Home;Back from run;By myself,broken clouds
+23,2024 Wed Apr 10 8:44 PM,Challenged,Planning life;Work;Co-workers,clear sky
+24,2024 Tue Apr 9 1:25 PM,Relieved,Networking;Work;Co-workers,scattered clouds
+25,2024 Tue Apr 9 5:52 AM,Anxious,Home;Waking up;Pets,mist
+26,2024 Mon Apr 8 2:29 PM,Productive,Writing;Home;By myself,scattered clouds
+27,2024 Sun Apr 7 9:11 PM,Comfortable,Home;Resting;By myself,scattered clouds
+28,2024 Sat Apr 6 6:31 PM,Content,Family;Hanging out;Outside,overcast clouds
+29,2024 Fri Apr 5 3:30 PM,At Ease,Networking;Strangers;Work,overcast clouds
+30,2024 Thu Apr 4 1:31 PM,Frustrated,By myself;Home,overcast clouds
+31,2024 Wed Apr 3 7:21 PM,Lost,By myself;Home;Watching shows,overcast clouds
+32,2024 Tue Apr 2 6:33 AM,Optimistic,Home;Planning life;By myself,drizzle
+33,2024 Tue Apr 2 5:40 AM,Tired,Home;Waking up;Pets,drizzle
+34,2024 Mon Apr 1 1:31 PM,Lost,Walking;Between places;By myself;Commuting,fog
+35,2024 Mon Apr 1 9:01 AM,Longing,By myself;Waking up;Walking;Home;Outside,fog
+36,2024 Sun Mar 31 8:26 PM,Longing,Pets;Outside;Walking,overcast clouds
+37,2024 Sun Mar 31 7:16 AM,Pensive,Home;Pets;Waking up,overcast clouds
+38,2024 Sat Mar 30 8:53 PM,Disengaged,By myself;Resting;Home,few clouds
+39,2024 Sat Mar 30 7:03 PM,Vulnerable,By myself;Home;Resting;Watching shows,few clouds
+40,2024 Fri Mar 29 4:53 PM,Excited,Drinking ;Bar ;Hanging out;Friends;Listening to music,light intensity drizzle
+41,2024 Thu Mar 28 7:48 AM,Motivated,By myself;Learning ;Home;Strangers,overcast clouds
+42,2024 Wed Mar 27 6:45 PM,Balanced,By myself;Watching shows;Home,overcast clouds
+43,2024 Tue Mar 26 6:41 PM,Chill,Home;Learning ;By myself,overcast clouds
+44,2024 Mon Mar 25 3:29 PM,Appreciated,Family;Home;Helping someone,overcast clouds
+45,2024 Sun Mar 24 11:08 AM,Optimistic,Running;Listening to music;By myself;Outside,overcast clouds
+46,2024 Sun Mar 24 6:05 AM,Lost,Waking up;By myself;Home,overcast clouds
+47,2024 Sat Mar 23 10:55 AM,Insecure,Resting;By myself;Home,broken clouds
+48,2024 Fri Mar 22 4:21 PM,Apathetic,Watching shows;By myself;Home,broken clouds
+49,2024 Thu Mar 21 6:18 PM,Relaxed,Home;Watching shows;By myself,broken clouds
+50,2024 Thu Mar 21 1:05 PM,Disappointed,Home;Learning ;Co-workers,broken clouds
+51,2024 Thu Mar 21 7:15 AM,Overwhelmed,Home;Waking up;By myself,broken clouds
+52,2024 Wed Mar 20 6:30 PM,Disengaged,Watching shows;Home;By myself,broken clouds
+53,2024 Tue Mar 19 4:25 PM,Chill,Home;By myself;Watching shows;Resting,overcast clouds
+54,2024 Mon Mar 18 1:32 PM,Balanced,Planning life;Co-workers;Work;Hanging out,broken clouds
+55,2024 Sun Mar 17 1:31 PM,Balanced,By myself;Home;Resting,few clouds
+56,2024 Sat Mar 16 3:30 PM,Relaxed,Home;Watching shows;By myself,few clouds
+57,2024 Fri Mar 15 2:57 PM,Thoughtful,Hanging out;Outside;Bar ;By myself,light rain
+58,2024 Thu Mar 14 8:59 AM,Exhilarated,By myself;Planning life;Learning ;Home,mist
+59,2024 Wed Mar 13 3:45 PM,Compassionate,Helping someone;At friends;Family,overcast clouds
+60,2024 Tue Mar 12 11:09 PM,Annoyed,Planning life;By myself;Home,fog
+61,2024 Mon Mar 11 12:10 PM,Motivated,Learning ;Home;By myself,fog
+62,2024 Sun Mar 10 12:00 PM,Chill,Home;Resting;Pets,overcast clouds
+63,2024 Sat Mar 9 1:30 PM,Energized,Home;Resting;By myself,overcast clouds
+64,2024 Sat Mar 9 8:05 AM,Fatigued,Home;Pets;By myself;Spacied out;Waking up,overcast clouds
+65,2024 Fri Mar 8 9:14 AM,Optimistic,After swimming;Outside;By myself,fog
+66,2024 Fri Mar 8 9:11 AM,Appreciated,Helping someone;Outside;Family,fog
+67,2024 Thu Mar 7 7:42 PM,Compassionate,At friends;Helping someone;Family,clear sky
+68,2024 Wed Mar 6 5:08 PM,Curious,Networking;Strangers;Bar ,overcast clouds
+69,2024 Wed Mar 6 10:54 AM,Disengaged,By myself;Home;Resting,overcast clouds
+70,2024 Tue Mar 5 6:18 PM,Thoughtful,Home;By myself;Planning life;Watching shows,light rain
+71,2024 Tue Mar 5 7:14 AM,Alive,Outside;By myself;Running;Listening to music,broken clouds
+72,2024 Tue Mar 5 6:38 AM,Engaged,Writing;Home;Learning ;By myself,broken clouds
+73,2024 Mon Mar 4 12:22 PM,Upbeat,Friends;Hanging out;After swimming;At friends,clear sky
+74,2024 Sun Mar 3 4:43 PM,Longing,Home;By myself;Resting,few clouds
+75,2024 Sun Mar 3 4:41 PM,Meh,By myself;Home;Resting,few clouds
+76,2024 Sat Mar 2 1:33 PM,Thoughtful,Outside;By myself;Walking,fog
+77,2024 Fri Mar 1 3:59 PM,Thoughtful,By myself;Resting;Home,fog
+78,2024 Fri Mar 1 5:52 AM,Sad,Waking up;Home;Pets,overcast clouds
+79,2024 Thu Feb 29 4:58 PM,Successful,At friends;Writing;Friends;Networking,overcast clouds
+80,2024 Thu Feb 29 2:47 PM,Engaged,By myself;Home;Writing,overcast clouds
+81,2024 Wed Feb 28 6:51 AM,Tired,Home;Planning life;By myself,overcast clouds
+82,2024 Tue Feb 27 7:30 AM,Enthusiastic,Back from run;By myself;Home,mist
+83,2024 Mon Feb 26 3:21 PM,Accomplished,Co-workers;Home;Learning ;By myself,overcast clouds
+84,2024 Mon Feb 26 6:15 AM,Curious,Home;By myself;Planning life,mist
+85,2024 Sun Feb 25 7:24 AM,Balanced,Pets;Outside;Walking,broken clouds
+86,2024 Sat Feb 24 6:32 PM,Lonely,By myself;Watching shows;Home,scattered clouds
+87,2024 Sat Feb 24 6:28 AM,Comfortable,Writing;Pets;Waking up;Home,overcast clouds
+88,2024 Fri Feb 23 4:25 PM,Joyful,Drinking ;Co-workers;Hanging out;Bar ,overcast clouds
+89,2024 Fri Feb 23 1:30 PM,Inspired,Outside;Networking;Strangers;Hanging out,overcast clouds
+90,2024 Thu Feb 22 6:42 PM,Meh,Home;Resting;By myself,overcast clouds
+91,2024 Wed Feb 21 6:08 PM,Curious,Strangers;School;Networking;Learning ,overcast clouds
+92,2024 Wed Feb 21 4:44 PM,Enthusiastic,Work;Planning teaching;Co-workers,overcast clouds
+93,2024 Tue Feb 20 6:10 AM,Determined,Walking;Pets;Outside,broken clouds
+94,2024 Mon Feb 19 8:31 PM,Tired,Pets;Resting;Home,overcast clouds
+95,2024 Mon Feb 19 12:15 PM,Content,Library;Hanging out;Walking;Outside;By myself;Strangers,overcast clouds
+96,2024 Sun Feb 18 9:33 PM,At Ease,By myself;Resting;Home,light rain
+97,2024 Sun Feb 18 6:39 AM,Determined,Walking;By myself;Waking up;Outside;Pets,broken clouds
+98,2024 Sat Feb 17 4:30 PM,Sad,Outside;Pets;Walking;By myself;Home;Resting;Watching shows,clear sky
+99,2024 Sat Feb 17 3:30 PM,Helpless,Home;By myself;Resting,clear sky
+100,2024 Sat Feb 17 6:31 AM,Nostalgic,Waking up;Pets;Walking;Outside,light intensity drizzle
+101,2024 Fri Feb 16 3:35 PM,Joyful,Work;Hanging out;Co-workers,light intensity drizzle
+102,2024 Thu Feb 15 6:49 PM,Chill,Resting;By myself;Home,fog
+103,2024 Wed Feb 14 3:15 PM,Tranquil,Home;Reading;By myself,overcast clouds
+104,2024 Wed Feb 14 7:55 AM,Melancholic,Home;By myself;Between places,mist
+105,2024 Wed Feb 14 7:37 AM,Lost,By myself;Home;Waking up,mist
+106,2024 Tue Feb 13 3:35 PM,Pensive,By myself;Resting;Home,mist
+107,2024 Mon Feb 12 9:35 AM,At Ease,Outside;After swimming;By myself;Walking,light rain
+108,2024 Sun Feb 11 10:05 AM,Thoughtful,Outside;By myself;Running,overcast clouds
+109,2024 Sun Feb 11 8:50 AM,Motivated,Home;Planning life;By myself,overcast clouds
+110,2024 Sun Feb 11 8:49 AM,At Ease,Home;By myself;Planning life,overcast clouds
+111,2024 Sat Feb 10 7:48 PM,Worried,By myself;Home;Resting,overcast clouds
+112,2024 Sat Feb 10 7:47 PM,Accomplished,Home;Resting;By myself,overcast clouds
+113,2024 Sat Feb 10 9:04 AM,Determined,Home;By myself;Waking up,overcast clouds
+114,2024 Fri Feb 9 7:52 AM,Pensive,Writing;By myself;Home,broken clouds
+115,2024 Thu Feb 8 6:00 PM,Tired,Home;Resting;By myself,broken clouds
+116,2024 Wed Feb 7 7:34 PM,Lonely,By myself;Home;Resting,clear sky
+117,2024 Tue Feb 6 11:35 AM,Productive,Home;Learning ;Pets;By myself,clear sky
+118,2024 Mon Feb 5 7:06 AM,Accomplished,School;Back from run;Strangers,overcast clouds
+119,2024 Sun Feb 4 8:01 AM,Annoyed,Walking;By myself;Outside;Checking social media ,scattered clouds
+120,2024 Sat Feb 3 1:05 PM,Productive,By myself;Writing;Home,few clouds
+121,2024 Fri Feb 2 6:32 AM,At Ease,Outside;Walking;Pets,broken clouds
+122,2024 Thu Feb 1 8:18 AM,Empowered,Home;By myself;Listening to music;Running,overcast clouds
+123,2024 Wed Jan 31 1:55 PM,Meh,Home;By myself;Writing;Resting,broken clouds
+124,2024 Wed Jan 31 6:31 AM,Wistful,Home;Pets;Planning life,broken clouds
+125,2024 Tue Jan 30 5:56 AM,Excited,Pets;Outside;Walking,fog
+126,2024 Mon Jan 29 4:14 PM,Accomplished,Networking;Co-workers;Work,overcast clouds
+127,2024 Mon Jan 29 6:44 AM,Annoyed,By myself;Writing;Waking up;Checking social media ;Home,overcast clouds
+128,2024 Sun Jan 28 9:00 AM,Confident,Back from run;Outside;By myself,overcast clouds
+129,2024 Sun Jan 28 6:45 AM,Accomplished,Waking up;Pets;Walking;Outside;Writing,broken clouds
+130,2024 Sat Jan 27 7:34 AM,Calm,Writing;Planning life;Pets;Home,few clouds
+131,2024 Fri Jan 26 2:17 PM,Longing,Resting;By myself;Home,light rain
+132,2024 Fri Jan 26 9:45 AM,Cheerful,Outside;Walking;After swimming;By myself,mist
+133,2024 Thu Jan 25 7:24 PM,Accomplished,Networking;Co-workers;Work;Helping someone,clear sky
+134,2024 Thu Jan 25 6:32 AM,Challenged,Home;Writing;Pets,scattered clouds
+135,2024 Thu Jan 25 6:31 AM,Overwhelmed,Writing;Home;Pets,scattered clouds
+136,2024 Wed Jan 24 9:56 AM,Thoughtful,After swimming;Home;By myself,overcast clouds
+137,2024 Tue Jan 23 1:06 PM,Sad,By myself;Resting;Home,broken clouds
+138,2024 Tue Jan 23 7:13 AM,Annoyed,Pets;Home;Writing,broken clouds
+139,2024 Mon Jan 22 6:47 AM,Joyful,Learning ;Pets;Home,overcast clouds
+140,2024 Sun Jan 21 8:03 AM,Chill,Writing;Pets;Home,overcast clouds
+141,2024 Sat Jan 20 12:34 PM,Chill,Reading;Vacation home;Pets;Writing;Resting,light rain
+142,2024 Fri Jan 19 8:30 AM,Relieved,Waking up;Metabolic chamber ;Strangers,broken clouds
+143,2024 Fri Jan 19 6:50 AM,Frustrated,Metabolic chamber ;Waking up;By myself,broken clouds
+144,2024 Thu Jan 18 5:05 PM,Fatigued,Resting;By myself;Metabolic chamber ,clear sky
+145,2024 Thu Jan 18 6:39 AM,Insecure,By myself;Waking up;Metabolic chamber ,clear sky
+146,2024 Wed Jan 17 6:07 PM,Excited,Home;By myself;Planning life,broken clouds
+147,2024 Wed Jan 17 10:05 AM,Tense,Commuting;By myself;Driving,broken clouds
+148,2024 Tue Jan 16 5:27 PM,Accomplished,By myself;Vacation home;Writing;Back from run,overcast clouds
+149,2024 Tue Jan 16 5:25 PM,Thoughtful,By myself;Vacation home;Writing;Planning life,overcast clouds
+150,2024 Mon Jan 15 7:19 PM,Accomplished,Resting;Vacation home;Pets,broken clouds
+151,2024 Mon Jan 15 7:15 AM,Productive,Writing;By myself;Vacation home,overcast clouds
+152,2024 Sun Jan 14 6:31 PM,Relaxed,Vacation home;Resting;By myself,overcast clouds
+153,2024 Sun Jan 14 6:30 AM,Thoughtful,Vacation home;Writing;By myself;Waking up,few clouds
+154,2024 Sat Jan 13 12:30 PM,Motivated,By myself;Cleaning;Home,few clouds
+155,2024 Fri Jan 12 1:32 PM,Optimistic,By myself;Home;Planning life;Writing,broken clouds
+156,2024 Thu Jan 11 6:33 PM,Excited,Networking;Co-workers;Work,broken clouds
+157,2024 Wed Jan 10 3:30 PM,Joyful,Hanging out;Writing;Library;Friends;Outside,broken clouds
+158,2024 Wed Jan 10 6:31 AM,Thoughtful,Planning life;Home;Pets;Writing,overcast clouds
+159,2024 Tue Jan 9 2:21 PM,Accomplished,Co-workers;Work;Exams,overcast clouds
+160,2024 Mon Jan 8 8:30 PM,Engaged,Family;Home;By myself;Planning life,overcast clouds
+161,2024 Sun Jan 7 6:25 PM,Chill,By myself;Resting;Home,overcast clouds
+162,2024 Sat Jan 6 3:50 PM,Productive,Writing;By myself;Helping someone;Home,broken clouds
+163,2024 Fri Jan 5 6:17 PM,Chill,By myself;Watching shows;Home,broken clouds
+164,2024 Thu Jan 4 6:54 PM,Fulfilled,Resting;Home;By myself,overcast clouds
+165,2024 Wed Jan 3 8:29 AM,Accomplished,By myself;Back from run;Home;After teaching ,light snow
+166,2024 Wed Jan 3 4:31 AM,Relaxed,Waking up;By myself;Work,light snow
+167,2024 Tue Jan 2 6:30 PM,Tired,By myself;Home;Resting,light snow
+168,2024 Mon Jan 1 7:08 PM,Lost,Home;Pets;Resting,light intensity shower rain
+169,2024 Mon Jan 1 5:31 PM,Fatigued,Resting;Pets;Home,overcast clouds
+170,2023 Sun Dec 31 4:30 PM,Excited,Hanging out;Friends;Outside,overcast clouds
+171,2023 Sat Dec 30 7:49 PM,Pensive,By myself;Resting;Home,overcast clouds
+172,2023 Sat Dec 30 4:43 PM,Balanced,Home;Pets;Resting,light rain
+173,2023 Fri Dec 29 9:58 AM,Optimistic,Home;Planning life;By myself,light rain
+174,2023 Thu Dec 28 4:55 PM,Disappointed,Strangers;Outside;Hanging out,light rain
+175,2023 Wed Dec 27 8:35 AM,Longing,Home;Waking up;Pets,few clouds
+176,2023 Tue Dec 26 6:30 PM,Chill,Watching shows;Home;Resting;By myself,few clouds
+177,2023 Tue Dec 26 10:06 AM,Enthusiastic,Back from run;Home;Pets,broken clouds
+178,2023 Mon Dec 25 6:10 PM,Insecure,Hanging out;Home;Family,clear sky
+179,2023 Sun Dec 24 6:10 PM,Chill,At friends;Hanging out;Family,light rain
+180,2023 Sat Dec 23 2:55 PM,Accomplished,Home;Eating;By myself,broken clouds
+181,2023 Fri Dec 22 1:30 PM,Challenged,By myself;Hanging out;Outside,scattered clouds
+182,2023 Thu Dec 21 7:28 AM,Optimistic,Planning life;Home;By myself,light rain
+183,2023 Wed Dec 20 6:31 AM,Empty,Home;By myself;Writing,broken clouds
+184,2023 Wed Dec 20 6:31 AM,Lost,Writing;Home;By myself,broken clouds
+185,2023 Tue Dec 19 5:05 PM,Disengaged,By myself;Watching shows;Home;Pets;Resting,overcast clouds
+186,2023 Mon Dec 18 4:44 PM,Grateful,By myself;Home;Resting,light rain
+187,2023 Sun Dec 17 3:19 PM,Nostalgic,By myself;Outside;Walking,overcast clouds
+188,2023 Sun Dec 17 3:14 PM,Tired,Home;By myself;Resting,overcast clouds
+189,2023 Sat Dec 16 6:45 AM,Thoughtful,Walking;Pets;Outside,broken clouds
+190,2023 Fri Dec 15 8:15 PM,Chill,Home;Resting;By myself,broken clouds
+191,2023 Thu Dec 14 6:38 PM,Nostalgic,Resting;By myself;Home,overcast clouds
+192,2023 Thu Dec 14 6:38 AM,Optimistic,By myself;Writing;Home,broken clouds
+193,2023 Wed Dec 13 2:40 PM,Understood,Networking;Strangers;Bar ;Hanging out;Drinking ,broken clouds
+194,2023 Tue Dec 12 2:23 PM,Appreciated,Co-workers;Networking;Work,overcast clouds
+195,2023 Mon Dec 11 6:31 AM,Enthusiastic,Home;By myself;Writing;Learning ,light rain
+196,2023 Sun Dec 10 9:42 PM,Fulfilled,Home;By myself;Resting,light intensity drizzle
+197,2023 Sun Dec 10 3:38 PM,Optimistic,Outside;Pets;Walking,overcast clouds
+198,2023 Sun Dec 10 3:37 PM,Compassionate,Walking;Outside;Pets,overcast clouds
+199,2023 Sat Dec 9 5:25 PM,Curious,Commuting;Between places;Strangers,light intensity drizzle
+200,2023 Fri Dec 8 2:17 PM,Chill,Resting;By myself;Home,overcast clouds
+201,2023 Thu Dec 7 5:29 PM,Longing,Resting;Home;By myself,overcast clouds
+202,2023 Thu Dec 7 6:31 AM,Tired,Pets;Writing;Home,overcast clouds
+203,2023 Wed Dec 6 8:01 AM,Thoughtful,Home;Planning life;By myself,light snow
+204,2023 Tue Dec 5 9:35 PM,Optimistic,,broken clouds
+205,2023 Tue Dec 5 9:25 PM,Inspired,Outside;Learning ;Co-workers;Strangers,light snow
+206,2023 Mon Dec 4 9:10 PM,Accomplished,Outside;After teaching ;Strangers,broken clouds
+207,2023 Sun Dec 3 3:54 PM,Chill,Home;Watching shows;By myself,overcast clouds
+208,2023 Sun Dec 3 9:25 AM,Empowered,Outside;Running;By myself,broken clouds
+209,2023 Sun Dec 3 9:24 AM,Optimistic,Outside;Running;By myself,broken clouds
+210,2023 Sat Dec 2 6:27 PM,Lonely,Home;Resting;Watching shows;By myself,broken clouds
+211,2023 Fri Dec 1 1:43 PM,Optimistic,Home;Networking;Strangers,broken clouds
+212,2023 Thu Nov 30 6:37 AM,Pensive,Home;Writing;Friends,shower snow
+213,2023 Wed Nov 29 7:16 PM,Longing,Home;Resting;By myself,broken clouds
+214,2023 Wed Nov 29 5:38 PM,Wistful,Outside;Walking;By myself,light snow
+215,2023 Tue Nov 28 8:24 AM,Empowered,Outside;After teaching ;By myself,clear sky
+216,2023 Tue Nov 28 6:32 AM,Chill,Outside;Walking;Pets,
+217,2023 Mon Nov 27 8:41 PM,Proud,Teaching;Strangers,broken clouds
+218,2023 Mon Nov 27 4:21 PM,Nervous,Home;Planning teaching;By myself,overcast clouds
+219,2023 Sun Nov 26 3:32 PM,Happy,Outside;Hanging out;Family,broken clouds
+220,2023 Sun Nov 26 7:08 AM,Excited,Teaching;Strangers,overcast clouds
+221,2023 Sun Nov 26 6:35 AM,Nervous,Work;Teaching;Strangers,scattered clouds
+222,2023 Sun Nov 26 6:34 AM,Calm,Outside;Walking;Pets,scattered clouds
+223,2023 Sat Nov 25 5:19 PM,Lonely,Home;Watching shows;By myself,broken clouds
+224,2023 Fri Nov 24 1:29 PM,Productive,Home;Planning teaching;By myself,broken clouds
+225,2023 Thu Nov 23 7:35 AM,Happy,Home;Hanging out;Family,broken clouds
+226,2023 Wed Nov 22 6:01 PM,Happy,Drinking ;Hanging out;Networking;Friends,overcast clouds
+227,2023 Wed Nov 22 1:46 PM,Productive,Home;Planning teaching;By myself,overcast clouds
+228,2023 Tue Nov 21 1:01 PM,Excited,Work;Networking;Friends,overcast clouds
+229,2023 Tue Nov 21 12:42 PM,Accomplished,Work;Teaching;Co-workers;Students,broken clouds
+230,2023 Mon Nov 20 7:25 PM,Discouraged,Work;Planning teaching;Students,overcast clouds
+231,2023 Mon Nov 20 9:21 AM,Motivated,Home;Learning ;Planning life;Pets,overcast clouds
+232,2023 Sun Nov 19 8:01 AM,Inspired,Home;Learning ;By myself,light rain
+233,2023 Sat Nov 18 4:44 PM,Chill,At friends;Eating;Hanging out;Family,scattered clouds
+234,2023 Fri Nov 17 3:00 PM,Annoyed,Work;Planning teaching;Co-workers,overcast clouds
+235,2023 Fri Nov 17 2:15 PM,Joyful,Outside;Hanging out;Friends,overcast clouds
+236,2023 Thu Nov 16 6:50 PM,Tired,Outside;Walking;Pets,overcast clouds
+237,2023 Thu Nov 16 6:49 PM,Relieved,Outside;Walking;Pets,overcast clouds
+238,2023 Thu Nov 16 6:31 AM,Anxious,Home;Waking up;By myself,moderate rain
+239,2023 Wed Nov 15 6:28 PM,Trapped,Home;Watching shows;By myself,overcast clouds
+240,2023 Wed Nov 15 6:35 AM,Anxious,Outside;Hanging out;Pets,broken clouds
+241,2023 Tue Nov 14 7:20 PM,Tired,Home;Resting;By myself,broken clouds
+242,2023 Tue Nov 14 6:07 PM,Lonely,Home;Watching shows;Pets,light intensity drizzle
+243,2023 Tue Nov 14 6:34 AM,Challenged,Outside;Running;By myself,moderate rain
+244,2023 Mon Nov 13 9:02 PM,Thoughtful,Home;Resting;By myself,light rain
+245,2023 Mon Nov 13 6:31 AM,Motivated,Home;Writing;Pets,
+246,2023 Sun Nov 12 8:45 PM,Motivated,Home;Writing;Pets,overcast clouds
+247,2023 Sun Nov 12 8:44 PM,Productive,Home;Writing;Pets,overcast clouds
+248,2023 Sat Nov 11 6:59 PM,Tired,Outside;Walking;Pets,overcast clouds
+249,2023 Sat Nov 11 11:24 AM,Vulnerable,Home;Resting;By myself,broken clouds
+250,2023 Sat Nov 11 11:23 AM,Longing,Home;Resting;By myself,broken clouds
+251,2023 Sat Nov 11 7:11 AM,Peaceful,Outside;Walking;Pets,overcast clouds
+252,2023 Fri Nov 10 7:06 AM,Motivated,Home;Writing;Pets,light rain
+253,2023 Thu Nov 9 8:57 PM,Uneasy,Home;Resting;By myself,scattered clouds
+254,2023 Thu Nov 9 6:31 AM,Peaceful,Outside;Walking;Pets,overcast clouds
+255,2023 Wed Nov 8 6:30 AM,Optimistic,Home;Planning life;Writing;By myself,broken clouds
+256,2023 Tue Nov 7 8:11 PM,Tired,Home;Resting;Pets,scattered clouds
+257,2023 Tue Nov 7 9:41 AM,Optimistic,Work;Teaching;Students,broken clouds
+258,2023 Tue Nov 7 6:31 AM,Anxious,Planning teaching,overcast clouds
+259,2023 Mon Nov 6 7:06 PM,Tense,Home;Resting;By myself,broken clouds
+260,2023 Mon Nov 6 1:30 PM,Productive;Anxious,Home;Planning teaching;By myself,broken clouds
+261,2023 Mon Nov 6 6:35 AM,Excited,Home;Planning life;By myself,mist
+262,2023 Sun Nov 5 3:56 PM,Nervous,Home;Watching shows;By myself,overcast clouds
+263,2023 Sun Nov 5 9:16 AM,Proud;Productive,Home;Planning teaching;By myself,broken clouds
+264,2023 Sat Nov 4 6:31 PM,Wistful;Pensive,Outside;Walking;Pets,overcast clouds
+265,2023 Sat Nov 4 8:50 AM,Overwhelmed;Excited,Home;Reading;By myself,overcast clouds
+266,2023 Fri Nov 3 10:13 AM,Relieved,Home;Writing;By myself,scattered clouds
+267,2023 Thu Nov 2 6:11 PM,Wistful;Melancholic,Home;Watching shows;By myself,light rain
+268,2023 Thu Nov 2 7:20 AM,Balanced;Enjoyment,Outside;Walking;Pets,overcast clouds
+269,2023 Wed Nov 1 6:32 PM,Upbeat;Cheerful,Home;Hanging out;By myself,light rain
+270,2023 Wed Nov 1 4:20 PM,Grateful,Home;Eating;By myself,overcast clouds
+271,2023 Wed Nov 1 6:41 AM,At Ease,Outside;Walking;Pets,
+272,2023 Wed Nov 1 6:33 AM,Relieved,Outside;Walking;By myself,
+273,2023 Tue Oct 31 6:30 PM,Chill,Home;Resting;Pets,broken clouds
+274,2023 Tue Oct 31 11:00 AM,Accomplished,Commuting;Between places;Strangers,light rain
+275,2023 Tue Oct 31 8:09 AM,Alive,Commuting;Between places;Strangers,light rain
+276,2023 Mon Oct 30 6:30 PM,Productive;Nervous,Home;Watching shows;By myself,scattered clouds
+277,2023 Mon Oct 30 1:40 PM,Optimistic;Balanced,Home;Resting;By myself,few clouds
+278,2023 Sun Oct 29 6:42 AM,Chill,Home;Waking up;Pets,light intensity drizzle
+279,2023 Sat Oct 28 3:01 PM,Fomo;Frustrated,Home;Watching shows;Resting;Pets,overcast clouds
+280,2023 Fri Oct 27 8:35 AM,Chill;Worried,Home;Waking up;Resting;By myself,broken clouds
+281,2023 Thu Oct 26 4:38 PM,Grateful;Exhausted,Home;Reading;Resting;By myself,broken clouds
+282,2023 Wed Oct 25 4:13 PM,Annoyed;Apathetic,Home;Resting;By myself,broken clouds
+283,2023 Tue Oct 24 1:51 PM,Spent,Home;Resting;By myself,broken clouds
+284,2023 Tue Oct 24 7:12 AM,Exhausted,Home;Waking up;By myself,broken clouds
+285,2023 Mon Oct 23 5:41 PM,Worried;Melancholic,Home;Resting;By myself,overcast clouds
+286,2023 Mon Oct 23 10:39 AM,Safe;Exhausted,Home;Resting;By myself,scattered clouds
+287,2023 Sun Oct 22 1:31 PM,Pensive;Melancholic,Home;Listening to music;By myself,few clouds
+288,2023 Sat Oct 21 1:32 PM,Exhausted;Empty,Home;Watching shows;By myself,broken clouds
+289,2023 Fri Oct 20 6:45 PM,Fatigued,Home;Watching shows;By myself,overcast clouds
+290,2023 Thu Oct 19 1:36 PM,Scared;Frustrated,Home;Resting;By myself,overcast clouds
+291,2023 Thu Oct 19 6:44 AM,Exhausted,Home;Waking up;By myself,clear sky
+292,2023 Wed Oct 18 6:40 PM,Frustrated;Fatigued,Home;Watching shows;By myself,overcast clouds
+293,2023 Wed Oct 18 1:35 PM,Meh,Home;Watching shows;By myself,few clouds
+294,2023 Wed Oct 18 9:02 AM,Worried;Fatigued,Home;Resting;By myself,broken clouds
+295,2023 Tue Oct 17 6:40 PM,Exhausted,Home;Watching shows;By myself,scattered clouds
+296,2023 Tue Oct 17 11:35 AM,Thankful,Home;Resting;By myself,scattered clouds
+297,2023 Tue Oct 17 7:50 AM,Fatigued;Worried,Home;Waking up;By myself,scattered clouds
+298,2023 Mon Oct 16 8:17 PM,Fatigued;Meh,Home;Watching shows;By myself,few clouds
+299,2023 Mon Oct 16 3:25 PM,Apathetic;Wistful,Home;Resting;By myself,broken clouds
+300,2023 Mon Oct 16 7:32 AM,Relieved;Fatigued,Home;Resting;By myself,scattered clouds
+301,2023 Sun Oct 15 6:30 PM,Fatigued,Home;Resting;Pets;By myself,few clouds
+302,2023 Sun Oct 15 2:56 PM,Worried;Exhausted,Home;Resting;By myself,broken clouds
+303,2023 Sun Oct 15 8:08 AM,Exhausted,Resting;By myself,broken clouds
+304,2023 Sat Oct 14 7:48 PM,Fatigued;Disconnected,Home;Resting;By myself,few clouds
+305,2023 Sat Oct 14 2:29 PM,Helpless,Home;Resting;By myself,few clouds
+306,2023 Sat Oct 14 8:49 AM,Fatigued;Apathetic,Home;Resting;By myself,few clouds
+307,2023 Fri Oct 13 6:34 PM,Tired;Melancholic,Home;By myself,broken clouds
+308,2023 Fri Oct 13 1:30 PM,Peaceful,Home;Resting;Pets,light rain
+309,2023 Fri Oct 13 7:41 AM,Apathetic,Home;Waking up;Resting;By myself,broken clouds
+310,2023 Thu Oct 12 6:31 PM,Apathetic,Home;Watching shows;By myself,broken clouds
+311,2023 Thu Oct 12 2:48 PM,Chill,Home;Watching shows;Resting;Family,scattered clouds
+312,2023 Thu Oct 12 7:44 AM,Sad;Longing,Home;Resting;By myself,broken clouds
+313,2023 Thu Oct 12 7:17 AM,Lost;Pensive,Home;Waking up;Resting;By myself,broken clouds
+314,2023 Wed Oct 11 6:31 PM,Balanced;Chill,Home;Watching shows;By myself,light intensity drizzle
+315,2023 Wed Oct 11 10:13 AM,Disengaged;Down,Home;After swimming;Resting;By myself,overcast clouds
+316,2023 Tue Oct 10 2:18 PM,Good,Home;Writing;Pets,few clouds
+317,2023 Tue Oct 10 6:40 AM,Proud;Optimistic,Home;Writing;By myself,broken clouds
+318,2023 Mon Oct 9 9:10 PM,Relieved,Home;Resting;Pets,overcast clouds
+319,2023 Mon Oct 9 8:28 PM,Sad;Worried,Home;Resting;By myself,overcast clouds
+320,2023 Mon Oct 9 7:37 AM,Calm,Home;Writing;By myself,overcast clouds
+321,2023 Sun Oct 8 7:18 PM,Lonely;Tired,Home;Resting;Pets,scattered clouds
+322,2023 Sun Oct 8 5:56 PM,Lost;Melancholic,Home;Watching shows;By myself,scattered clouds
+323,2023 Sun Oct 8 1:36 PM,Calm,Home;Watching shows;By myself,scattered clouds
+324,2023 Sat Oct 7 7:08 PM,Joyful,Outside;Hanging out;Friends,overcast clouds
+325,2023 Sat Oct 7 1:30 PM,Relaxed,Home;Resting;Pets,broken clouds
+326,2023 Sat Oct 7 7:01 AM,Proud;Relaxed,Home;Waking up;By myself,light rain
+327,2023 Fri Oct 6 6:08 PM,Chill;Relieved,Home;Resting;By myself,broken clouds
+328,2023 Fri Oct 6 1:42 PM,Tired;Relaxed,Home;Resting;By myself,overcast clouds
+329,2023 Fri Oct 6 8:33 AM,Annoyed;Pensive,Outside;Walking;By myself,light rain
+330,2023 Thu Oct 5 11:33 PM,Tired;Accomplished,Commuting;Between places;Strangers,broken clouds
+331,2023 Thu Oct 5 1:30 PM,Good,,clear sky
+332,2023 Thu Oct 5 8:05 AM,Empowered,Outside;Running;Listening to music;By myself,broken clouds
+333,2023 Thu Oct 5 7:29 AM,Upbeat;Nervous,Home;Planning teaching;By myself,broken clouds
+334,2023 Wed Oct 4 1:38 PM,Down;Overwhelmed,Outside;Walking;By myself,broken clouds
+335,2023 Wed Oct 4 7:45 AM,Ashamed;Inadequate,Home;Planning teaching;By myself,few clouds
+336,2023 Wed Oct 4 7:42 AM,Thoughtful;Pensive,Home;Planning teaching;By myself,few clouds
+337,2023 Tue Oct 3 5:27 PM,Burned Out;Worried,Home;Watching shows;By myself,broken clouds
+338,2023 Tue Oct 3 2:58 PM,Optimistic;Accomplished,Work;Planning teaching;Co-workers,broken clouds
+339,2023 Tue Oct 3 7:36 AM,Nervous,Home;Back from run;Pets,mist
+340,2023 Tue Oct 3 7:10 AM,Empowered,Outside;Running;Listening to music;By myself,mist
+341,2023 Mon Oct 2 6:35 PM,Restless,Home;Planning teaching;By myself,overcast clouds
+342,2023 Mon Oct 2 3:47 PM,Nervous,Home;Planning teaching;By myself,overcast clouds
+343,2023 Mon Oct 2 3:46 PM,Proud;Productive,Home;Planning teaching;By myself,overcast clouds
+344,2023 Mon Oct 2 6:32 AM,Anxious,Home;Writing;Pets,light rain
+345,2023 Mon Oct 2 6:32 AM,Pensive;Optimistic,Home;Writing;Pets,light rain
+346,2023 Sun Oct 1 6:31 PM,Anxious;Apathetic,Home;Resting;By myself,overcast clouds
+347,2023 Sun Oct 1 10:27 AM,Challenged;Pensive,Outside;Walking;By myself,broken clouds
+348,2023 Sun Oct 1 6:31 AM,Apathetic;Trapped,Home;Writing;By myself,broken clouds
+349,2023 Sat Sep 30 6:52 PM,Vulnerable;Burned Out,Home;Watching shows;By myself,few clouds
+350,2023 Sat Sep 30 5:29 PM,Relaxed;Trapped,Home;Watching shows;By myself,few clouds
+351,2023 Sat Sep 30 8:13 AM,Overwhelmed;Empty,Home;Planning teaching;Writing;By myself,clear sky
+352,2023 Fri Sep 29 7:20 PM,Annoyed;Challenged,Home;Planning teaching;Watching shows;By myself,overcast clouds
+353,2023 Fri Sep 29 10:04 AM,Lost;Regretful,Outside;After swimming;Walking;By myself,broken clouds
+354,2023 Fri Sep 29 8:27 AM,Sad,Outside;Walking;By myself,broken clouds
+355,2023 Fri Sep 29 6:51 AM,Apathetic,Home;Writing;Waking up;By myself,broken clouds
+356,2023 Thu Sep 28 5:40 PM,Curious,School;Networking;Strangers;Friends,clear sky
+357,2023 Thu Sep 28 7:10 AM,Optimistic,Home;Writing;By myself,overcast clouds
+358,2023 Thu Sep 28 6:31 AM,Sad;Worried,Home;Resting;By myself,overcast clouds
+359,2023 Thu Sep 28 6:13 AM,Irritated;Trapped,Home;Writing;By myself,overcast clouds
+360,2023 Wed Sep 27 8:15 PM,Good;Burned Out,Home;Writing;Pets,overcast clouds
+361,2023 Wed Sep 27 5:37 PM,Chill,Home;Watching shows;By myself,overcast clouds
+362,2023 Wed Sep 27 11:02 AM,Overwhelmed;Apathetic,Home;Resting;By myself,scattered clouds
+363,2023 Wed Sep 27 6:36 AM,Sad;Insecure,Home;Reading;By myself,fog
+364,2023 Tue Sep 26 6:40 PM,Thoughtful;Appreciated,At friends;Helping someone;Watching shows;Friends,overcast clouds
+365,2023 Tue Sep 26 2:29 PM,Relieved,At friends;Helping someone;Friends,overcast clouds
+366,2023 Tue Sep 26 6:22 AM,Anxious,Home;Waking up;By myself,fog
+367,2023 Mon Sep 25 7:14 PM,Productive,Home;Writing;By myself,overcast clouds
+368,2023 Mon Sep 25 5:08 PM,Chill;Optimistic,Home;Watching shows;By myself,overcast clouds
+369,2023 Mon Sep 25 6:58 AM,Trapped,Home;Resting;By myself,scattered clouds
+370,2023 Sun Sep 24 7:16 PM,Balanced;Pensive,Home;Reading;Pets,few clouds
+371,2023 Sun Sep 24 1:23 PM,Chill;Restless,Outside;Walking;By myself,scattered clouds
+372,2023 Sun Sep 24 11:28 AM,Productive;Determined,Home;Planning teaching;Pets,few clouds
+373,2023 Sun Sep 24 6:31 AM,Lonely;Empty,Home;Writing;By myself,clear sky
+374,2023 Sat Sep 23 6:30 PM,Lonely;Empty,Home;Resting;Pets,broken clouds
+375,2023 Sat Sep 23 4:04 PM,Chill,Home;Reading;By myself,broken clouds
+376,2023 Sat Sep 23 10:42 AM,Optimistic;Curious,Home;Back from run;By myself,clear sky
+377,2023 Sat Sep 23 6:32 AM,Enthusiastic;Worried,Home;Writing;By myself,broken clouds
+378,2023 Fri Sep 22 6:12 PM,Meh;Down,Home;Watching shows;By myself,light rain
+379,2023 Fri Sep 22 6:34 AM,Thoughtful;Sympathetic,Home;Writing;By myself,light rain
+380,2023 Thu Sep 21 8:14 PM,Peaceful;Thoughtful,Home;Reading;Resting;By myself,overcast clouds
+381,2023 Thu Sep 21 12:30 PM,Productive,Work;Planning teaching;Co-workers,overcast clouds
+382,2023 Thu Sep 21 8:02 AM,Balanced;Pensive,Work;Resting;By myself,overcast clouds
+383,2023 Wed Sep 20 7:16 PM,Joyful;Tired,Outside;Hanging out;Strangers;Friends,broken clouds
+384,2023 Wed Sep 20 11:27 AM,Pensive,Library;Writing;Friends,overcast clouds
+385,2023 Wed Sep 20 6:35 AM,Sad;Empty,Home;Reading;Writing;By myself,light rain
+386,2023 Tue Sep 19 7:44 PM,Chill;Disconnected,Home;Resting;By myself,broken clouds
+387,2023 Tue Sep 19 6:31 AM,Anxious;Overwhelmed,Home;Writing;By myself,broken clouds
+388,2023 Mon Sep 18 6:30 PM,Anxious;Annoyed,Home;Planning teaching;By myself,light rain
+389,2023 Sun Sep 17 7:00 PM,Fatigued;Accomplished,Home;Resting;By myself,broken clouds
+390,2023 Sun Sep 17 9:58 AM,Excited,Home;Resting;By myself,overcast clouds
+391,2023 Sun Sep 17 6:56 AM,Chill;Wishful,Home;Writing;By myself,overcast clouds
+392,2023 Sat Sep 16 6:38 PM,Productive;Playful,Home;Planning teaching;Watching shows;By myself,broken clouds
+393,2023 Sat Sep 16 6:50 AM,Lost;Desire,Home;Resting;By myself,broken clouds
+394,2023 Fri Sep 15 4:59 PM,Chill;Carefree,Outside;Networking;Strangers,broken clouds
+395,2023 Thu Sep 14 6:12 PM,Proud,Commuting;Between places;Listening to music;Strangers,overcast clouds
+396,2023 Thu Sep 14 5:22 PM,Relieved;Accomplished,Outside;Walking;By myself,overcast clouds
+397,2023 Thu Sep 14 12:58 PM,Challenged;Competent,Commuting;Between places;Strangers,scattered clouds
+398,2023 Thu Sep 14 11:55 AM,Upbeat,Work;Networking;Co-workers,scattered clouds
+399,2023 Thu Sep 14 6:32 AM,Nervous;Optimistic,Home;Writing;By myself,few clouds
+400,2023 Wed Sep 13 7:34 PM,Challenged,Home;Planning teaching;By myself,broken clouds
+401,2023 Tue Sep 12 5:13 PM,Valued,At friends;Helping someone;Hanging out;Friends,overcast clouds
+402,2023 Tue Sep 12 10:05 AM,Relieved,Work;Teaching,mist
+403,2023 Tue Sep 12 6:00 AM,Tense,Home;Writing;By myself,mist
+404,2023 Mon Sep 11 6:10 AM,Lonely;Empty,Home;Resting;By myself,mist
+405,2023 Sun Sep 10 6:36 PM,Miserable;Anxious,Home;Watching shows;Pets,broken clouds
+406,2023 Sun Sep 10 3:43 PM,Grateful,Home;Planning teaching;By myself,broken clouds
+407,2023 Sun Sep 10 8:04 AM,Pensive;Wistful,Home;Writing;By myself,fog
+408,2023 Sun Sep 10 4:58 AM,Anxious;Sad,Home;Reading;Pets,scattered clouds
+409,2023 Sat Sep 9 7:55 AM,Sad,Home;Hanging out;By myself,overcast clouds
+410,2023 Fri Sep 8 8:31 PM,Joyful,Outside;Networking;Friends,overcast clouds
+411,2023 Fri Sep 8 2:22 PM,Productive,Work;Planning teaching;Co-workers,few clouds
+412,2023 Fri Sep 8 8:03 AM,Surprised;Excited,Outside;Networking;Walking;Friends,few clouds
+413,2023 Fri Sep 8 6:30 AM,Anxious,Home;Planning teaching;By myself,few clouds
+414,2023 Thu Sep 7 6:31 PM,Discouraged;Wistful,Home;Planning teaching;Watching shows;By myself,broken clouds
+415,2023 Thu Sep 7 7:00 AM,Confident;Calm,Home;Planning teaching;Writing;By myself,broken clouds
+416,2023 Wed Sep 6 6:52 PM,Envious;Tired,Home;Reading;By myself,clear sky
+417,2023 Wed Sep 6 5:58 PM,Desire;Lonely,Home;Watching shows;By myself,clear sky
+418,2023 Wed Sep 6 6:45 AM,Longing,Home;Writing;By myself,fog
+419,2023 Wed Sep 6 6:44 AM,Excited;Pensive,Home;Writing;By myself,fog
+420,2023 Tue Sep 5 6:30 PM,Tired,Home;Watching shows;Resting;By myself,clear sky
+421,2023 Tue Sep 5 5:08 PM,At Ease;Chill,Home;Resting;Family,scattered clouds
+422,2023 Tue Sep 5 2:20 PM,Happy;Accomplished,Work;Planning teaching;Co-workers,scattered clouds
+423,2023 Tue Sep 5 10:36 AM,Challenged;Annoyed,Work;Teaching;Co-workers;Students,broken clouds
+424,2023 Tue Sep 5 6:31 AM,Anxious,Home;Writing;By myself,fog
+425,2023 Mon Sep 4 6:08 PM,Tense,Home;Watching shows;Resting;Pets,clear sky
+426,2023 Mon Sep 4 7:38 AM,Anxious,Home;Planning teaching;By myself,few clouds
+427,2023 Mon Sep 4 7:37 AM,Productive;Challenged,Home;Planning teaching;By myself,few clouds
+428,2023 Sun Sep 3 7:20 PM,Chill;Anxious,Home;Reading;Resting;By myself,broken clouds
+429,2023 Sun Sep 3 3:14 PM,Meh;Tense,Outside;Reading;Pets,broken clouds
+430,2023 Sun Sep 3 1:15 PM,Accomplished,Home;Planning teaching;By myself,broken clouds
+431,2023 Sun Sep 3 7:52 AM,Productive;Challenged,Outside;Reading;Pets,few clouds
+432,2023 Sat Sep 2 6:32 PM,Sad;Longing,Home;Watching shows;Listening to music;Resting;By myself,clear sky
+433,2023 Fri Sep 1 1:35 PM,Nostalgic;Melancholic,Home;Watching shows;By myself,few clouds
+434,2023 Fri Sep 1 1:33 PM,Sad;Apathetic,Home;Watching shows;By myself,few clouds
+435,2023 Fri Sep 1 9:15 AM,Disappointed;Grateful,Home;Writing;By myself,overcast clouds
+436,2023 Thu Aug 31 4:59 PM,Connected,Outside;Between places;Family,broken clouds
+437,2023 Thu Aug 31 9:53 AM,Valued;Grateful,Outside;Walking;By myself,overcast clouds
+438,2023 Thu Aug 31 8:21 AM,Joyful,Home;Writing;By myself,overcast clouds
+439,2023 Wed Aug 30 9:35 PM,Excited;Worried,Home;Resting;By myself,overcast clouds
+440,2023 Wed Aug 30 3:25 PM,Confused;Mellow,Home;Resting;Pets,broken clouds
+441,2023 Wed Aug 30 6:31 AM,Pensive;Thoughtful,Home;Writing;Waking up;By myself,broken clouds
+442,2023 Tue Aug 29 6:57 PM,Meh;Tired,Home;Resting;By myself,overcast clouds
+443,2023 Tue Aug 29 10:04 AM,Mellow;Empowered,Outside;Walking;By myself,overcast clouds
+444,2023 Tue Aug 29 8:49 AM,Vulnerable;Thoughtful,Home;Resting;By myself,overcast clouds
+445,2023 Mon Aug 28 7:01 PM,Chill;Vulnerable,Home;Watching shows;Resting;By myself,few clouds
+446,2023 Mon Aug 28 10:31 AM,Empowered;Wistful,Outside;Walking;By myself,few clouds
+447,2023 Sun Aug 27 1:54 PM,Spent;Disconnected,Home;Watching shows;Resting;By myself,few clouds
+448,2023 Sun Aug 27 7:44 AM,Fatigued,Outside;Walking;Strangers,scattered clouds
+449,2023 Sat Aug 26 2:10 PM,Enthusiastic;Determined,Outside;Walking;Strangers,overcast clouds
+450,2023 Fri Aug 25 5:22 PM,Chill,Home;Watching shows;By myself,broken clouds
+451,2023 Fri Aug 25 2:46 PM,Sad;Apathetic,Home;Planning teaching;By myself,broken clouds
+452,2023 Fri Aug 25 7:57 AM,Hopeful;Delighted,Outside;Walking;By myself,overcast clouds
+453,2023 Thu Aug 24 11:31 AM,Enthusiastic,Work;Planning teaching;Co-workers,overcast clouds
+454,2023 Thu Aug 24 6:30 AM,Nostalgic;Melancholic,Home;Writing;By myself,overcast clouds
+455,2023 Wed Aug 23 3:40 PM,Sad,Home;Resting;By myself,overcast clouds
+456,2023 Wed Aug 23 6:42 AM,Determined;Productive,Home;Writing;By myself,broken clouds
+457,2023 Tue Aug 22 5:48 PM,Determined,Home;Resting;By myself,few clouds
+458,2023 Tue Aug 22 2:26 PM,At Ease;Curious,Work;Planning teaching;Co-workers,broken clouds
+459,2023 Tue Aug 22 6:55 AM,Sad;Challenged,Home;Writing;By myself,scattered clouds
+460,2023 Mon Aug 21 5:56 PM,At Ease,Home;Eating;Pets,clear sky
+461,2023 Mon Aug 21 2:55 PM,Meh,Home;Watching shows;By myself,clear sky
+462,2023 Mon Aug 21 7:34 AM,Confused;Hopeful,Outside;Walking;By myself,scattered clouds
+463,2023 Sun Aug 20 6:45 PM,Lost,Home;Watching shows;By myself,few clouds
+464,2023 Sun Aug 20 11:28 AM,Nostalgic;Wishful,Home;Resting;By myself,mist
+465,2023 Sun Aug 20 9:18 AM,Melancholic;Pensive,Outside;Walking;Listening to music;By myself,mist
+466,2023 Sat Aug 19 6:10 PM,Valued;Proud,At friends;Hanging out;Friends,overcast clouds
+467,2023 Sat Aug 19 6:50 AM,Pensive,Home;Writing;By myself,broken clouds
+468,2023 Fri Aug 18 10:54 AM,Nostalgic;Calm,Commuting;Between places;Strangers,overcast clouds
+469,2023 Fri Aug 18 6:45 AM,Thoughtful;Pensive,Home;Writing;Pets,broken clouds
+470,2023 Thu Aug 17 8:03 PM,Pensive,Work;Resting;Pets,light rain
+471,2023 Thu Aug 17 6:03 PM,Wishful;Wistful,Home;Watching shows;Resting;By myself,light rain
+472,2023 Thu Aug 17 1:43 PM,Proud,Outside;Between places;By myself,overcast clouds
+473,2023 Thu Aug 17 6:31 AM,Motivated;Wistful,Home;Writing;By myself,scattered clouds
+474,2023 Wed Aug 16 5:45 PM,Balanced,Home;Writing;By myself,scattered clouds
+475,2023 Wed Aug 16 12:45 PM,Connected;Productive,Work;Planning teaching;Co-workers,scattered clouds
+476,2023 Tue Aug 15 9:45 PM,Sad,Home;Resting;Pets,overcast clouds
+477,2023 Tue Aug 15 2:42 PM,Chill,Home;Resting;Pets,moderate rain
+478,2023 Tue Aug 15 6:37 AM,Confident;Balanced,Outside;Between places;By myself,broken clouds
+479,2023 Mon Aug 14 9:00 AM,Determined,Home;Writing;By myself,few clouds
+480,2023 Sun Aug 13 6:04 PM,Calm;Anxious,Home;Hanging out;Strangers,broken clouds
+481,2023 Sun Aug 13 9:24 AM,Pleasant;Motivated,Outside;Walking;Listening to music;By myself,overcast clouds
+482,2023 Sun Aug 13 9:23 AM,Proud;Accomplished,Outside;Walking;Listening to music;By myself,overcast clouds
+483,2023 Sun Aug 13 6:31 AM,Desire;Longing,Home;Waking up;Pets,overcast clouds
+484,2023 Sat Aug 12 3:48 PM,Restless;Empty,Home;Watching shows;By myself,light rain
+485,2023 Sat Aug 12 12:30 PM,Appreciated;Chill,Outside;Walking;Friends,light rain
+486,2023 Sat Aug 12 7:20 AM,Meh;Disconnected,Home;Writing;By myself,overcast clouds
+487,2023 Fri Aug 11 6:04 PM,Lonely,Home;Watching shows;By myself,overcast clouds
+488,2023 Fri Aug 11 3:36 PM,Meh;Wistful,Home;Reading;Pets,overcast clouds
+489,2023 Thu Aug 10 5:05 PM,Annoyed,Home;Resting;By myself,few clouds
+490,2023 Thu Aug 10 1:15 PM,Tired;Apathetic,Home;Reading;Watching shows;Resting;By myself,broken clouds
+491,2023 Thu Aug 10 7:48 AM,Meh;Disengaged,Home;Writing;Family,overcast clouds
+492,2023 Wed Aug 9 8:37 PM,Chill,Outside;Watching shows;Friends,
+493,2023 Wed Aug 9 2:55 PM,Appreciated;Connected,Work;Planning teaching;Co-workers,light rain
+494,2023 Wed Aug 9 6:31 AM,Balanced,Home;Writing;Pets,broken clouds
+495,2023 Tue Aug 8 6:15 PM,Confident,Home;Writing;Networking;Strangers,broken clouds
+496,2023 Tue Aug 8 10:58 AM,Good,Work;Planning teaching;Co-workers,overcast clouds
+497,2023 Mon Aug 7 3:30 PM,Connected;Appreciated,Work,light rain
+498,2023 Mon Aug 7 7:51 AM,Accomplished;Motivated,Home;Writing;By myself,light rain
+499,2023 Sun Aug 6 9:04 PM,Chill;Balanced,Home;Resting;By myself,moderate rain
+500,2023 Sun Aug 6 8:31 AM,Disengaged,Home;Writing;Waking up;Pets,overcast clouds
+501,2023 Sat Aug 5 6:53 PM,Tired,Home;Resting,few clouds
+502,2023 Sat Aug 5 4:28 PM,Chill;Pensive,Home;Watching shows;Eating;Pets,few clouds
+503,2023 Sat Aug 5 8:06 AM,Confident;At Ease,Home;Writing;Pets,overcast clouds
+504,2023 Fri Aug 4 6:31 PM,Lonely;Down,Home;Watching shows;Pets,few clouds
+505,2023 Fri Aug 4 7:59 AM,Connected;Confident,Home;Writing;By myself,clear sky
+506,2023 Thu Aug 3 6:41 PM,Balanced;Confident,Outside;Walking;Pets,broken clouds
+507,2023 Thu Aug 3 8:24 AM,Sad;Empty,Home;Back from run;By myself,broken clouds
+508,2023 Wed Aug 2 6:41 PM,Challenged;Tired,Home;Watching shows;Resting;By myself,overcast clouds
+509,2023 Wed Aug 2 8:41 AM,Accomplished;Optimistic,Home;Writing;By myself,scattered clouds
+510,2023 Tue Aug 1 9:10 PM,Valued,Outside;Listening to music;Hanging out;Friends,overcast clouds
+511,2023 Tue Aug 1 4:28 PM,Meh;Grumpy,Outside;Walking;Pets,scattered clouds
+512,2023 Tue Aug 1 8:55 AM,Down;Apathetic,Outside;Walking;By myself,broken clouds
+513,2023 Mon Jul 31 6:31 PM,Relaxed;Longing,Home;Resting;By myself,overcast clouds
+514,2023 Mon Jul 31 10:32 AM,Mellow,Work;Reading;Writing;Hanging out;Co-workers,overcast clouds
+515,2023 Sun Jul 30 8:49 PM,Tired;Sad,Home;Resting;By myself,scattered clouds
+516,2023 Sun Jul 30 6:02 PM,Disappointed,Outside;Walking;Pets,broken clouds
+517,2023 Sat Jul 29 9:32 AM,Excited;Determined,Home;Waking up;Pets,broken clouds
+518,2023 Fri Jul 28 8:16 PM,Excited;Wishful,Home;Resting;Pets,few clouds
+519,2023 Fri Jul 28 5:34 PM,Accomplished,Home;Writing;By myself,broken clouds
+520,2023 Fri Jul 28 5:33 PM,Tired;Annoyed,Home;Hanging out;Strangers;By myself,broken clouds
+521,2023 Fri Jul 28 3:51 PM,Understood,At friends;Hanging out;Friends,broken clouds
+522,2023 Fri Jul 28 10:52 AM,Longing;Discouraged,Home;Writing;Waking up;By myself,few clouds
+523,2023 Thu Jul 27 8:53 PM,Chill;Balanced,Commuting;Between places;Resting;Strangers;Family;By myself,overcast clouds
+524,2023 Thu Jul 27 5:30 PM,Wistful,Outside;Commuting;Between places;Strangers;Family;By myself,overcast clouds
+525,2023 Thu Jul 27 3:08 PM,Cheerful;Balanced,Vacation home;Outside;Between places;Strangers;Family,overcast clouds
+526,2023 Wed Jul 26 8:07 PM,Chill;Balanced,Vacation home;Hanging out;Eating;Family,broken clouds
+527,2023 Wed Jul 26 5:02 PM,Accomplished,Vacation home;By myself,overcast clouds
+528,2023 Wed Jul 26 3:54 PM,Frustrated;Gaslit,Vacation home;Outside;Hanging out;Eating;Family,overcast clouds
+529,2023 Wed Jul 26 9:00 AM,Concerned;Hopeful,Vacation home;Writing;By myself,overcast clouds
+530,2023 Wed Jul 26 6:33 AM,Pensive,Vacation home;Writing;Waking up;By myself,overcast clouds
+531,2023 Tue Jul 25 5:51 PM,Tired;Disappointed,Shops;Hanging out;Family;By myself,overcast clouds
+532,2023 Tue Jul 25 8:54 AM,Chill;Wistful,Vacation home;Outside;After swimming;Walking;Listening to music;By myself,overcast clouds
+533,2023 Mon Jul 24 7:15 PM,Grateful;Loving,Vacation home;Resting;Family;By myself,overcast clouds
+534,2023 Mon Jul 24 5:15 PM,Happy;Relaxed,Vacation home;Outside;Hanging out;Eating;Family,overcast clouds
+535,2023 Sun Jul 23 2:31 PM,Nostalgic;Wistful,Commuting;Between places;Strangers;Family,overcast clouds
+536,2023 Sun Jul 23 10:25 AM,Accomplished;Amused,Commuting;Between places;Strangers;Family,light rain
+537,2023 Sun Jul 23 6:37 AM,Grateful;Thoughtful,Commuting;Between places;Listening to music;Strangers;Family,broken clouds
+538,2023 Sat Jul 22 9:19 PM,Excited;Tired,Home;Resting;Pets,light rain
+539,2023 Sat Jul 22 11:30 AM,Connected;Grateful,Outside;Walking;Friends,broken clouds
+540,2023 Sat Jul 22 8:37 AM,Thoughtful;Pensive,Home;Writing;Waking up;Pets,broken clouds
+541,2023 Fri Jul 21 8:16 PM,Disconnected;Restless,Commuting;Between places;Listening to music;Strangers,scattered clouds
+542,2023 Fri Jul 21 1:45 PM,Lonely,Vacation home;Watching shows;By myself,overcast clouds
+543,2023 Fri Jul 21 1:23 PM,Melancholic;Empty,Vacation home;Watching shows;By myself,overcast clouds
+544,2023 Fri Jul 21 7:00 AM,At Ease;Connected,Vacation home;Writing;By myself,overcast clouds
+545,2023 Thu Jul 20 6:03 PM,Lonely;Peaceful,Vacation home;Watching shows;Pets,scattered clouds
+546,2023 Thu Jul 20 2:00 PM,Accomplished;Resigned,Vacation home;Reading;Writing,scattered clouds
+547,2023 Thu Jul 20 8:50 AM,Uncertain;Pensive,Vacation home;Outside;Walking;By myself,few clouds
+548,2023 Wed Jul 19 7:00 PM,Relaxed;Wistful,Vacation home;Watching shows;By myself,overcast clouds
+549,2023 Wed Jul 19 11:09 AM,Inspired,Vacation home;Outside;Walking;By myself,overcast clouds
+550,2023 Wed Jul 19 8:25 AM,Good,Vacation home;Writing;Waking up;Pets,overcast clouds
+551,2023 Tue Jul 18 7:47 PM,Restless;Insecure,Vacation home;Watching shows;By myself,broken clouds
+552,2023 Tue Jul 18 4:24 PM,Lonely;Disengaged,Vacation home;Watching shows;Writing;By myself,scattered clouds
+553,2023 Tue Jul 18 8:15 AM,Accomplished;Cheerful,Vacation home;Writing;By myself,clear sky
+554,2023 Mon Jul 17 6:38 PM,At Ease;Content,Vacation home;Watching shows,overcast clouds
+555,2023 Mon Jul 17 9:32 AM,Balanced;Inspired,Outside;After swimming;Walking;By myself,moderate rain
+556,2023 Sun Jul 16 5:14 PM,Meh;Restless,Home;Watching shows;Pets,scattered clouds
+557,2023 Sun Jul 16 11:21 AM,Tired,Home;Writing;By myself,broken clouds
+558,2023 Sat Jul 15 8:12 PM,Relaxed;Connected,Outside;Listening to music;Hanging out;Strangers;Friends,broken clouds
+559,2023 Sat Jul 15 6:28 AM,Accomplished;Motivated,Home;Writing;By myself,overcast clouds
+560,2023 Sat Jul 15 5:25 AM,Nostalgic;Longing,Home;Waking up;By myself,overcast clouds
+561,2023 Fri Jul 14 1:59 PM,Balanced;Happy,Outside;Walking;Listening to music;By myself,scattered clouds
+562,2023 Fri Jul 14 7:05 AM,Motivated;Excited,Home;Writing;By myself,clear sky
+563,2023 Thu Jul 13 7:22 PM,Determined;Pensive,Home;Watching shows;Writing;Resting;Pets,few clouds
+564,2023 Thu Jul 13 8:24 AM,Angry,Outside;Walking;By myself,few clouds
+565,2023 Thu Jul 13 7:59 AM,Sad,Home;Resting;By myself,few clouds
+566,2023 Thu Jul 13 6:56 AM,Determined;Wistful,Home;Writing;By myself,few clouds
+567,2023 Thu Jul 13 5:33 AM,Discouraged;Rejected,Home;Waking up;By myself,few clouds
+568,2023 Wed Jul 12 8:09 PM,Excited,Home;Resting;By myself,light intensity shower rain
+569,2023 Wed Jul 12 6:36 PM,Frustrated;Confused,Home;Resting;By myself,light intensity shower rain
+570,2023 Wed Jul 12 3:46 PM,Appreciated;Included,Home;Resting;By myself,light intensity shower rain
+571,2023 Wed Jul 12 12:41 AM,Restless;Uncertain,Home;Resting;Pets,
+572,2023 Tue Jul 11 6:53 PM,Pessimistic;Longing,Home;Resting;By myself,broken clouds
+573,2023 Tue Jul 11 4:55 PM,Thankful;Pensive,Home;Watching shows;Resting;By myself,broken clouds
+574,2023 Tue Jul 11 2:00 PM,Playful;Happy,Outside;Hobbies;Strangers;Friends,broken clouds
+575,2023 Tue Jul 11 8:25 AM,Curious;Playful,Outside;Walking;After swimming;By myself,fog
+576,2023 Mon Jul 10 7:57 PM,Disappointed,Home;Watching shows;By myself,broken clouds
+577,2023 Mon Jul 10 6:01 AM,Calm;Excited,Vacation home;Writing;Waking up;By myself,overcast clouds
+578,2023 Sun Jul 9 7:05 PM,Relaxed;Melancholic,Vacation home;Watching shows;By myself,scattered clouds
+579,2023 Sun Jul 9 4:00 PM,Excited,Outside;Walking;Resting;By myself,overcast clouds
+580,2023 Sun Jul 9 10:46 AM,Pleased;Curious,Vacation home;Outside;Reading;Pets,clear sky
+581,2023 Sat Jul 8 3:55 PM,Chill;Wistful,Vacation home;Outside;Resting;Reading;Pets,clear sky
+582,2023 Sat Jul 8 8:40 AM,Peaceful;Pensive,Vacation home;Waking up;By myself,light rain
+583,2023 Fri Jul 7 9:10 PM,Lonely;Apathetic,Vacation home;Watching shows;Resting;By myself,broken clouds
+584,2023 Fri Jul 7 7:18 AM,Chill,Vacation home;Outside;Writing;Waking up;By myself,broken clouds
+585,2023 Thu Jul 6 11:15 PM,Disengaged,Vacation home;Spacied out;Watching shows;By myself,
+586,2023 Thu Jul 6 9:35 AM,Balanced;Hopeful,Outside;Walking;By myself,overcast clouds
+587,2023 Thu Jul 6 7:16 AM,Melancholic;Wistful,Vacation home;Walking;Waking up;By myself,broken clouds
+588,2023 Wed Jul 5 7:24 PM,Lonely;Apathetic,Vacation home;Resting;By myself,broken clouds
+589,2023 Wed Jul 5 8:11 AM,Wistful,Outside;Walking;By myself,broken clouds
+590,2023 Wed Jul 5 8:09 AM,Balanced;Loving,Outside;Walking;By myself,broken clouds
+591,2023 Tue Jul 4 6:31 PM,Relaxed;Pensive,Vacation home;Eating;Pets;Family,broken clouds
+592,2023 Tue Jul 4 9:37 AM,Relaxed;Wistful,Vacation home;Hanging out;By myself,clear sky
+593,2023 Mon Jul 3 7:04 PM,Confident;Peaceful,Vacation home;Resting;By myself,scattered clouds
+594,2023 Mon Jul 3 5:33 PM,Annoyed,Commuting;Between places;Strangers,scattered clouds
+595,2023 Mon Jul 3 12:29 PM,Accomplished;At Ease,Outside;Walking;By myself,moderate rain
+596,2023 Mon Jul 3 6:53 AM,Balanced;Pensive,Home;Writing;Waking up;Pets,few clouds
+597,2023 Sun Jul 2 7:59 PM,Relaxed;Longing,Home;Resting;By myself,clear sky
+598,2023 Sun Jul 2 10:46 AM,Upbeat,Outside;Walking;By myself,clear sky
+599,2023 Sun Jul 2 8:12 AM,Disengaged;Meh,Home;Writing;Waking up;Pets;By myself,broken clouds
+600,2023 Sat Jul 1 7:36 PM,Mellow;Lonely,Home;Resting;Pets,overcast clouds
+601,2023 Sat Jul 1 1:00 PM,Melancholic;Loving,Home;Spacied out;By myself,overcast clouds
+602,2023 Sat Jul 1 10:14 AM,Optimistic,At friends;Resting;Pets,overcast clouds
+603,2023 Sat Jul 1 8:15 AM,Grateful;Empathetic,Outside;Walking;By myself,light rain
+604,2023 Fri Jun 30 6:30 PM,Tired,Home;Resting;By myself,broken clouds
+605,2023 Fri Jun 30 4:00 PM,Connected,Work;Hanging out;Co-workers,overcast clouds
+606,2023 Fri Jun 30 1:24 PM,Accomplished;Excited,Home;Resting;Eating;By myself,overcast clouds
+607,2023 Fri Jun 30 6:32 AM,Good,Home;Waking up;Pets,overcast clouds
+608,2023 Thu Jun 29 10:13 PM,Restless;Envious,Home;Resting;By myself,overcast clouds
+609,2023 Thu Jun 29 4:50 PM,Insecure,Home;Resting;By myself,light rain
+610,2023 Thu Jun 29 4:41 PM,Accomplished;Uncertain,At friends;Helping someone;Cleaning;Resting;Pets,light rain
+611,2023 Thu Jun 29 6:32 AM,Thoughtful;Longing,Home;Writing;Waking up;Pets,few clouds
+612,2023 Wed Jun 28 5:45 PM,Empowered;Longing,Home;After dancing;Pets,broken clouds
+613,2023 Wed Jun 28 1:52 PM,Relaxed;Accomplished,At friends;Helping someone;Cleaning;Resting;Pets,few clouds
+614,2023 Wed Jun 28 11:38 AM,Tired,Home;Resting;By myself,few clouds
+615,2023 Wed Jun 28 7:00 AM,Optimistic;Melancholic,Home;Writing;Waking up;Pets,broken clouds
+616,2023 Tue Jun 27 6:51 PM,Balanced;Optimistic,Home;Resting;Pets,broken clouds
+617,2023 Tue Jun 27 4:41 PM,Relaxed;Chill,Home;Resting;By myself,broken clouds
+618,2023 Tue Jun 27 8:30 AM,Thoughtful;Sympathetic,At friends;Home;Helping someone;Cleaning;By myself,few clouds
+619,2023 Tue Jun 27 6:45 AM,Balanced;Meh,Home;Writing;Waking up;Pets,few clouds
+620,2023 Mon Jun 26 8:08 PM,Accomplished;Sympathetic,At friends;Cleaning;Helping someone;By myself,
+621,2023 Mon Jun 26 5:37 PM,Safe;Satisfied,Home;Resting;Friends;By myself,
+622,2023 Mon Jun 26 5:05 PM,Accepted;Relaxed,At friends;Hanging out;Friends,
+623,2023 Mon Jun 26 1:54 PM,Disengaged,Home;Resting;By myself,scattered clouds
+624,2023 Mon Jun 26 11:45 AM,Energized;Challenged,Library;Writing;Friends,clear sky
+625,2023 Mon Jun 26 7:51 AM,Determined;Nostalgic,Home;Writing;Pets,few clouds
+626,2023 Sun Jun 25 6:49 PM,Envious;Excluded,Home;Resting;By myself,overcast clouds
+627,2023 Sun Jun 25 4:35 PM,Sad;Longing,Home;Resting;By myself,overcast clouds
+628,2023 Sun Jun 25 3:08 PM,Lonely;Apathetic,Home;Watching shows;Resting;Pets;By myself,overcast clouds
+629,2023 Sun Jun 25 8:40 AM,Disconnected,Home;Waking up;By myself,overcast clouds
+630,2023 Sun Jun 25 1:48 AM,Happy;Upbeat,At friends;Home;Listening to music;Resting;Hanging out;Family;Friends;By myself,
+631,2023 Sat Jun 24 6:19 PM,Chill,At friends;Listening to music;Hanging out;Eating;Family;Friends,
+632,2023 Sat Jun 24 2:53 PM,Upbeat,Outside;Commuting;Between places;Listening to music;Strangers;By myself,few clouds
+633,2023 Sat Jun 24 2:34 PM,Confident;Melancholic,Commuting;Between places;By myself;Strangers,few clouds
+634,2023 Sat Jun 24 12:41 PM,Chill;Empty,Home;Back from run;By myself,few clouds
+635,2023 Sat Jun 24 11:45 AM,Alive;Joyful,Outside;Running;By myself,few clouds
+636,2023 Sat Jun 24 8:20 AM,Tired;Meh,Home;Waking up;Pets,few clouds
+637,2023 Fri Jun 23 7:11 PM,Nostalgic;Lonely,Home;Watching shows;By myself,
+638,2023 Fri Jun 23 2:20 PM,Tranquil;Lonely,Outside;Listening to music;Hanging out;By myself,overcast clouds
+639,2023 Fri Jun 23 9:35 AM,Alienated;Longing,Home;Waking up;Pets,overcast clouds
+640,2023 Thu Jun 22 6:24 PM,At Ease,Outside;Hanging out;Eating;Co-workers,
+641,2023 Thu Jun 22 11:05 AM,Sympathetic,Home;Back from run;Resting;By myself,scattered clouds
+642,2023 Thu Jun 22 7:57 AM,Proud;Motivated,Home;Writing;Pets,scattered clouds
+643,2023 Wed Jun 21 9:05 PM,Relieved;Accomplished,Home;Resting;Pets,few clouds
+644,2023 Wed Jun 21 1:54 PM,Tired,Home;Resting;By myself,scattered clouds
+645,2023 Wed Jun 21 1:52 PM,Excited;Nervous,Home;Resting;By myself,scattered clouds
+646,2023 Wed Jun 21 7:58 AM,Challenged;Nervous,Home;Writing;Pets,scattered clouds
+647,2023 Tue Jun 20 7:01 PM,Challenged;Determined,Home;Writing;By myself,overcast clouds
+648,2023 Tue Jun 20 3:51 PM,Tired;Longing,Home;Resting;By myself,overcast clouds
+649,2023 Tue Jun 20 12:19 PM,Compassionate;Nervous,,broken clouds
+650,2023 Tue Jun 20 12:15 PM,Focused;Empowered,Home;Writing;By myself,broken clouds
+651,2023 Tue Jun 20 6:46 AM,Thoughtful;Resigned,Home;Waking up;By myself,broken clouds
+652,2023 Tue Jun 20 6:43 AM,Pressured;Insecure,Home;Waking up;By myself,broken clouds
+653,2023 Mon Jun 19 6:31 PM,Balanced,Outside;Hanging out;Pets;Friends,overcast clouds
+654,2023 Mon Jun 19 1:08 PM,Sad;Resigned,Home;Writing;By myself,scattered clouds
+655,2023 Mon Jun 19 10:33 AM,Challenged;Discouraged,Home;Back from run;By myself,scattered clouds
+656,2023 Mon Jun 19 6:00 AM,Excluded;Sad,Home;Waking up;By myself,fog
+657,2023 Sun Jun 18 11:35 PM,Anxious,Home;Resting;By myself,clear sky
+658,2023 Sun Jun 18 7:36 PM,Overwhelmed;Inadequate,Home;Resting;By myself,broken clouds
+659,2023 Sun Jun 18 6:58 PM,Spent;Longing,Home;Resting;By myself,broken clouds
+660,2023 Sun Jun 18 4:45 PM,Fatigued;Ashamed,Work;Resting;By myself,broken clouds
+661,2023 Sun Jun 18 12:45 PM,Vulnerable;Confused,Home;Waking up;Pets,broken clouds
+662,2023 Sat Jun 17 6:35 PM,Balanced;Empowered,Outside;Listening to music;By myself,light rain
+663,2023 Sat Jun 17 10:37 AM,Wishful;Balanced,Home;Back from run;By myself,overcast clouds
+664,2023 Sat Jun 17 6:12 AM,Sad;Longing,Home;Resting;By myself,few clouds
+665,2023 Fri Jun 16 11:26 PM,Valued;Nostalgic,Home;Resting;By myself,overcast clouds
+666,2023 Fri Jun 16 2:36 PM,Joyful,Outside;Listening to music;Friends,broken clouds
+667,2023 Thu Jun 15 7:05 PM,Ecstatic,Outside;Listening to music;Friends,scattered clouds
+668,2023 Thu Jun 15 10:38 AM,Included;Longing,Home;Resting;By myself,
+669,2023 Wed Jun 14 11:27 PM,Satisfied,Outside;Listening to music;Friends,
+670,2023 Wed Jun 14 1:54 PM,Chill,Outside;Listening to music;By myself,
+671,2023 Wed Jun 14 9:51 AM,Empowered;Grateful,Home;Listening to music;By myself,
+672,2023 Wed Jun 14 9:10 AM,Excited;Eager,Home;Back from run;By myself,
+673,2023 Tue Jun 13 7:03 PM,Balanced;Meh,,
+674,2023 Tue Jun 13 6:00 PM,Excited;Glum,Home;Hanging out;Pets,
+675,2023 Tue Jun 13 5:57 PM,Discouraged;Down,Home;Hanging out;Pets,
+676,2023 Tue Jun 13 1:46 PM,Frustrated;Annoyed,Work;Co-workers,
+677,2023 Tue Jun 13 11:33 AM,Tired;Resigned,Home;Hanging out;By myself,
+678,2023 Tue Jun 13 4:41 AM,Regretful;Confused,Home;Waking up;By myself,
+679,2023 Mon Jun 12 8:49 PM,Chill,Home;Resting;Pets,
+680,2023 Mon Jun 12 5:55 PM,Accomplished,Home;Pets,
+681,2023 Mon Jun 12 2:00 PM,Fatigued,Home;Resting;By myself,
+682,2023 Mon Jun 12 12:07 PM,Accomplished;Anxious,Home;Writing;By myself,
+683,2023 Mon Jun 12 7:44 AM,Engaged,Home;Writing;Pets,
+684,2023 Sun Jun 11 6:52 PM,Mellow;Apathetic,Home;Resting;Pets,
+685,2023 Sun Jun 11 3:55 PM,Pleased,Outside;Hanging out;By myself,
+686,2023 Sun Jun 11 1:28 PM,Relaxed;Tired,Home;Hanging out;By myself,
+687,2023 Sun Jun 11 11:15 AM,Desire;Fulfilled,Home;Resting;By myself,
+688,2023 Sun Jun 11 7:52 AM,Optimistic;Balanced,Home;Resting;Pets,clear sky
+689,2023 Sun Jun 11 6:22 AM,Worried;Lonely,Home;Waking up;By myself,
+690,2023 Sat Jun 10 10:34 PM,Fatigued,Home;Resting;Pets,
+691,2023 Sat Jun 10 7:20 PM,Accomplished,Outside;Commuting;Back from run;By myself,
+692,2023 Sat Jun 10 11:47 AM,Challenged,Commuting;Hanging out;By myself,
+693,2023 Sat Jun 10 10:41 AM,Confused;Determined,Home;Hanging out;Pets,
+694,2023 Sat Jun 10 6:09 AM,Nostalgic;Longing,Home;Waking up;Pets,
+695,2023 Fri Jun 9 7:30 PM,Bored;Longing,Home;Resting;By myself,
+696,2023 Fri Jun 9 4:33 PM,Accomplished;Relaxed,Work;Resting;By myself,
+697,2023 Fri Jun 9 11:32 AM,Cheerful,Work;Exams;Co-workers,
+698,2023 Fri Jun 9 6:31 AM,At Ease;Balanced,Home;Waking up;Pets,
+699,2023 Thu Jun 8 8:47 PM,Exhausted,Home;Resting;Pets,
+700,2023 Thu Jun 8 4:45 PM,Curious;Inspired,Outside;Hanging out;Co-workers;Friends,
+701,2023 Thu Jun 8 11:39 AM,Fatigued,Work;Co-workers,
+702,2023 Thu Jun 8 6:10 AM,Meh;Confident,Home;Waking up;Pets,
+703,2023 Wed Jun 7 8:46 PM,Discouraged;Disappointed,Home;Resting;Pets,
+704,2023 Wed Jun 7 6:29 PM,Empowered;Energized,Outside;After dancing,
+705,2023 Wed Jun 7 4:35 PM,Playful;Energized,Outside;By myself,
+706,2023 Wed Jun 7 5:09 AM,Worried,Home;Waking up;By myself,
+707,2023 Wed Jun 7 5:06 AM,Thoughtful;Optimistic,Home;Waking up;Pets,
+708,2023 Tue Jun 6 8:00 PM,Excited;Hopeful,Outside;By myself,
+709,2023 Tue Jun 6 6:31 PM,Satisfied;Tired,Home;Resting;Pets,
+710,2023 Tue Jun 6 7:27 AM,At Ease;Mellow,Home;Back from run;By myself,
+711,2023 Mon Jun 5 8:27 PM,Balanced,Home;Resting;By myself,
+712,2023 Mon Jun 5 8:22 PM,Lonely,Home;Resting;By myself,
+713,2023 Mon Jun 5 8:17 PM,Thoughtful;Pensive,Home;Resting;By myself,
