@@ -1,0 +1,1022 @@
+Date,Unnamed: 0,Mood,Tags,Weather,Moods,EmotionCat,DateTime,Weekday,Time
+2024-04-23,0,Amused,Outside;Co-workers;Hanging out,scattered clouds,Amused,"High Energy, Positive",2024-04-23 12:55:00,1,12:55:00
+2024-04-22,1,Chill,Resting;By myself;Vacation home;Watching shows,broken clouds,Chill,"Low Energy, Positive",2024-04-22 21:20:00,0,21:20:00
+2024-04-22,2,Tired,Co-workers;Networking;Work,broken clouds,Tired,"Low Energy, Negative",2024-04-22 15:56:00,0,15:56:00
+2024-04-21,3,Good,Resting;Vacation home;By myself,few clouds,Good,"Low Energy, Positive",2024-04-21 21:38:00,6,21:38:00
+2024-04-21,4,Enthusiastic,Commuting;Strangers;Between places,overcast clouds,Enthusiastic,"High Energy, Positive",2024-04-21 17:03:00,6,17:03:00
+2024-04-21,5,Excited,Home;Planning life;Pets,broken clouds,Excited,"High Energy, Positive",2024-04-21 08:22:00,6,08:22:00
+2024-04-20,6,Excited,Resting;Home;Pets,clear sky,Excited,"High Energy, Positive",2024-04-20 22:33:00,5,22:33:00
+2024-04-20,7,Productive,By myself;Home,broken clouds,Productive,"High Energy, Positive",2024-04-20 14:45:00,5,14:45:00
+2024-04-20,8,Thoughtful,Walking;Pets;Outside,broken clouds,Thoughtful,"Low Energy, Positive",2024-04-20 07:07:00,5,07:07:00
+2024-04-19,9,Apathetic,Watching shows;By myself;Home;Resting,overcast clouds,Apathetic,"Low Energy, Negative",2024-04-19 21:25:00,4,21:25:00
+2024-04-19,10,Lonely,Resting;Home;By myself,broken clouds,Lonely,"Low Energy, Negative",2024-04-19 03:00:00,4,03:00:00
+2024-04-18,11,Lost,Resting;Home;By myself,overcast clouds,Lost,"Low Energy, Negative",2024-04-18 13:31:00,3,13:31:00
+2024-04-17,12,At Ease,By myself;Resting;Home,overcast clouds,At Ease,"Low Energy, Positive",2024-04-17 16:06:00,2,16:06:00
+2024-04-17,13,Eager,Co-workers;Networking;Outside,broken clouds,Eager,"High Energy, Positive",2024-04-17 09:42:00,2,09:42:00
+2024-04-16,14,Chill,Home;Resting;By myself,few clouds,Chill,"Low Energy, Positive",2024-04-16 14:14:00,1,14:14:00
+2024-04-15,15,Valued,Networking;Co-workers;Work,overcast clouds,Valued,"High Energy, Positive",2024-04-15 14:40:00,0,14:40:00
+2024-04-14,16,Balanced,Resting;Home;Pets,clear sky,Balanced,"Low Energy, Positive",2024-04-14 19:57:00,6,19:57:00
+2024-04-13,17,Empathetic,Hanging out;Home;Family,overcast clouds,Empathetic,"Low Energy, Positive",2024-04-13 14:00:00,5,14:00:00
+2024-04-13,18,Empowered,By myself;Running;Outside;Listening to music,broken clouds,Empowered,"High Energy, Positive",2024-04-13 09:15:00,5,09:15:00
+2024-04-13,19,Frustrated,Waking up;By myself;Home,broken clouds,Frustrated,"High Energy, Negative",2024-04-13 06:36:00,5,06:36:00
+2024-04-12,20,Comfortable,Home;Pets;Resting,broken clouds,Comfortable,"Low Energy, Positive",2024-04-12 19:57:00,4,19:57:00
+2024-04-11,21,Excited,Home;Friends;Networking,broken clouds,Excited,"High Energy, Positive",2024-04-11 11:25:00,3,11:25:00
+2024-04-11,22,Disgusted,Home;Back from run;By myself,broken clouds,Disgusted,"Low Energy, Negative",2024-04-11 08:45:00,3,08:45:00
+2024-04-10,23,Challenged,Planning life;Work;Co-workers,clear sky,Challenged,"High Energy, Negative",2024-04-10 20:44:00,2,20:44:00
+2024-04-09,24,Relieved,Networking;Work;Co-workers,scattered clouds,Relieved,"Low Energy, Positive",2024-04-09 13:25:00,1,13:25:00
+2024-04-09,25,Anxious,Home;Waking up;Pets,mist,Anxious,"High Energy, Negative",2024-04-09 05:52:00,1,05:52:00
+2024-04-08,26,Productive,Writing;Home;By myself,scattered clouds,Productive,"High Energy, Positive",2024-04-08 14:29:00,0,14:29:00
+2024-04-07,27,Comfortable,Home;Resting;By myself,scattered clouds,Comfortable,"Low Energy, Positive",2024-04-07 21:11:00,6,21:11:00
+2024-04-06,28,Content,Family;Hanging out;Outside,overcast clouds,Content,"Low Energy, Positive",2024-04-06 18:31:00,5,18:31:00
+2024-04-05,29,At Ease,Networking;Strangers;Work,overcast clouds,At Ease,"Low Energy, Positive",2024-04-05 15:30:00,4,15:30:00
+2024-04-04,30,Frustrated,By myself;Home,overcast clouds,Frustrated,"High Energy, Negative",2024-04-04 13:31:00,3,13:31:00
+2024-04-03,31,Lost,By myself;Home;Watching shows,overcast clouds,Lost,"Low Energy, Negative",2024-04-03 19:21:00,2,19:21:00
+2024-04-02,32,Optimistic,Home;Planning life;By myself,drizzle,Optimistic,"High Energy, Positive",2024-04-02 06:33:00,1,06:33:00
+2024-04-02,33,Tired,Home;Waking up;Pets,drizzle,Tired,"Low Energy, Negative",2024-04-02 05:40:00,1,05:40:00
+2024-04-01,34,Lost,Walking;Between places;By myself;Commuting,fog,Lost,"Low Energy, Negative",2024-04-01 13:31:00,0,13:31:00
+2024-04-01,35,Longing,By myself;Waking up;Walking;Home;Outside,fog,Longing,"Low Energy, Negative",2024-04-01 09:01:00,0,09:01:00
+2024-03-31,36,Longing,Pets;Outside;Walking,overcast clouds,Longing,"Low Energy, Negative",2024-03-31 20:26:00,6,20:26:00
+2024-03-31,37,Pensive,Home;Pets;Waking up,overcast clouds,Pensive,"Low Energy, Positive",2024-03-31 07:16:00,6,07:16:00
+2024-03-30,38,Disengaged,By myself;Resting;Home,few clouds,Disengaged,"Low Energy, Negative",2024-03-30 20:53:00,5,20:53:00
+2024-03-30,39,Vulnerable,By myself;Home;Resting;Watching shows,few clouds,Vulnerable,"Low Energy, Negative",2024-03-30 19:03:00,5,19:03:00
+2024-03-29,40,Excited,Drinking ;Bar ;Hanging out;Friends;Listening to music,light intensity drizzle,Excited,"High Energy, Positive",2024-03-29 16:53:00,4,16:53:00
+2024-03-28,41,Motivated,By myself;Learning ;Home;Strangers,overcast clouds,Motivated,"High Energy, Positive",2024-03-28 07:48:00,3,07:48:00
+2024-03-27,42,Balanced,By myself;Watching shows;Home,overcast clouds,Balanced,"Low Energy, Positive",2024-03-27 18:45:00,2,18:45:00
+2024-03-26,43,Chill,Home;Learning ;By myself,overcast clouds,Chill,"Low Energy, Positive",2024-03-26 18:41:00,1,18:41:00
+2024-03-25,44,Appreciated,Family;Home;Helping someone,overcast clouds,Appreciated,"High Energy, Positive",2024-03-25 15:29:00,0,15:29:00
+2024-03-24,45,Optimistic,Running;Listening to music;By myself;Outside,overcast clouds,Optimistic,"High Energy, Positive",2024-03-24 11:08:00,6,11:08:00
+2024-03-24,46,Lost,Waking up;By myself;Home,overcast clouds,Lost,"Low Energy, Negative",2024-03-24 06:05:00,6,06:05:00
+2024-03-23,47,Insecure,Resting;By myself;Home,broken clouds,Insecure,"Low Energy, Negative",2024-03-23 10:55:00,5,10:55:00
+2024-03-22,48,Apathetic,Watching shows;By myself;Home,broken clouds,Apathetic,"Low Energy, Negative",2024-03-22 16:21:00,4,16:21:00
+2024-03-21,49,Relaxed,Home;Watching shows;By myself,broken clouds,Relaxed,"Low Energy, Positive",2024-03-21 18:18:00,3,18:18:00
+2024-03-21,50,Disappointed,Home;Learning ;Co-workers,broken clouds,Disappointed,"Low Energy, Negative",2024-03-21 13:05:00,3,13:05:00
+2024-03-21,51,Overwhelmed,Home;Waking up;By myself,broken clouds,Overwhelmed,"High Energy, Negative",2024-03-21 07:15:00,3,07:15:00
+2024-03-20,52,Disengaged,Watching shows;Home;By myself,broken clouds,Disengaged,"Low Energy, Negative",2024-03-20 18:30:00,2,18:30:00
+2024-03-19,53,Chill,Home;By myself;Watching shows;Resting,overcast clouds,Chill,"Low Energy, Positive",2024-03-19 16:25:00,1,16:25:00
+2024-03-18,54,Balanced,Planning life;Co-workers;Work;Hanging out,broken clouds,Balanced,"Low Energy, Positive",2024-03-18 13:32:00,0,13:32:00
+2024-03-17,55,Balanced,By myself;Home;Resting,few clouds,Balanced,"Low Energy, Positive",2024-03-17 13:31:00,6,13:31:00
+2024-03-16,56,Relaxed,Home;Watching shows;By myself,few clouds,Relaxed,"Low Energy, Positive",2024-03-16 15:30:00,5,15:30:00
+2024-03-15,57,Thoughtful,Hanging out;Outside;Bar ;By myself,light rain,Thoughtful,"Low Energy, Positive",2024-03-15 14:57:00,4,14:57:00
+2024-03-14,58,Exhilarated,By myself;Planning life;Learning ;Home,mist,Exhilarated,"High Energy, Positive",2024-03-14 08:59:00,3,08:59:00
+2024-03-13,59,Compassionate,Helping someone;At friends;Family,overcast clouds,Compassionate,"Low Energy, Positive",2024-03-13 15:45:00,2,15:45:00
+2024-03-12,60,Annoyed,Planning life;By myself;Home,fog,Annoyed,"High Energy, Negative",2024-03-12 23:09:00,1,23:09:00
+2024-03-11,61,Motivated,Learning ;Home;By myself,fog,Motivated,"High Energy, Positive",2024-03-11 12:10:00,0,12:10:00
+2024-03-10,62,Chill,Home;Resting;Pets,overcast clouds,Chill,"Low Energy, Positive",2024-03-10 12:00:00,6,12:00:00
+2024-03-09,63,Energized,Home;Resting;By myself,overcast clouds,Energized,"High Energy, Positive",2024-03-09 13:30:00,5,13:30:00
+2024-03-09,64,Fatigued,Home;Pets;By myself;Spacied out;Waking up,overcast clouds,Fatigued,"Low Energy, Negative",2024-03-09 08:05:00,5,08:05:00
+2024-03-08,65,Optimistic,After swimming;Outside;By myself,fog,Optimistic,"High Energy, Positive",2024-03-08 09:14:00,4,09:14:00
+2024-03-08,66,Appreciated,Helping someone;Outside;Family,fog,Appreciated,"High Energy, Positive",2024-03-08 09:11:00,4,09:11:00
+2024-03-07,67,Compassionate,At friends;Helping someone;Family,clear sky,Compassionate,"Low Energy, Positive",2024-03-07 19:42:00,3,19:42:00
+2024-03-06,68,Curious,Networking;Strangers;Bar ,overcast clouds,Curious,"High Energy, Positive",2024-03-06 17:08:00,2,17:08:00
+2024-03-06,69,Disengaged,By myself;Home;Resting,overcast clouds,Disengaged,"Low Energy, Negative",2024-03-06 10:54:00,2,10:54:00
+2024-03-05,70,Thoughtful,Home;By myself;Planning life;Watching shows,light rain,Thoughtful,"Low Energy, Positive",2024-03-05 18:18:00,1,18:18:00
+2024-03-05,71,Alive,Outside;By myself;Running;Listening to music,broken clouds,Alive,"High Energy, Positive",2024-03-05 07:14:00,1,07:14:00
+2024-03-05,72,Engaged,Writing;Home;Learning ;By myself,broken clouds,Engaged,"High Energy, Positive",2024-03-05 06:38:00,1,06:38:00
+2024-03-04,73,Upbeat,Friends;Hanging out;After swimming;At friends,clear sky,Upbeat,"High Energy, Positive",2024-03-04 12:22:00,0,12:22:00
+2024-03-03,74,Longing,Home;By myself;Resting,few clouds,Longing,"Low Energy, Negative",2024-03-03 16:43:00,6,16:43:00
+2024-03-03,75,Meh,By myself;Home;Resting,few clouds,Meh,"Low Energy, Negative",2024-03-03 16:41:00,6,16:41:00
+2024-03-02,76,Thoughtful,Outside;By myself;Walking,fog,Thoughtful,"Low Energy, Positive",2024-03-02 13:33:00,5,13:33:00
+2024-03-01,77,Thoughtful,By myself;Resting;Home,fog,Thoughtful,"Low Energy, Positive",2024-03-01 15:59:00,4,15:59:00
+2024-03-01,78,Sad,Waking up;Home;Pets,overcast clouds,Sad,"Low Energy, Negative",2024-03-01 05:52:00,4,05:52:00
+2024-02-29,79,Successful,At friends;Writing;Friends;Networking,overcast clouds,Successful,"High Energy, Positive",2024-02-29 16:58:00,3,16:58:00
+2024-02-29,80,Engaged,By myself;Home;Writing,overcast clouds,Engaged,"High Energy, Positive",2024-02-29 14:47:00,3,14:47:00
+2024-02-28,81,Tired,Home;Planning life;By myself,overcast clouds,Tired,"Low Energy, Negative",2024-02-28 06:51:00,2,06:51:00
+2024-02-27,82,Enthusiastic,Back from run;By myself;Home,mist,Enthusiastic,"High Energy, Positive",2024-02-27 07:30:00,1,07:30:00
+2024-02-26,83,Accomplished,Co-workers;Home;Learning ;By myself,overcast clouds,Accomplished,"High Energy, Positive",2024-02-26 15:21:00,0,15:21:00
+2024-02-26,84,Curious,Home;By myself;Planning life,mist,Curious,"High Energy, Positive",2024-02-26 06:15:00,0,06:15:00
+2024-02-25,85,Balanced,Pets;Outside;Walking,broken clouds,Balanced,"Low Energy, Positive",2024-02-25 07:24:00,6,07:24:00
+2024-02-24,86,Lonely,By myself;Watching shows;Home,scattered clouds,Lonely,"Low Energy, Negative",2024-02-24 18:32:00,5,18:32:00
+2024-02-24,87,Comfortable,Writing;Pets;Waking up;Home,overcast clouds,Comfortable,"Low Energy, Positive",2024-02-24 06:28:00,5,06:28:00
+2024-02-23,88,Joyful,Drinking ;Co-workers;Hanging out;Bar ,overcast clouds,Joyful,"High Energy, Positive",2024-02-23 16:25:00,4,16:25:00
+2024-02-23,89,Inspired,Outside;Networking;Strangers;Hanging out,overcast clouds,Inspired,"High Energy, Positive",2024-02-23 13:30:00,4,13:30:00
+2024-02-22,90,Meh,Home;Resting;By myself,overcast clouds,Meh,"Low Energy, Negative",2024-02-22 18:42:00,3,18:42:00
+2024-02-21,91,Curious,Strangers;School;Networking;Learning ,overcast clouds,Curious,"High Energy, Positive",2024-02-21 18:08:00,2,18:08:00
+2024-02-21,92,Enthusiastic,Work;Planning teaching;Co-workers,overcast clouds,Enthusiastic,"High Energy, Positive",2024-02-21 16:44:00,2,16:44:00
+2024-02-20,93,Determined,Walking;Pets;Outside,broken clouds,Determined,"High Energy, Positive",2024-02-20 06:10:00,1,06:10:00
+2024-02-19,94,Tired,Pets;Resting;Home,overcast clouds,Tired,"Low Energy, Negative",2024-02-19 20:31:00,0,20:31:00
+2024-02-19,95,Content,Library;Hanging out;Walking;Outside;By myself;Strangers,overcast clouds,Content,"Low Energy, Positive",2024-02-19 12:15:00,0,12:15:00
+2024-02-18,96,At Ease,By myself;Resting;Home,light rain,At Ease,"Low Energy, Positive",2024-02-18 21:33:00,6,21:33:00
+2024-02-18,97,Determined,Walking;By myself;Waking up;Outside;Pets,broken clouds,Determined,"High Energy, Positive",2024-02-18 06:39:00,6,06:39:00
+2024-02-17,98,Sad,Outside;Pets;Walking;By myself;Home;Resting;Watching shows,clear sky,Sad,"Low Energy, Negative",2024-02-17 16:30:00,5,16:30:00
+2024-02-17,99,Helpless,Home;By myself;Resting,clear sky,Helpless,"Low Energy, Negative",2024-02-17 15:30:00,5,15:30:00
+2024-02-17,100,Nostalgic,Waking up;Pets;Walking;Outside,light intensity drizzle,Nostalgic,"Low Energy, Negative",2024-02-17 06:31:00,5,06:31:00
+2024-02-16,101,Joyful,Work;Hanging out;Co-workers,light intensity drizzle,Joyful,"High Energy, Positive",2024-02-16 15:35:00,4,15:35:00
+2024-02-15,102,Chill,Resting;By myself;Home,fog,Chill,"Low Energy, Positive",2024-02-15 18:49:00,3,18:49:00
+2024-02-14,103,Tranquil,Home;Reading;By myself,overcast clouds,Tranquil,"Low Energy, Positive",2024-02-14 15:15:00,2,15:15:00
+2024-02-14,104,Melancholic,Home;By myself;Between places,mist,Melancholic,"Low Energy, Negative",2024-02-14 07:55:00,2,07:55:00
+2024-02-14,105,Lost,By myself;Home;Waking up,mist,Lost,"Low Energy, Negative",2024-02-14 07:37:00,2,07:37:00
+2024-02-13,106,Pensive,By myself;Resting;Home,mist,Pensive,"Low Energy, Positive",2024-02-13 15:35:00,1,15:35:00
+2024-02-12,107,At Ease,Outside;After swimming;By myself;Walking,light rain,At Ease,"Low Energy, Positive",2024-02-12 09:35:00,0,09:35:00
+2024-02-11,108,Thoughtful,Outside;By myself;Running,overcast clouds,Thoughtful,"Low Energy, Positive",2024-02-11 10:05:00,6,10:05:00
+2024-02-11,109,Motivated,Home;Planning life;By myself,overcast clouds,Motivated,"High Energy, Positive",2024-02-11 08:50:00,6,08:50:00
+2024-02-11,110,At Ease,Home;By myself;Planning life,overcast clouds,At Ease,"Low Energy, Positive",2024-02-11 08:49:00,6,08:49:00
+2024-02-10,111,Worried,By myself;Home;Resting,overcast clouds,Worried,"High Energy, Negative",2024-02-10 19:48:00,5,19:48:00
+2024-02-10,112,Accomplished,Home;Resting;By myself,overcast clouds,Accomplished,"High Energy, Positive",2024-02-10 19:47:00,5,19:47:00
+2024-02-10,113,Determined,Home;By myself;Waking up,overcast clouds,Determined,"High Energy, Positive",2024-02-10 09:04:00,5,09:04:00
+2024-02-09,114,Pensive,Writing;By myself;Home,broken clouds,Pensive,"Low Energy, Positive",2024-02-09 07:52:00,4,07:52:00
+2024-02-08,115,Tired,Home;Resting;By myself,broken clouds,Tired,"Low Energy, Negative",2024-02-08 18:00:00,3,18:00:00
+2024-02-07,116,Lonely,By myself;Home;Resting,clear sky,Lonely,"Low Energy, Negative",2024-02-07 19:34:00,2,19:34:00
+2024-02-06,117,Productive,Home;Learning ;Pets;By myself,clear sky,Productive,"High Energy, Positive",2024-02-06 11:35:00,1,11:35:00
+2024-02-05,118,Accomplished,School;Back from run;Strangers,overcast clouds,Accomplished,"High Energy, Positive",2024-02-05 07:06:00,0,07:06:00
+2024-02-04,119,Annoyed,Walking;By myself;Outside;Checking social media ,scattered clouds,Annoyed,"High Energy, Negative",2024-02-04 08:01:00,6,08:01:00
+2024-02-03,120,Productive,By myself;Writing;Home,few clouds,Productive,"High Energy, Positive",2024-02-03 13:05:00,5,13:05:00
+2024-02-02,121,At Ease,Outside;Walking;Pets,broken clouds,At Ease,"Low Energy, Positive",2024-02-02 06:32:00,4,06:32:00
+2024-02-01,122,Empowered,Home;By myself;Listening to music;Running,overcast clouds,Empowered,"High Energy, Positive",2024-02-01 08:18:00,3,08:18:00
+2024-01-31,123,Meh,Home;By myself;Writing;Resting,broken clouds,Meh,"Low Energy, Negative",2024-01-31 13:55:00,2,13:55:00
+2024-01-31,124,Wistful,Home;Pets;Planning life,broken clouds,Wistful,"Low Energy, Negative",2024-01-31 06:31:00,2,06:31:00
+2024-01-30,125,Excited,Pets;Outside;Walking,fog,Excited,"High Energy, Positive",2024-01-30 05:56:00,1,05:56:00
+2024-01-29,126,Accomplished,Networking;Co-workers;Work,overcast clouds,Accomplished,"High Energy, Positive",2024-01-29 16:14:00,0,16:14:00
+2024-01-29,127,Annoyed,By myself;Writing;Waking up;Checking social media ;Home,overcast clouds,Annoyed,"High Energy, Negative",2024-01-29 06:44:00,0,06:44:00
+2024-01-28,128,Confident,Back from run;Outside;By myself,overcast clouds,Confident,"High Energy, Positive",2024-01-28 09:00:00,6,09:00:00
+2024-01-28,129,Accomplished,Waking up;Pets;Walking;Outside;Writing,broken clouds,Accomplished,"High Energy, Positive",2024-01-28 06:45:00,6,06:45:00
+2024-01-27,130,Calm,Writing;Planning life;Pets;Home,few clouds,Calm,"Low Energy, Positive",2024-01-27 07:34:00,5,07:34:00
+2024-01-26,131,Longing,Resting;By myself;Home,light rain,Longing,"Low Energy, Negative",2024-01-26 14:17:00,4,14:17:00
+2024-01-26,132,Cheerful,Outside;Walking;After swimming;By myself,mist,Cheerful,"High Energy, Positive",2024-01-26 09:45:00,4,09:45:00
+2024-01-25,133,Accomplished,Networking;Co-workers;Work;Helping someone,clear sky,Accomplished,"High Energy, Positive",2024-01-25 19:24:00,3,19:24:00
+2024-01-25,134,Challenged,Home;Writing;Pets,scattered clouds,Challenged,"High Energy, Negative",2024-01-25 06:32:00,3,06:32:00
+2024-01-25,135,Overwhelmed,Writing;Home;Pets,scattered clouds,Overwhelmed,"High Energy, Negative",2024-01-25 06:31:00,3,06:31:00
+2024-01-24,136,Thoughtful,After swimming;Home;By myself,overcast clouds,Thoughtful,"Low Energy, Positive",2024-01-24 09:56:00,2,09:56:00
+2024-01-23,137,Sad,By myself;Resting;Home,broken clouds,Sad,"Low Energy, Negative",2024-01-23 13:06:00,1,13:06:00
+2024-01-23,138,Annoyed,Pets;Home;Writing,broken clouds,Annoyed,"High Energy, Negative",2024-01-23 07:13:00,1,07:13:00
+2024-01-22,139,Joyful,Learning ;Pets;Home,overcast clouds,Joyful,"High Energy, Positive",2024-01-22 06:47:00,0,06:47:00
+2024-01-21,140,Chill,Writing;Pets;Home,overcast clouds,Chill,"Low Energy, Positive",2024-01-21 08:03:00,6,08:03:00
+2024-01-20,141,Chill,Reading;Vacation home;Pets;Writing;Resting,light rain,Chill,"Low Energy, Positive",2024-01-20 12:34:00,5,12:34:00
+2024-01-19,142,Relieved,Waking up;Metabolic chamber ;Strangers,broken clouds,Relieved,"Low Energy, Positive",2024-01-19 08:30:00,4,08:30:00
+2024-01-19,143,Frustrated,Metabolic chamber ;Waking up;By myself,broken clouds,Frustrated,"High Energy, Negative",2024-01-19 06:50:00,4,06:50:00
+2024-01-18,144,Fatigued,Resting;By myself;Metabolic chamber ,clear sky,Fatigued,"Low Energy, Negative",2024-01-18 17:05:00,3,17:05:00
+2024-01-18,145,Insecure,By myself;Waking up;Metabolic chamber ,clear sky,Insecure,"Low Energy, Negative",2024-01-18 06:39:00,3,06:39:00
+2024-01-17,146,Excited,Home;By myself;Planning life,broken clouds,Excited,"High Energy, Positive",2024-01-17 18:07:00,2,18:07:00
+2024-01-17,147,Tense,Commuting;By myself;Driving,broken clouds,Tense,"High Energy, Negative",2024-01-17 10:05:00,2,10:05:00
+2024-01-16,148,Accomplished,By myself;Vacation home;Writing;Back from run,overcast clouds,Accomplished,"High Energy, Positive",2024-01-16 17:27:00,1,17:27:00
+2024-01-16,149,Thoughtful,By myself;Vacation home;Writing;Planning life,overcast clouds,Thoughtful,"Low Energy, Positive",2024-01-16 17:25:00,1,17:25:00
+2024-01-15,150,Accomplished,Resting;Vacation home;Pets,broken clouds,Accomplished,"High Energy, Positive",2024-01-15 19:19:00,0,19:19:00
+2024-01-15,151,Productive,Writing;By myself;Vacation home,overcast clouds,Productive,"High Energy, Positive",2024-01-15 07:15:00,0,07:15:00
+2024-01-14,152,Relaxed,Vacation home;Resting;By myself,overcast clouds,Relaxed,"Low Energy, Positive",2024-01-14 18:31:00,6,18:31:00
+2024-01-14,153,Thoughtful,Vacation home;Writing;By myself;Waking up,few clouds,Thoughtful,"Low Energy, Positive",2024-01-14 06:30:00,6,06:30:00
+2024-01-13,154,Motivated,By myself;Cleaning;Home,few clouds,Motivated,"High Energy, Positive",2024-01-13 12:30:00,5,12:30:00
+2024-01-12,155,Optimistic,By myself;Home;Planning life;Writing,broken clouds,Optimistic,"High Energy, Positive",2024-01-12 13:32:00,4,13:32:00
+2024-01-11,156,Excited,Networking;Co-workers;Work,broken clouds,Excited,"High Energy, Positive",2024-01-11 18:33:00,3,18:33:00
+2024-01-10,157,Joyful,Hanging out;Writing;Library;Friends;Outside,broken clouds,Joyful,"High Energy, Positive",2024-01-10 15:30:00,2,15:30:00
+2024-01-10,158,Thoughtful,Planning life;Home;Pets;Writing,overcast clouds,Thoughtful,"Low Energy, Positive",2024-01-10 06:31:00,2,06:31:00
+2024-01-09,159,Accomplished,Co-workers;Work;Exams,overcast clouds,Accomplished,"High Energy, Positive",2024-01-09 14:21:00,1,14:21:00
+2024-01-08,160,Engaged,Family;Home;By myself;Planning life,overcast clouds,Engaged,"High Energy, Positive",2024-01-08 20:30:00,0,20:30:00
+2024-01-07,161,Chill,By myself;Resting;Home,overcast clouds,Chill,"Low Energy, Positive",2024-01-07 18:25:00,6,18:25:00
+2024-01-06,162,Productive,Writing;By myself;Helping someone;Home,broken clouds,Productive,"High Energy, Positive",2024-01-06 15:50:00,5,15:50:00
+2024-01-05,163,Chill,By myself;Watching shows;Home,broken clouds,Chill,"Low Energy, Positive",2024-01-05 18:17:00,4,18:17:00
+2024-01-04,164,Fulfilled,Resting;Home;By myself,overcast clouds,Fulfilled,"High Energy, Positive",2024-01-04 18:54:00,3,18:54:00
+2024-01-03,165,Accomplished,By myself;Back from run;Home;After teaching ,light snow,Accomplished,"High Energy, Positive",2024-01-03 08:29:00,2,08:29:00
+2024-01-03,166,Relaxed,Waking up;By myself;Work,light snow,Relaxed,"Low Energy, Positive",2024-01-03 04:31:00,2,04:31:00
+2024-01-02,167,Tired,By myself;Home;Resting,light snow,Tired,"Low Energy, Negative",2024-01-02 18:30:00,1,18:30:00
+2024-01-01,168,Lost,Home;Pets;Resting,light intensity shower rain,Lost,"Low Energy, Negative",2024-01-01 19:08:00,0,19:08:00
+2024-01-01,169,Fatigued,Resting;Pets;Home,overcast clouds,Fatigued,"Low Energy, Negative",2024-01-01 17:31:00,0,17:31:00
+2023-12-31,170,Excited,Hanging out;Friends;Outside,overcast clouds,Excited,"High Energy, Positive",2023-12-31 16:30:00,6,16:30:00
+2023-12-30,171,Pensive,By myself;Resting;Home,overcast clouds,Pensive,"Low Energy, Positive",2023-12-30 19:49:00,5,19:49:00
+2023-12-30,172,Balanced,Home;Pets;Resting,light rain,Balanced,"Low Energy, Positive",2023-12-30 16:43:00,5,16:43:00
+2023-12-29,173,Optimistic,Home;Planning life;By myself,light rain,Optimistic,"High Energy, Positive",2023-12-29 09:58:00,4,09:58:00
+2023-12-28,174,Disappointed,Strangers;Outside;Hanging out,light rain,Disappointed,"Low Energy, Negative",2023-12-28 16:55:00,3,16:55:00
+2023-12-27,175,Longing,Home;Waking up;Pets,few clouds,Longing,"Low Energy, Negative",2023-12-27 08:35:00,2,08:35:00
+2023-12-26,176,Chill,Watching shows;Home;Resting;By myself,few clouds,Chill,"Low Energy, Positive",2023-12-26 18:30:00,1,18:30:00
+2023-12-26,177,Enthusiastic,Back from run;Home;Pets,broken clouds,Enthusiastic,"High Energy, Positive",2023-12-26 10:06:00,1,10:06:00
+2023-12-25,178,Insecure,Hanging out;Home;Family,clear sky,Insecure,"Low Energy, Negative",2023-12-25 18:10:00,0,18:10:00
+2023-12-24,179,Chill,At friends;Hanging out;Family,light rain,Chill,"Low Energy, Positive",2023-12-24 18:10:00,6,18:10:00
+2023-12-23,180,Accomplished,Home;Eating;By myself,broken clouds,Accomplished,"High Energy, Positive",2023-12-23 14:55:00,5,14:55:00
+2023-12-22,181,Challenged,By myself;Hanging out;Outside,scattered clouds,Challenged,"High Energy, Negative",2023-12-22 13:30:00,4,13:30:00
+2023-12-21,182,Optimistic,Planning life;Home;By myself,light rain,Optimistic,"High Energy, Positive",2023-12-21 07:28:00,3,07:28:00
+2023-12-20,183,Empty,Home;By myself;Writing,broken clouds,Empty,"Low Energy, Negative",2023-12-20 06:31:00,2,06:31:00
+2023-12-20,184,Lost,Writing;Home;By myself,broken clouds,Lost,"Low Energy, Negative",2023-12-20 06:31:00,2,06:31:00
+2023-12-19,185,Disengaged,By myself;Watching shows;Home;Pets;Resting,overcast clouds,Disengaged,"Low Energy, Negative",2023-12-19 17:05:00,1,17:05:00
+2023-12-18,186,Grateful,By myself;Home;Resting,light rain,Grateful,"Low Energy, Positive",2023-12-18 16:44:00,0,16:44:00
+2023-12-17,187,Nostalgic,By myself;Outside;Walking,overcast clouds,Nostalgic,"Low Energy, Negative",2023-12-17 15:19:00,6,15:19:00
+2023-12-17,188,Tired,Home;By myself;Resting,overcast clouds,Tired,"Low Energy, Negative",2023-12-17 15:14:00,6,15:14:00
+2023-12-16,189,Thoughtful,Walking;Pets;Outside,broken clouds,Thoughtful,"Low Energy, Positive",2023-12-16 06:45:00,5,06:45:00
+2023-12-15,190,Chill,Home;Resting;By myself,broken clouds,Chill,"Low Energy, Positive",2023-12-15 20:15:00,4,20:15:00
+2023-12-14,191,Nostalgic,Resting;By myself;Home,overcast clouds,Nostalgic,"Low Energy, Negative",2023-12-14 18:38:00,3,18:38:00
+2023-12-14,192,Optimistic,By myself;Writing;Home,broken clouds,Optimistic,"High Energy, Positive",2023-12-14 06:38:00,3,06:38:00
+2023-12-13,193,Understood,Networking;Strangers;Bar ;Hanging out;Drinking ,broken clouds,Understood,"High Energy, Positive",2023-12-13 14:40:00,2,14:40:00
+2023-12-12,194,Appreciated,Co-workers;Networking;Work,overcast clouds,Appreciated,"High Energy, Positive",2023-12-12 14:23:00,1,14:23:00
+2023-12-11,195,Enthusiastic,Home;By myself;Writing;Learning ,light rain,Enthusiastic,"High Energy, Positive",2023-12-11 06:31:00,0,06:31:00
+2023-12-10,196,Fulfilled,Home;By myself;Resting,light intensity drizzle,Fulfilled,"High Energy, Positive",2023-12-10 21:42:00,6,21:42:00
+2023-12-10,197,Optimistic,Outside;Pets;Walking,overcast clouds,Optimistic,"High Energy, Positive",2023-12-10 15:38:00,6,15:38:00
+2023-12-10,198,Compassionate,Walking;Outside;Pets,overcast clouds,Compassionate,"Low Energy, Positive",2023-12-10 15:37:00,6,15:37:00
+2023-12-09,199,Curious,Commuting;Between places;Strangers,light intensity drizzle,Curious,"High Energy, Positive",2023-12-09 17:25:00,5,17:25:00
+2023-12-08,200,Chill,Resting;By myself;Home,overcast clouds,Chill,"Low Energy, Positive",2023-12-08 14:17:00,4,14:17:00
+2023-12-07,201,Longing,Resting;Home;By myself,overcast clouds,Longing,"Low Energy, Negative",2023-12-07 17:29:00,3,17:29:00
+2023-12-07,202,Tired,Pets;Writing;Home,overcast clouds,Tired,"Low Energy, Negative",2023-12-07 06:31:00,3,06:31:00
+2023-12-06,203,Thoughtful,Home;Planning life;By myself,light snow,Thoughtful,"Low Energy, Positive",2023-12-06 08:01:00,2,08:01:00
+2023-12-05,204,Optimistic,,broken clouds,Optimistic,"High Energy, Positive",2023-12-05 21:35:00,1,21:35:00
+2023-12-05,205,Inspired,Outside;Learning ;Co-workers;Strangers,light snow,Inspired,"High Energy, Positive",2023-12-05 21:25:00,1,21:25:00
+2023-12-04,206,Accomplished,Outside;After teaching ;Strangers,broken clouds,Accomplished,"High Energy, Positive",2023-12-04 21:10:00,0,21:10:00
+2023-12-03,207,Chill,Home;Watching shows;By myself,overcast clouds,Chill,"Low Energy, Positive",2023-12-03 15:54:00,6,15:54:00
+2023-12-03,208,Empowered,Outside;Running;By myself,broken clouds,Empowered,"High Energy, Positive",2023-12-03 09:25:00,6,09:25:00
+2023-12-03,209,Optimistic,Outside;Running;By myself,broken clouds,Optimistic,"High Energy, Positive",2023-12-03 09:24:00,6,09:24:00
+2023-12-02,210,Lonely,Home;Resting;Watching shows;By myself,broken clouds,Lonely,"Low Energy, Negative",2023-12-02 18:27:00,5,18:27:00
+2023-12-01,211,Optimistic,Home;Networking;Strangers,broken clouds,Optimistic,"High Energy, Positive",2023-12-01 13:43:00,4,13:43:00
+2023-11-30,212,Pensive,Home;Writing;Friends,shower snow,Pensive,"Low Energy, Positive",2023-11-30 06:37:00,3,06:37:00
+2023-11-29,213,Longing,Home;Resting;By myself,broken clouds,Longing,"Low Energy, Negative",2023-11-29 19:16:00,2,19:16:00
+2023-11-29,214,Wistful,Outside;Walking;By myself,light snow,Wistful,"Low Energy, Negative",2023-11-29 17:38:00,2,17:38:00
+2023-11-28,215,Empowered,Outside;After teaching ;By myself,clear sky,Empowered,"High Energy, Positive",2023-11-28 08:24:00,1,08:24:00
+2023-11-28,216,Chill,Outside;Walking;Pets,,Chill,"Low Energy, Positive",2023-11-28 06:32:00,1,06:32:00
+2023-11-27,217,Proud,Teaching;Strangers,broken clouds,Proud,"High Energy, Positive",2023-11-27 20:41:00,0,20:41:00
+2023-11-27,218,Nervous,Home;Planning teaching;By myself,overcast clouds,Nervous,"High Energy, Negative",2023-11-27 16:21:00,0,16:21:00
+2023-11-26,219,Happy,Outside;Hanging out;Family,broken clouds,Happy,"High Energy, Positive",2023-11-26 15:32:00,6,15:32:00
+2023-11-26,220,Excited,Teaching;Strangers,overcast clouds,Excited,"High Energy, Positive",2023-11-26 07:08:00,6,07:08:00
+2023-11-26,221,Nervous,Work;Teaching;Strangers,scattered clouds,Nervous,"High Energy, Negative",2023-11-26 06:35:00,6,06:35:00
+2023-11-26,222,Calm,Outside;Walking;Pets,scattered clouds,Calm,"Low Energy, Positive",2023-11-26 06:34:00,6,06:34:00
+2023-11-25,223,Lonely,Home;Watching shows;By myself,broken clouds,Lonely,"Low Energy, Negative",2023-11-25 17:19:00,5,17:19:00
+2023-11-24,224,Productive,Home;Planning teaching;By myself,broken clouds,Productive,"High Energy, Positive",2023-11-24 13:29:00,4,13:29:00
+2023-11-23,225,Happy,Home;Hanging out;Family,broken clouds,Happy,"High Energy, Positive",2023-11-23 07:35:00,3,07:35:00
+2023-11-22,226,Happy,Drinking ;Hanging out;Networking;Friends,overcast clouds,Happy,"High Energy, Positive",2023-11-22 18:01:00,2,18:01:00
+2023-11-22,227,Productive,Home;Planning teaching;By myself,overcast clouds,Productive,"High Energy, Positive",2023-11-22 13:46:00,2,13:46:00
+2023-11-21,228,Excited,Work;Networking;Friends,overcast clouds,Excited,"High Energy, Positive",2023-11-21 13:01:00,1,13:01:00
+2023-11-21,229,Accomplished,Work;Teaching;Co-workers;Students,broken clouds,Accomplished,"High Energy, Positive",2023-11-21 12:42:00,1,12:42:00
+2023-11-20,230,Discouraged,Work;Planning teaching;Students,overcast clouds,Discouraged,"Low Energy, Negative",2023-11-20 19:25:00,0,19:25:00
+2023-11-20,231,Motivated,Home;Learning ;Planning life;Pets,overcast clouds,Motivated,"High Energy, Positive",2023-11-20 09:21:00,0,09:21:00
+2023-11-19,232,Inspired,Home;Learning ;By myself,light rain,Inspired,"High Energy, Positive",2023-11-19 08:01:00,6,08:01:00
+2023-11-18,233,Chill,At friends;Eating;Hanging out;Family,scattered clouds,Chill,"Low Energy, Positive",2023-11-18 16:44:00,5,16:44:00
+2023-11-17,234,Annoyed,Work;Planning teaching;Co-workers,overcast clouds,Annoyed,"High Energy, Negative",2023-11-17 15:00:00,4,15:00:00
+2023-11-17,235,Joyful,Outside;Hanging out;Friends,overcast clouds,Joyful,"High Energy, Positive",2023-11-17 14:15:00,4,14:15:00
+2023-11-16,236,Tired,Outside;Walking;Pets,overcast clouds,Tired,"Low Energy, Negative",2023-11-16 18:50:00,3,18:50:00
+2023-11-16,237,Relieved,Outside;Walking;Pets,overcast clouds,Relieved,"Low Energy, Positive",2023-11-16 18:49:00,3,18:49:00
+2023-11-16,238,Anxious,Home;Waking up;By myself,moderate rain,Anxious,"High Energy, Negative",2023-11-16 06:31:00,3,06:31:00
+2023-11-15,239,Trapped,Home;Watching shows;By myself,overcast clouds,Trapped,"Low Energy, Negative",2023-11-15 18:28:00,2,18:28:00
+2023-11-15,240,Anxious,Outside;Hanging out;Pets,broken clouds,Anxious,"High Energy, Negative",2023-11-15 06:35:00,2,06:35:00
+2023-11-14,241,Tired,Home;Resting;By myself,broken clouds,Tired,"Low Energy, Negative",2023-11-14 19:20:00,1,19:20:00
+2023-11-14,242,Lonely,Home;Watching shows;Pets,light intensity drizzle,Lonely,"Low Energy, Negative",2023-11-14 18:07:00,1,18:07:00
+2023-11-14,243,Challenged,Outside;Running;By myself,moderate rain,Challenged,"High Energy, Negative",2023-11-14 06:34:00,1,06:34:00
+2023-11-13,244,Thoughtful,Home;Resting;By myself,light rain,Thoughtful,"Low Energy, Positive",2023-11-13 21:02:00,0,21:02:00
+2023-11-13,245,Motivated,Home;Writing;Pets,,Motivated,"High Energy, Positive",2023-11-13 06:31:00,0,06:31:00
+2023-11-12,246,Motivated,Home;Writing;Pets,overcast clouds,Motivated,"High Energy, Positive",2023-11-12 20:45:00,6,20:45:00
+2023-11-12,247,Productive,Home;Writing;Pets,overcast clouds,Productive,"High Energy, Positive",2023-11-12 20:44:00,6,20:44:00
+2023-11-11,248,Tired,Outside;Walking;Pets,overcast clouds,Tired,"Low Energy, Negative",2023-11-11 18:59:00,5,18:59:00
+2023-11-11,249,Vulnerable,Home;Resting;By myself,broken clouds,Vulnerable,"Low Energy, Negative",2023-11-11 11:24:00,5,11:24:00
+2023-11-11,250,Longing,Home;Resting;By myself,broken clouds,Longing,"Low Energy, Negative",2023-11-11 11:23:00,5,11:23:00
+2023-11-11,251,Peaceful,Outside;Walking;Pets,overcast clouds,Peaceful,"Low Energy, Positive",2023-11-11 07:11:00,5,07:11:00
+2023-11-10,252,Motivated,Home;Writing;Pets,light rain,Motivated,"High Energy, Positive",2023-11-10 07:06:00,4,07:06:00
+2023-11-09,253,Uneasy,Home;Resting;By myself,scattered clouds,Uneasy,"Low Energy, Negative",2023-11-09 20:57:00,3,20:57:00
+2023-11-09,254,Peaceful,Outside;Walking;Pets,overcast clouds,Peaceful,"Low Energy, Positive",2023-11-09 06:31:00,3,06:31:00
+2023-11-08,255,Optimistic,Home;Planning life;Writing;By myself,broken clouds,Optimistic,"High Energy, Positive",2023-11-08 06:30:00,2,06:30:00
+2023-11-07,256,Tired,Home;Resting;Pets,scattered clouds,Tired,"Low Energy, Negative",2023-11-07 20:11:00,1,20:11:00
+2023-11-07,257,Optimistic,Work;Teaching;Students,broken clouds,Optimistic,"High Energy, Positive",2023-11-07 09:41:00,1,09:41:00
+2023-11-07,258,Anxious,Planning teaching,overcast clouds,Anxious,"High Energy, Negative",2023-11-07 06:31:00,1,06:31:00
+2023-11-06,259,Tense,Home;Resting;By myself,broken clouds,Tense,"High Energy, Negative",2023-11-06 19:06:00,0,19:06:00
+2023-11-06,260,Productive;Anxious,Home;Planning teaching;By myself,broken clouds,Productive,"High Energy, Positive",2023-11-06 13:30:00,0,13:30:00
+2023-11-06,260,Productive;Anxious,Home;Planning teaching;By myself,broken clouds,Anxious,"High Energy, Negative",2023-11-06 13:30:00,0,13:30:00
+2023-11-06,261,Excited,Home;Planning life;By myself,mist,Excited,"High Energy, Positive",2023-11-06 06:35:00,0,06:35:00
+2023-11-05,262,Nervous,Home;Watching shows;By myself,overcast clouds,Nervous,"High Energy, Negative",2023-11-05 15:56:00,6,15:56:00
+2023-11-05,263,Proud;Productive,Home;Planning teaching;By myself,broken clouds,Proud,"High Energy, Positive",2023-11-05 09:16:00,6,09:16:00
+2023-11-05,263,Proud;Productive,Home;Planning teaching;By myself,broken clouds,Productive,"High Energy, Positive",2023-11-05 09:16:00,6,09:16:00
+2023-11-04,264,Wistful;Pensive,Outside;Walking;Pets,overcast clouds,Wistful,"Low Energy, Negative",2023-11-04 18:31:00,5,18:31:00
+2023-11-04,264,Wistful;Pensive,Outside;Walking;Pets,overcast clouds,Pensive,"Low Energy, Positive",2023-11-04 18:31:00,5,18:31:00
+2023-11-04,265,Overwhelmed;Excited,Home;Reading;By myself,overcast clouds,Overwhelmed,"High Energy, Negative",2023-11-04 08:50:00,5,08:50:00
+2023-11-04,265,Overwhelmed;Excited,Home;Reading;By myself,overcast clouds,Excited,"High Energy, Positive",2023-11-04 08:50:00,5,08:50:00
+2023-11-03,266,Relieved,Home;Writing;By myself,scattered clouds,Relieved,"Low Energy, Positive",2023-11-03 10:13:00,4,10:13:00
+2023-11-02,267,Wistful;Melancholic,Home;Watching shows;By myself,light rain,Wistful,"Low Energy, Negative",2023-11-02 18:11:00,3,18:11:00
+2023-11-02,267,Wistful;Melancholic,Home;Watching shows;By myself,light rain,Melancholic,"Low Energy, Negative",2023-11-02 18:11:00,3,18:11:00
+2023-11-02,268,Balanced;Enjoyment,Outside;Walking;Pets,overcast clouds,Balanced,"Low Energy, Positive",2023-11-02 07:20:00,3,07:20:00
+2023-11-02,268,Balanced;Enjoyment,Outside;Walking;Pets,overcast clouds,Enjoyment,"High Energy, Positive",2023-11-02 07:20:00,3,07:20:00
+2023-11-01,269,Upbeat;Cheerful,Home;Hanging out;By myself,light rain,Upbeat,"High Energy, Positive",2023-11-01 18:32:00,2,18:32:00
+2023-11-01,269,Upbeat;Cheerful,Home;Hanging out;By myself,light rain,Cheerful,"High Energy, Positive",2023-11-01 18:32:00,2,18:32:00
+2023-11-01,270,Grateful,Home;Eating;By myself,overcast clouds,Grateful,"Low Energy, Positive",2023-11-01 16:20:00,2,16:20:00
+2023-11-01,271,At Ease,Outside;Walking;Pets,,At Ease,"Low Energy, Positive",2023-11-01 06:41:00,2,06:41:00
+2023-11-01,272,Relieved,Outside;Walking;By myself,,Relieved,"Low Energy, Positive",2023-11-01 06:33:00,2,06:33:00
+2023-10-31,273,Chill,Home;Resting;Pets,broken clouds,Chill,"Low Energy, Positive",2023-10-31 18:30:00,1,18:30:00
+2023-10-31,274,Accomplished,Commuting;Between places;Strangers,light rain,Accomplished,"High Energy, Positive",2023-10-31 11:00:00,1,11:00:00
+2023-10-31,275,Alive,Commuting;Between places;Strangers,light rain,Alive,"High Energy, Positive",2023-10-31 08:09:00,1,08:09:00
+2023-10-30,276,Productive;Nervous,Home;Watching shows;By myself,scattered clouds,Productive,"High Energy, Positive",2023-10-30 18:30:00,0,18:30:00
+2023-10-30,276,Productive;Nervous,Home;Watching shows;By myself,scattered clouds,Nervous,"High Energy, Negative",2023-10-30 18:30:00,0,18:30:00
+2023-10-30,277,Optimistic;Balanced,Home;Resting;By myself,few clouds,Optimistic,"High Energy, Positive",2023-10-30 13:40:00,0,13:40:00
+2023-10-30,277,Optimistic;Balanced,Home;Resting;By myself,few clouds,Balanced,"Low Energy, Positive",2023-10-30 13:40:00,0,13:40:00
+2023-10-29,278,Chill,Home;Waking up;Pets,light intensity drizzle,Chill,"Low Energy, Positive",2023-10-29 06:42:00,6,06:42:00
+2023-10-28,279,Fomo;Frustrated,Home;Watching shows;Resting;Pets,overcast clouds,Fomo,"High Energy, Negative",2023-10-28 15:01:00,5,15:01:00
+2023-10-28,279,Fomo;Frustrated,Home;Watching shows;Resting;Pets,overcast clouds,Frustrated,"High Energy, Negative",2023-10-28 15:01:00,5,15:01:00
+2023-10-27,280,Chill;Worried,Home;Waking up;Resting;By myself,broken clouds,Chill,"Low Energy, Positive",2023-10-27 08:35:00,4,08:35:00
+2023-10-27,280,Chill;Worried,Home;Waking up;Resting;By myself,broken clouds,Worried,"High Energy, Negative",2023-10-27 08:35:00,4,08:35:00
+2023-10-26,281,Grateful;Exhausted,Home;Reading;Resting;By myself,broken clouds,Grateful,"Low Energy, Positive",2023-10-26 16:38:00,3,16:38:00
+2023-10-26,281,Grateful;Exhausted,Home;Reading;Resting;By myself,broken clouds,Exhausted,"Low Energy, Negative",2023-10-26 16:38:00,3,16:38:00
+2023-10-25,282,Annoyed;Apathetic,Home;Resting;By myself,broken clouds,Annoyed,"High Energy, Negative",2023-10-25 16:13:00,2,16:13:00
+2023-10-25,282,Annoyed;Apathetic,Home;Resting;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-10-25 16:13:00,2,16:13:00
+2023-10-24,283,Spent,Home;Resting;By myself,broken clouds,Spent,"Low Energy, Negative",2023-10-24 13:51:00,1,13:51:00
+2023-10-24,284,Exhausted,Home;Waking up;By myself,broken clouds,Exhausted,"Low Energy, Negative",2023-10-24 07:12:00,1,07:12:00
+2023-10-23,285,Worried;Melancholic,Home;Resting;By myself,overcast clouds,Worried,"High Energy, Negative",2023-10-23 17:41:00,0,17:41:00
+2023-10-23,285,Worried;Melancholic,Home;Resting;By myself,overcast clouds,Melancholic,"Low Energy, Negative",2023-10-23 17:41:00,0,17:41:00
+2023-10-23,286,Safe;Exhausted,Home;Resting;By myself,scattered clouds,Safe,"Low Energy, Positive",2023-10-23 10:39:00,0,10:39:00
+2023-10-23,286,Safe;Exhausted,Home;Resting;By myself,scattered clouds,Exhausted,"Low Energy, Negative",2023-10-23 10:39:00,0,10:39:00
+2023-10-22,287,Pensive;Melancholic,Home;Listening to music;By myself,few clouds,Pensive,"Low Energy, Positive",2023-10-22 13:31:00,6,13:31:00
+2023-10-22,287,Pensive;Melancholic,Home;Listening to music;By myself,few clouds,Melancholic,"Low Energy, Negative",2023-10-22 13:31:00,6,13:31:00
+2023-10-21,288,Exhausted;Empty,Home;Watching shows;By myself,broken clouds,Exhausted,"Low Energy, Negative",2023-10-21 13:32:00,5,13:32:00
+2023-10-21,288,Exhausted;Empty,Home;Watching shows;By myself,broken clouds,Empty,"Low Energy, Negative",2023-10-21 13:32:00,5,13:32:00
+2023-10-20,289,Fatigued,Home;Watching shows;By myself,overcast clouds,Fatigued,"Low Energy, Negative",2023-10-20 18:45:00,4,18:45:00
+2023-10-19,290,Scared;Frustrated,Home;Resting;By myself,overcast clouds,Scared,"Low Energy, Negative",2023-10-19 13:36:00,3,13:36:00
+2023-10-19,290,Scared;Frustrated,Home;Resting;By myself,overcast clouds,Frustrated,"High Energy, Negative",2023-10-19 13:36:00,3,13:36:00
+2023-10-19,291,Exhausted,Home;Waking up;By myself,clear sky,Exhausted,"Low Energy, Negative",2023-10-19 06:44:00,3,06:44:00
+2023-10-18,292,Frustrated;Fatigued,Home;Watching shows;By myself,overcast clouds,Frustrated,"High Energy, Negative",2023-10-18 18:40:00,2,18:40:00
+2023-10-18,292,Frustrated;Fatigued,Home;Watching shows;By myself,overcast clouds,Fatigued,"Low Energy, Negative",2023-10-18 18:40:00,2,18:40:00
+2023-10-18,293,Meh,Home;Watching shows;By myself,few clouds,Meh,"Low Energy, Negative",2023-10-18 13:35:00,2,13:35:00
+2023-10-18,294,Worried;Fatigued,Home;Resting;By myself,broken clouds,Worried,"High Energy, Negative",2023-10-18 09:02:00,2,09:02:00
+2023-10-18,294,Worried;Fatigued,Home;Resting;By myself,broken clouds,Fatigued,"Low Energy, Negative",2023-10-18 09:02:00,2,09:02:00
+2023-10-17,295,Exhausted,Home;Watching shows;By myself,scattered clouds,Exhausted,"Low Energy, Negative",2023-10-17 18:40:00,1,18:40:00
+2023-10-17,296,Thankful,Home;Resting;By myself,scattered clouds,Thankful,"Low Energy, Positive",2023-10-17 11:35:00,1,11:35:00
+2023-10-17,297,Fatigued;Worried,Home;Waking up;By myself,scattered clouds,Fatigued,"Low Energy, Negative",2023-10-17 07:50:00,1,07:50:00
+2023-10-17,297,Fatigued;Worried,Home;Waking up;By myself,scattered clouds,Worried,"High Energy, Negative",2023-10-17 07:50:00,1,07:50:00
+2023-10-16,298,Fatigued;Meh,Home;Watching shows;By myself,few clouds,Fatigued,"Low Energy, Negative",2023-10-16 20:17:00,0,20:17:00
+2023-10-16,298,Fatigued;Meh,Home;Watching shows;By myself,few clouds,Meh,"Low Energy, Negative",2023-10-16 20:17:00,0,20:17:00
+2023-10-16,299,Apathetic;Wistful,Home;Resting;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-10-16 15:25:00,0,15:25:00
+2023-10-16,299,Apathetic;Wistful,Home;Resting;By myself,broken clouds,Wistful,"Low Energy, Negative",2023-10-16 15:25:00,0,15:25:00
+2023-10-16,300,Relieved;Fatigued,Home;Resting;By myself,scattered clouds,Relieved,"Low Energy, Positive",2023-10-16 07:32:00,0,07:32:00
+2023-10-16,300,Relieved;Fatigued,Home;Resting;By myself,scattered clouds,Fatigued,"Low Energy, Negative",2023-10-16 07:32:00,0,07:32:00
+2023-10-15,301,Fatigued,Home;Resting;Pets;By myself,few clouds,Fatigued,"Low Energy, Negative",2023-10-15 18:30:00,6,18:30:00
+2023-10-15,302,Worried;Exhausted,Home;Resting;By myself,broken clouds,Worried,"High Energy, Negative",2023-10-15 14:56:00,6,14:56:00
+2023-10-15,302,Worried;Exhausted,Home;Resting;By myself,broken clouds,Exhausted,"Low Energy, Negative",2023-10-15 14:56:00,6,14:56:00
+2023-10-15,303,Exhausted,Resting;By myself,broken clouds,Exhausted,"Low Energy, Negative",2023-10-15 08:08:00,6,08:08:00
+2023-10-14,304,Fatigued;Disconnected,Home;Resting;By myself,few clouds,Fatigued,"Low Energy, Negative",2023-10-14 19:48:00,5,19:48:00
+2023-10-14,304,Fatigued;Disconnected,Home;Resting;By myself,few clouds,Disconnected,"Low Energy, Negative",2023-10-14 19:48:00,5,19:48:00
+2023-10-14,305,Helpless,Home;Resting;By myself,few clouds,Helpless,"Low Energy, Negative",2023-10-14 14:29:00,5,14:29:00
+2023-10-14,306,Fatigued;Apathetic,Home;Resting;By myself,few clouds,Fatigued,"Low Energy, Negative",2023-10-14 08:49:00,5,08:49:00
+2023-10-14,306,Fatigued;Apathetic,Home;Resting;By myself,few clouds,Apathetic,"Low Energy, Negative",2023-10-14 08:49:00,5,08:49:00
+2023-10-13,307,Tired;Melancholic,Home;By myself,broken clouds,Tired,"Low Energy, Negative",2023-10-13 18:34:00,4,18:34:00
+2023-10-13,307,Tired;Melancholic,Home;By myself,broken clouds,Melancholic,"Low Energy, Negative",2023-10-13 18:34:00,4,18:34:00
+2023-10-13,308,Peaceful,Home;Resting;Pets,light rain,Peaceful,"Low Energy, Positive",2023-10-13 13:30:00,4,13:30:00
+2023-10-13,309,Apathetic,Home;Waking up;Resting;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-10-13 07:41:00,4,07:41:00
+2023-10-12,310,Apathetic,Home;Watching shows;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-10-12 18:31:00,3,18:31:00
+2023-10-12,311,Chill,Home;Watching shows;Resting;Family,scattered clouds,Chill,"Low Energy, Positive",2023-10-12 14:48:00,3,14:48:00
+2023-10-12,312,Sad;Longing,Home;Resting;By myself,broken clouds,Sad,"Low Energy, Negative",2023-10-12 07:44:00,3,07:44:00
+2023-10-12,312,Sad;Longing,Home;Resting;By myself,broken clouds,Longing,"Low Energy, Negative",2023-10-12 07:44:00,3,07:44:00
+2023-10-12,313,Lost;Pensive,Home;Waking up;Resting;By myself,broken clouds,Lost,"Low Energy, Negative",2023-10-12 07:17:00,3,07:17:00
+2023-10-12,313,Lost;Pensive,Home;Waking up;Resting;By myself,broken clouds,Pensive,"Low Energy, Positive",2023-10-12 07:17:00,3,07:17:00
+2023-10-11,314,Balanced;Chill,Home;Watching shows;By myself,light intensity drizzle,Balanced,"Low Energy, Positive",2023-10-11 18:31:00,2,18:31:00
+2023-10-11,314,Balanced;Chill,Home;Watching shows;By myself,light intensity drizzle,Chill,"Low Energy, Positive",2023-10-11 18:31:00,2,18:31:00
+2023-10-11,315,Disengaged;Down,Home;After swimming;Resting;By myself,overcast clouds,Disengaged,"Low Energy, Negative",2023-10-11 10:13:00,2,10:13:00
+2023-10-11,315,Disengaged;Down,Home;After swimming;Resting;By myself,overcast clouds,Down,"Low Energy, Negative",2023-10-11 10:13:00,2,10:13:00
+2023-10-10,316,Good,Home;Writing;Pets,few clouds,Good,"Low Energy, Positive",2023-10-10 14:18:00,1,14:18:00
+2023-10-10,317,Proud;Optimistic,Home;Writing;By myself,broken clouds,Proud,"High Energy, Positive",2023-10-10 06:40:00,1,06:40:00
+2023-10-10,317,Proud;Optimistic,Home;Writing;By myself,broken clouds,Optimistic,"High Energy, Positive",2023-10-10 06:40:00,1,06:40:00
+2023-10-09,318,Relieved,Home;Resting;Pets,overcast clouds,Relieved,"Low Energy, Positive",2023-10-09 21:10:00,0,21:10:00
+2023-10-09,319,Sad;Worried,Home;Resting;By myself,overcast clouds,Sad,"Low Energy, Negative",2023-10-09 20:28:00,0,20:28:00
+2023-10-09,319,Sad;Worried,Home;Resting;By myself,overcast clouds,Worried,"High Energy, Negative",2023-10-09 20:28:00,0,20:28:00
+2023-10-09,320,Calm,Home;Writing;By myself,overcast clouds,Calm,"Low Energy, Positive",2023-10-09 07:37:00,0,07:37:00
+2023-10-08,321,Lonely;Tired,Home;Resting;Pets,scattered clouds,Lonely,"Low Energy, Negative",2023-10-08 19:18:00,6,19:18:00
+2023-10-08,321,Lonely;Tired,Home;Resting;Pets,scattered clouds,Tired,"Low Energy, Negative",2023-10-08 19:18:00,6,19:18:00
+2023-10-08,322,Lost;Melancholic,Home;Watching shows;By myself,scattered clouds,Lost,"Low Energy, Negative",2023-10-08 17:56:00,6,17:56:00
+2023-10-08,322,Lost;Melancholic,Home;Watching shows;By myself,scattered clouds,Melancholic,"Low Energy, Negative",2023-10-08 17:56:00,6,17:56:00
+2023-10-08,323,Calm,Home;Watching shows;By myself,scattered clouds,Calm,"Low Energy, Positive",2023-10-08 13:36:00,6,13:36:00
+2023-10-07,324,Joyful,Outside;Hanging out;Friends,overcast clouds,Joyful,"High Energy, Positive",2023-10-07 19:08:00,5,19:08:00
+2023-10-07,325,Relaxed,Home;Resting;Pets,broken clouds,Relaxed,"Low Energy, Positive",2023-10-07 13:30:00,5,13:30:00
+2023-10-07,326,Proud;Relaxed,Home;Waking up;By myself,light rain,Proud,"High Energy, Positive",2023-10-07 07:01:00,5,07:01:00
+2023-10-07,326,Proud;Relaxed,Home;Waking up;By myself,light rain,Relaxed,"Low Energy, Positive",2023-10-07 07:01:00,5,07:01:00
+2023-10-06,327,Chill;Relieved,Home;Resting;By myself,broken clouds,Chill,"Low Energy, Positive",2023-10-06 18:08:00,4,18:08:00
+2023-10-06,327,Chill;Relieved,Home;Resting;By myself,broken clouds,Relieved,"Low Energy, Positive",2023-10-06 18:08:00,4,18:08:00
+2023-10-06,328,Tired;Relaxed,Home;Resting;By myself,overcast clouds,Tired,"Low Energy, Negative",2023-10-06 13:42:00,4,13:42:00
+2023-10-06,328,Tired;Relaxed,Home;Resting;By myself,overcast clouds,Relaxed,"Low Energy, Positive",2023-10-06 13:42:00,4,13:42:00
+2023-10-06,329,Annoyed;Pensive,Outside;Walking;By myself,light rain,Annoyed,"High Energy, Negative",2023-10-06 08:33:00,4,08:33:00
+2023-10-06,329,Annoyed;Pensive,Outside;Walking;By myself,light rain,Pensive,"Low Energy, Positive",2023-10-06 08:33:00,4,08:33:00
+2023-10-05,330,Tired;Accomplished,Commuting;Between places;Strangers,broken clouds,Tired,"Low Energy, Negative",2023-10-05 23:33:00,3,23:33:00
+2023-10-05,330,Tired;Accomplished,Commuting;Between places;Strangers,broken clouds,Accomplished,"High Energy, Positive",2023-10-05 23:33:00,3,23:33:00
+2023-10-05,331,Good,,clear sky,Good,"Low Energy, Positive",2023-10-05 13:30:00,3,13:30:00
+2023-10-05,332,Empowered,Outside;Running;Listening to music;By myself,broken clouds,Empowered,"High Energy, Positive",2023-10-05 08:05:00,3,08:05:00
+2023-10-05,333,Upbeat;Nervous,Home;Planning teaching;By myself,broken clouds,Upbeat,"High Energy, Positive",2023-10-05 07:29:00,3,07:29:00
+2023-10-05,333,Upbeat;Nervous,Home;Planning teaching;By myself,broken clouds,Nervous,"High Energy, Negative",2023-10-05 07:29:00,3,07:29:00
+2023-10-04,334,Down;Overwhelmed,Outside;Walking;By myself,broken clouds,Down,"Low Energy, Negative",2023-10-04 13:38:00,2,13:38:00
+2023-10-04,334,Down;Overwhelmed,Outside;Walking;By myself,broken clouds,Overwhelmed,"High Energy, Negative",2023-10-04 13:38:00,2,13:38:00
+2023-10-04,335,Ashamed;Inadequate,Home;Planning teaching;By myself,few clouds,Ashamed,"Low Energy, Negative",2023-10-04 07:45:00,2,07:45:00
+2023-10-04,335,Ashamed;Inadequate,Home;Planning teaching;By myself,few clouds,Inadequate,"Low Energy, Negative",2023-10-04 07:45:00,2,07:45:00
+2023-10-04,336,Thoughtful;Pensive,Home;Planning teaching;By myself,few clouds,Thoughtful,"Low Energy, Positive",2023-10-04 07:42:00,2,07:42:00
+2023-10-04,336,Thoughtful;Pensive,Home;Planning teaching;By myself,few clouds,Pensive,"Low Energy, Positive",2023-10-04 07:42:00,2,07:42:00
+2023-10-03,337,Burned Out;Worried,Home;Watching shows;By myself,broken clouds,Burned Out,"Low Energy, Negative",2023-10-03 17:27:00,1,17:27:00
+2023-10-03,337,Burned Out;Worried,Home;Watching shows;By myself,broken clouds,Worried,"High Energy, Negative",2023-10-03 17:27:00,1,17:27:00
+2023-10-03,338,Optimistic;Accomplished,Work;Planning teaching;Co-workers,broken clouds,Optimistic,"High Energy, Positive",2023-10-03 14:58:00,1,14:58:00
+2023-10-03,338,Optimistic;Accomplished,Work;Planning teaching;Co-workers,broken clouds,Accomplished,"High Energy, Positive",2023-10-03 14:58:00,1,14:58:00
+2023-10-03,339,Nervous,Home;Back from run;Pets,mist,Nervous,"High Energy, Negative",2023-10-03 07:36:00,1,07:36:00
+2023-10-03,340,Empowered,Outside;Running;Listening to music;By myself,mist,Empowered,"High Energy, Positive",2023-10-03 07:10:00,1,07:10:00
+2023-10-02,341,Restless,Home;Planning teaching;By myself,overcast clouds,Restless,"High Energy, Negative",2023-10-02 18:35:00,0,18:35:00
+2023-10-02,342,Nervous,Home;Planning teaching;By myself,overcast clouds,Nervous,"High Energy, Negative",2023-10-02 15:47:00,0,15:47:00
+2023-10-02,343,Proud;Productive,Home;Planning teaching;By myself,overcast clouds,Proud,"High Energy, Positive",2023-10-02 15:46:00,0,15:46:00
+2023-10-02,343,Proud;Productive,Home;Planning teaching;By myself,overcast clouds,Productive,"High Energy, Positive",2023-10-02 15:46:00,0,15:46:00
+2023-10-02,344,Anxious,Home;Writing;Pets,light rain,Anxious,"High Energy, Negative",2023-10-02 06:32:00,0,06:32:00
+2023-10-02,345,Pensive;Optimistic,Home;Writing;Pets,light rain,Pensive,"Low Energy, Positive",2023-10-02 06:32:00,0,06:32:00
+2023-10-02,345,Pensive;Optimistic,Home;Writing;Pets,light rain,Optimistic,"High Energy, Positive",2023-10-02 06:32:00,0,06:32:00
+2023-10-01,346,Anxious;Apathetic,Home;Resting;By myself,overcast clouds,Anxious,"High Energy, Negative",2023-10-01 18:31:00,6,18:31:00
+2023-10-01,346,Anxious;Apathetic,Home;Resting;By myself,overcast clouds,Apathetic,"Low Energy, Negative",2023-10-01 18:31:00,6,18:31:00
+2023-10-01,347,Challenged;Pensive,Outside;Walking;By myself,broken clouds,Challenged,"High Energy, Negative",2023-10-01 10:27:00,6,10:27:00
+2023-10-01,347,Challenged;Pensive,Outside;Walking;By myself,broken clouds,Pensive,"Low Energy, Positive",2023-10-01 10:27:00,6,10:27:00
+2023-10-01,348,Apathetic;Trapped,Home;Writing;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-10-01 06:31:00,6,06:31:00
+2023-10-01,348,Apathetic;Trapped,Home;Writing;By myself,broken clouds,Trapped,"Low Energy, Negative",2023-10-01 06:31:00,6,06:31:00
+2023-09-30,349,Vulnerable;Burned Out,Home;Watching shows;By myself,few clouds,Vulnerable,"Low Energy, Negative",2023-09-30 18:52:00,5,18:52:00
+2023-09-30,349,Vulnerable;Burned Out,Home;Watching shows;By myself,few clouds,Burned Out,"Low Energy, Negative",2023-09-30 18:52:00,5,18:52:00
+2023-09-30,350,Relaxed;Trapped,Home;Watching shows;By myself,few clouds,Relaxed,"Low Energy, Positive",2023-09-30 17:29:00,5,17:29:00
+2023-09-30,350,Relaxed;Trapped,Home;Watching shows;By myself,few clouds,Trapped,"Low Energy, Negative",2023-09-30 17:29:00,5,17:29:00
+2023-09-30,351,Overwhelmed;Empty,Home;Planning teaching;Writing;By myself,clear sky,Overwhelmed,"High Energy, Negative",2023-09-30 08:13:00,5,08:13:00
+2023-09-30,351,Overwhelmed;Empty,Home;Planning teaching;Writing;By myself,clear sky,Empty,"Low Energy, Negative",2023-09-30 08:13:00,5,08:13:00
+2023-09-29,352,Annoyed;Challenged,Home;Planning teaching;Watching shows;By myself,overcast clouds,Annoyed,"High Energy, Negative",2023-09-29 19:20:00,4,19:20:00
+2023-09-29,352,Annoyed;Challenged,Home;Planning teaching;Watching shows;By myself,overcast clouds,Challenged,"High Energy, Negative",2023-09-29 19:20:00,4,19:20:00
+2023-09-29,353,Lost;Regretful,Outside;After swimming;Walking;By myself,broken clouds,Lost,"Low Energy, Negative",2023-09-29 10:04:00,4,10:04:00
+2023-09-29,353,Lost;Regretful,Outside;After swimming;Walking;By myself,broken clouds,Regretful,"Low Energy, Negative",2023-09-29 10:04:00,4,10:04:00
+2023-09-29,354,Sad,Outside;Walking;By myself,broken clouds,Sad,"Low Energy, Negative",2023-09-29 08:27:00,4,08:27:00
+2023-09-29,355,Apathetic,Home;Writing;Waking up;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-09-29 06:51:00,4,06:51:00
+2023-09-28,356,Curious,School;Networking;Strangers;Friends,clear sky,Curious,"High Energy, Positive",2023-09-28 17:40:00,3,17:40:00
+2023-09-28,357,Optimistic,Home;Writing;By myself,overcast clouds,Optimistic,"High Energy, Positive",2023-09-28 07:10:00,3,07:10:00
+2023-09-28,358,Sad;Worried,Home;Resting;By myself,overcast clouds,Sad,"Low Energy, Negative",2023-09-28 06:31:00,3,06:31:00
+2023-09-28,358,Sad;Worried,Home;Resting;By myself,overcast clouds,Worried,"High Energy, Negative",2023-09-28 06:31:00,3,06:31:00
+2023-09-28,359,Irritated;Trapped,Home;Writing;By myself,overcast clouds,Irritated,"High Energy, Negative",2023-09-28 06:13:00,3,06:13:00
+2023-09-28,359,Irritated;Trapped,Home;Writing;By myself,overcast clouds,Trapped,"Low Energy, Negative",2023-09-28 06:13:00,3,06:13:00
+2023-09-27,360,Good;Burned Out,Home;Writing;Pets,overcast clouds,Good,"Low Energy, Positive",2023-09-27 20:15:00,2,20:15:00
+2023-09-27,360,Good;Burned Out,Home;Writing;Pets,overcast clouds,Burned Out,"Low Energy, Negative",2023-09-27 20:15:00,2,20:15:00
+2023-09-27,361,Chill,Home;Watching shows;By myself,overcast clouds,Chill,"Low Energy, Positive",2023-09-27 17:37:00,2,17:37:00
+2023-09-27,362,Overwhelmed;Apathetic,Home;Resting;By myself,scattered clouds,Overwhelmed,"High Energy, Negative",2023-09-27 11:02:00,2,11:02:00
+2023-09-27,362,Overwhelmed;Apathetic,Home;Resting;By myself,scattered clouds,Apathetic,"Low Energy, Negative",2023-09-27 11:02:00,2,11:02:00
+2023-09-27,363,Sad;Insecure,Home;Reading;By myself,fog,Sad,"Low Energy, Negative",2023-09-27 06:36:00,2,06:36:00
+2023-09-27,363,Sad;Insecure,Home;Reading;By myself,fog,Insecure,"Low Energy, Negative",2023-09-27 06:36:00,2,06:36:00
+2023-09-26,364,Thoughtful;Appreciated,At friends;Helping someone;Watching shows;Friends,overcast clouds,Thoughtful,"Low Energy, Positive",2023-09-26 18:40:00,1,18:40:00
+2023-09-26,364,Thoughtful;Appreciated,At friends;Helping someone;Watching shows;Friends,overcast clouds,Appreciated,"High Energy, Positive",2023-09-26 18:40:00,1,18:40:00
+2023-09-26,365,Relieved,At friends;Helping someone;Friends,overcast clouds,Relieved,"Low Energy, Positive",2023-09-26 14:29:00,1,14:29:00
+2023-09-26,366,Anxious,Home;Waking up;By myself,fog,Anxious,"High Energy, Negative",2023-09-26 06:22:00,1,06:22:00
+2023-09-25,367,Productive,Home;Writing;By myself,overcast clouds,Productive,"High Energy, Positive",2023-09-25 19:14:00,0,19:14:00
+2023-09-25,368,Chill;Optimistic,Home;Watching shows;By myself,overcast clouds,Chill,"Low Energy, Positive",2023-09-25 17:08:00,0,17:08:00
+2023-09-25,368,Chill;Optimistic,Home;Watching shows;By myself,overcast clouds,Optimistic,"High Energy, Positive",2023-09-25 17:08:00,0,17:08:00
+2023-09-25,369,Trapped,Home;Resting;By myself,scattered clouds,Trapped,"Low Energy, Negative",2023-09-25 06:58:00,0,06:58:00
+2023-09-24,370,Balanced;Pensive,Home;Reading;Pets,few clouds,Balanced,"Low Energy, Positive",2023-09-24 19:16:00,6,19:16:00
+2023-09-24,370,Balanced;Pensive,Home;Reading;Pets,few clouds,Pensive,"Low Energy, Positive",2023-09-24 19:16:00,6,19:16:00
+2023-09-24,371,Chill;Restless,Outside;Walking;By myself,scattered clouds,Chill,"Low Energy, Positive",2023-09-24 13:23:00,6,13:23:00
+2023-09-24,371,Chill;Restless,Outside;Walking;By myself,scattered clouds,Restless,"High Energy, Negative",2023-09-24 13:23:00,6,13:23:00
+2023-09-24,372,Productive;Determined,Home;Planning teaching;Pets,few clouds,Productive,"High Energy, Positive",2023-09-24 11:28:00,6,11:28:00
+2023-09-24,372,Productive;Determined,Home;Planning teaching;Pets,few clouds,Determined,"High Energy, Positive",2023-09-24 11:28:00,6,11:28:00
+2023-09-24,373,Lonely;Empty,Home;Writing;By myself,clear sky,Lonely,"Low Energy, Negative",2023-09-24 06:31:00,6,06:31:00
+2023-09-24,373,Lonely;Empty,Home;Writing;By myself,clear sky,Empty,"Low Energy, Negative",2023-09-24 06:31:00,6,06:31:00
+2023-09-23,374,Lonely;Empty,Home;Resting;Pets,broken clouds,Lonely,"Low Energy, Negative",2023-09-23 18:30:00,5,18:30:00
+2023-09-23,374,Lonely;Empty,Home;Resting;Pets,broken clouds,Empty,"Low Energy, Negative",2023-09-23 18:30:00,5,18:30:00
+2023-09-23,375,Chill,Home;Reading;By myself,broken clouds,Chill,"Low Energy, Positive",2023-09-23 16:04:00,5,16:04:00
+2023-09-23,376,Optimistic;Curious,Home;Back from run;By myself,clear sky,Optimistic,"High Energy, Positive",2023-09-23 10:42:00,5,10:42:00
+2023-09-23,376,Optimistic;Curious,Home;Back from run;By myself,clear sky,Curious,"High Energy, Positive",2023-09-23 10:42:00,5,10:42:00
+2023-09-23,377,Enthusiastic;Worried,Home;Writing;By myself,broken clouds,Enthusiastic,"High Energy, Positive",2023-09-23 06:32:00,5,06:32:00
+2023-09-23,377,Enthusiastic;Worried,Home;Writing;By myself,broken clouds,Worried,"High Energy, Negative",2023-09-23 06:32:00,5,06:32:00
+2023-09-22,378,Meh;Down,Home;Watching shows;By myself,light rain,Meh,"Low Energy, Negative",2023-09-22 18:12:00,4,18:12:00
+2023-09-22,378,Meh;Down,Home;Watching shows;By myself,light rain,Down,"Low Energy, Negative",2023-09-22 18:12:00,4,18:12:00
+2023-09-22,379,Thoughtful;Sympathetic,Home;Writing;By myself,light rain,Thoughtful,"Low Energy, Positive",2023-09-22 06:34:00,4,06:34:00
+2023-09-22,379,Thoughtful;Sympathetic,Home;Writing;By myself,light rain,Sympathetic,"Low Energy, Positive",2023-09-22 06:34:00,4,06:34:00
+2023-09-21,380,Peaceful;Thoughtful,Home;Reading;Resting;By myself,overcast clouds,Peaceful,"Low Energy, Positive",2023-09-21 20:14:00,3,20:14:00
+2023-09-21,380,Peaceful;Thoughtful,Home;Reading;Resting;By myself,overcast clouds,Thoughtful,"Low Energy, Positive",2023-09-21 20:14:00,3,20:14:00
+2023-09-21,381,Productive,Work;Planning teaching;Co-workers,overcast clouds,Productive,"High Energy, Positive",2023-09-21 12:30:00,3,12:30:00
+2023-09-21,382,Balanced;Pensive,Work;Resting;By myself,overcast clouds,Balanced,"Low Energy, Positive",2023-09-21 08:02:00,3,08:02:00
+2023-09-21,382,Balanced;Pensive,Work;Resting;By myself,overcast clouds,Pensive,"Low Energy, Positive",2023-09-21 08:02:00,3,08:02:00
+2023-09-20,383,Joyful;Tired,Outside;Hanging out;Strangers;Friends,broken clouds,Joyful,"High Energy, Positive",2023-09-20 19:16:00,2,19:16:00
+2023-09-20,383,Joyful;Tired,Outside;Hanging out;Strangers;Friends,broken clouds,Tired,"Low Energy, Negative",2023-09-20 19:16:00,2,19:16:00
+2023-09-20,384,Pensive,Library;Writing;Friends,overcast clouds,Pensive,"Low Energy, Positive",2023-09-20 11:27:00,2,11:27:00
+2023-09-20,385,Sad;Empty,Home;Reading;Writing;By myself,light rain,Sad,"Low Energy, Negative",2023-09-20 06:35:00,2,06:35:00
+2023-09-20,385,Sad;Empty,Home;Reading;Writing;By myself,light rain,Empty,"Low Energy, Negative",2023-09-20 06:35:00,2,06:35:00
+2023-09-19,386,Chill;Disconnected,Home;Resting;By myself,broken clouds,Chill,"Low Energy, Positive",2023-09-19 19:44:00,1,19:44:00
+2023-09-19,386,Chill;Disconnected,Home;Resting;By myself,broken clouds,Disconnected,"Low Energy, Negative",2023-09-19 19:44:00,1,19:44:00
+2023-09-19,387,Anxious;Overwhelmed,Home;Writing;By myself,broken clouds,Anxious,"High Energy, Negative",2023-09-19 06:31:00,1,06:31:00
+2023-09-19,387,Anxious;Overwhelmed,Home;Writing;By myself,broken clouds,Overwhelmed,"High Energy, Negative",2023-09-19 06:31:00,1,06:31:00
+2023-09-18,388,Anxious;Annoyed,Home;Planning teaching;By myself,light rain,Anxious,"High Energy, Negative",2023-09-18 18:30:00,0,18:30:00
+2023-09-18,388,Anxious;Annoyed,Home;Planning teaching;By myself,light rain,Annoyed,"High Energy, Negative",2023-09-18 18:30:00,0,18:30:00
+2023-09-17,389,Fatigued;Accomplished,Home;Resting;By myself,broken clouds,Fatigued,"Low Energy, Negative",2023-09-17 19:00:00,6,19:00:00
+2023-09-17,389,Fatigued;Accomplished,Home;Resting;By myself,broken clouds,Accomplished,"High Energy, Positive",2023-09-17 19:00:00,6,19:00:00
+2023-09-17,390,Excited,Home;Resting;By myself,overcast clouds,Excited,"High Energy, Positive",2023-09-17 09:58:00,6,09:58:00
+2023-09-17,391,Chill;Wishful,Home;Writing;By myself,overcast clouds,Chill,"Low Energy, Positive",2023-09-17 06:56:00,6,06:56:00
+2023-09-17,391,Chill;Wishful,Home;Writing;By myself,overcast clouds,Wishful,"Low Energy, Negative",2023-09-17 06:56:00,6,06:56:00
+2023-09-16,392,Productive;Playful,Home;Planning teaching;Watching shows;By myself,broken clouds,Productive,"High Energy, Positive",2023-09-16 18:38:00,5,18:38:00
+2023-09-16,392,Productive;Playful,Home;Planning teaching;Watching shows;By myself,broken clouds,Playful,"High Energy, Positive",2023-09-16 18:38:00,5,18:38:00
+2023-09-16,393,Lost;Desire,Home;Resting;By myself,broken clouds,Lost,"Low Energy, Negative",2023-09-16 06:50:00,5,06:50:00
+2023-09-16,393,Lost;Desire,Home;Resting;By myself,broken clouds,Desire,"High Energy, Positive",2023-09-16 06:50:00,5,06:50:00
+2023-09-15,394,Chill;Carefree,Outside;Networking;Strangers,broken clouds,Chill,"Low Energy, Positive",2023-09-15 16:59:00,4,16:59:00
+2023-09-15,394,Chill;Carefree,Outside;Networking;Strangers,broken clouds,Carefree,"High Energy, Positive",2023-09-15 16:59:00,4,16:59:00
+2023-09-14,395,Proud,Commuting;Between places;Listening to music;Strangers,overcast clouds,Proud,"High Energy, Positive",2023-09-14 18:12:00,3,18:12:00
+2023-09-14,396,Relieved;Accomplished,Outside;Walking;By myself,overcast clouds,Relieved,"Low Energy, Positive",2023-09-14 17:22:00,3,17:22:00
+2023-09-14,396,Relieved;Accomplished,Outside;Walking;By myself,overcast clouds,Accomplished,"High Energy, Positive",2023-09-14 17:22:00,3,17:22:00
+2023-09-14,397,Challenged;Competent,Commuting;Between places;Strangers,scattered clouds,Challenged,"High Energy, Negative",2023-09-14 12:58:00,3,12:58:00
+2023-09-14,397,Challenged;Competent,Commuting;Between places;Strangers,scattered clouds,Competent,"High Energy, Positive",2023-09-14 12:58:00,3,12:58:00
+2023-09-14,398,Upbeat,Work;Networking;Co-workers,scattered clouds,Upbeat,"High Energy, Positive",2023-09-14 11:55:00,3,11:55:00
+2023-09-14,399,Nervous;Optimistic,Home;Writing;By myself,few clouds,Nervous,"High Energy, Negative",2023-09-14 06:32:00,3,06:32:00
+2023-09-14,399,Nervous;Optimistic,Home;Writing;By myself,few clouds,Optimistic,"High Energy, Positive",2023-09-14 06:32:00,3,06:32:00
+2023-09-13,400,Challenged,Home;Planning teaching;By myself,broken clouds,Challenged,"High Energy, Negative",2023-09-13 19:34:00,2,19:34:00
+2023-09-12,401,Valued,At friends;Helping someone;Hanging out;Friends,overcast clouds,Valued,"High Energy, Positive",2023-09-12 17:13:00,1,17:13:00
+2023-09-12,402,Relieved,Work;Teaching,mist,Relieved,"Low Energy, Positive",2023-09-12 10:05:00,1,10:05:00
+2023-09-12,403,Tense,Home;Writing;By myself,mist,Tense,"High Energy, Negative",2023-09-12 06:00:00,1,06:00:00
+2023-09-11,404,Lonely;Empty,Home;Resting;By myself,mist,Lonely,"Low Energy, Negative",2023-09-11 06:10:00,0,06:10:00
+2023-09-11,404,Lonely;Empty,Home;Resting;By myself,mist,Empty,"Low Energy, Negative",2023-09-11 06:10:00,0,06:10:00
+2023-09-10,405,Miserable;Anxious,Home;Watching shows;Pets,broken clouds,Miserable,"Low Energy, Negative",2023-09-10 18:36:00,6,18:36:00
+2023-09-10,405,Miserable;Anxious,Home;Watching shows;Pets,broken clouds,Anxious,"High Energy, Negative",2023-09-10 18:36:00,6,18:36:00
+2023-09-10,406,Grateful,Home;Planning teaching;By myself,broken clouds,Grateful,"Low Energy, Positive",2023-09-10 15:43:00,6,15:43:00
+2023-09-10,407,Pensive;Wistful,Home;Writing;By myself,fog,Pensive,"Low Energy, Positive",2023-09-10 08:04:00,6,08:04:00
+2023-09-10,407,Pensive;Wistful,Home;Writing;By myself,fog,Wistful,"Low Energy, Negative",2023-09-10 08:04:00,6,08:04:00
+2023-09-10,408,Anxious;Sad,Home;Reading;Pets,scattered clouds,Anxious,"High Energy, Negative",2023-09-10 04:58:00,6,04:58:00
+2023-09-10,408,Anxious;Sad,Home;Reading;Pets,scattered clouds,Sad,"Low Energy, Negative",2023-09-10 04:58:00,6,04:58:00
+2023-09-09,409,Sad,Home;Hanging out;By myself,overcast clouds,Sad,"Low Energy, Negative",2023-09-09 07:55:00,5,07:55:00
+2023-09-08,410,Joyful,Outside;Networking;Friends,overcast clouds,Joyful,"High Energy, Positive",2023-09-08 20:31:00,4,20:31:00
+2023-09-08,411,Productive,Work;Planning teaching;Co-workers,few clouds,Productive,"High Energy, Positive",2023-09-08 14:22:00,4,14:22:00
+2023-09-08,412,Surprised;Excited,Outside;Networking;Walking;Friends,few clouds,Surprised,"High Energy, Positive",2023-09-08 08:03:00,4,08:03:00
+2023-09-08,412,Surprised;Excited,Outside;Networking;Walking;Friends,few clouds,Excited,"High Energy, Positive",2023-09-08 08:03:00,4,08:03:00
+2023-09-08,413,Anxious,Home;Planning teaching;By myself,few clouds,Anxious,"High Energy, Negative",2023-09-08 06:30:00,4,06:30:00
+2023-09-07,414,Discouraged;Wistful,Home;Planning teaching;Watching shows;By myself,broken clouds,Discouraged,"Low Energy, Negative",2023-09-07 18:31:00,3,18:31:00
+2023-09-07,414,Discouraged;Wistful,Home;Planning teaching;Watching shows;By myself,broken clouds,Wistful,"Low Energy, Negative",2023-09-07 18:31:00,3,18:31:00
+2023-09-07,415,Confident;Calm,Home;Planning teaching;Writing;By myself,broken clouds,Confident,"High Energy, Positive",2023-09-07 07:00:00,3,07:00:00
+2023-09-07,415,Confident;Calm,Home;Planning teaching;Writing;By myself,broken clouds,Calm,"Low Energy, Positive",2023-09-07 07:00:00,3,07:00:00
+2023-09-06,416,Envious;Tired,Home;Reading;By myself,clear sky,Envious,"Low Energy, Negative",2023-09-06 18:52:00,2,18:52:00
+2023-09-06,416,Envious;Tired,Home;Reading;By myself,clear sky,Tired,"Low Energy, Negative",2023-09-06 18:52:00,2,18:52:00
+2023-09-06,417,Desire;Lonely,Home;Watching shows;By myself,clear sky,Desire,"High Energy, Positive",2023-09-06 17:58:00,2,17:58:00
+2023-09-06,417,Desire;Lonely,Home;Watching shows;By myself,clear sky,Lonely,"Low Energy, Negative",2023-09-06 17:58:00,2,17:58:00
+2023-09-06,418,Longing,Home;Writing;By myself,fog,Longing,"Low Energy, Negative",2023-09-06 06:45:00,2,06:45:00
+2023-09-06,419,Excited;Pensive,Home;Writing;By myself,fog,Excited,"High Energy, Positive",2023-09-06 06:44:00,2,06:44:00
+2023-09-06,419,Excited;Pensive,Home;Writing;By myself,fog,Pensive,"Low Energy, Positive",2023-09-06 06:44:00,2,06:44:00
+2023-09-05,420,Tired,Home;Watching shows;Resting;By myself,clear sky,Tired,"Low Energy, Negative",2023-09-05 18:30:00,1,18:30:00
+2023-09-05,421,At Ease;Chill,Home;Resting;Family,scattered clouds,At Ease,"Low Energy, Positive",2023-09-05 17:08:00,1,17:08:00
+2023-09-05,421,At Ease;Chill,Home;Resting;Family,scattered clouds,Chill,"Low Energy, Positive",2023-09-05 17:08:00,1,17:08:00
+2023-09-05,422,Happy;Accomplished,Work;Planning teaching;Co-workers,scattered clouds,Happy,"High Energy, Positive",2023-09-05 14:20:00,1,14:20:00
+2023-09-05,422,Happy;Accomplished,Work;Planning teaching;Co-workers,scattered clouds,Accomplished,"High Energy, Positive",2023-09-05 14:20:00,1,14:20:00
+2023-09-05,423,Challenged;Annoyed,Work;Teaching;Co-workers;Students,broken clouds,Challenged,"High Energy, Negative",2023-09-05 10:36:00,1,10:36:00
+2023-09-05,423,Challenged;Annoyed,Work;Teaching;Co-workers;Students,broken clouds,Annoyed,"High Energy, Negative",2023-09-05 10:36:00,1,10:36:00
+2023-09-05,424,Anxious,Home;Writing;By myself,fog,Anxious,"High Energy, Negative",2023-09-05 06:31:00,1,06:31:00
+2023-09-04,425,Tense,Home;Watching shows;Resting;Pets,clear sky,Tense,"High Energy, Negative",2023-09-04 18:08:00,0,18:08:00
+2023-09-04,426,Anxious,Home;Planning teaching;By myself,few clouds,Anxious,"High Energy, Negative",2023-09-04 07:38:00,0,07:38:00
+2023-09-04,427,Productive;Challenged,Home;Planning teaching;By myself,few clouds,Productive,"High Energy, Positive",2023-09-04 07:37:00,0,07:37:00
+2023-09-04,427,Productive;Challenged,Home;Planning teaching;By myself,few clouds,Challenged,"High Energy, Negative",2023-09-04 07:37:00,0,07:37:00
+2023-09-03,428,Chill;Anxious,Home;Reading;Resting;By myself,broken clouds,Chill,"Low Energy, Positive",2023-09-03 19:20:00,6,19:20:00
+2023-09-03,428,Chill;Anxious,Home;Reading;Resting;By myself,broken clouds,Anxious,"High Energy, Negative",2023-09-03 19:20:00,6,19:20:00
+2023-09-03,429,Meh;Tense,Outside;Reading;Pets,broken clouds,Meh,"Low Energy, Negative",2023-09-03 15:14:00,6,15:14:00
+2023-09-03,429,Meh;Tense,Outside;Reading;Pets,broken clouds,Tense,"High Energy, Negative",2023-09-03 15:14:00,6,15:14:00
+2023-09-03,430,Accomplished,Home;Planning teaching;By myself,broken clouds,Accomplished,"High Energy, Positive",2023-09-03 13:15:00,6,13:15:00
+2023-09-03,431,Productive;Challenged,Outside;Reading;Pets,few clouds,Productive,"High Energy, Positive",2023-09-03 07:52:00,6,07:52:00
+2023-09-03,431,Productive;Challenged,Outside;Reading;Pets,few clouds,Challenged,"High Energy, Negative",2023-09-03 07:52:00,6,07:52:00
+2023-09-02,432,Sad;Longing,Home;Watching shows;Listening to music;Resting;By myself,clear sky,Sad,"Low Energy, Negative",2023-09-02 18:32:00,5,18:32:00
+2023-09-02,432,Sad;Longing,Home;Watching shows;Listening to music;Resting;By myself,clear sky,Longing,"Low Energy, Negative",2023-09-02 18:32:00,5,18:32:00
+2023-09-01,433,Nostalgic;Melancholic,Home;Watching shows;By myself,few clouds,Nostalgic,"Low Energy, Negative",2023-09-01 13:35:00,4,13:35:00
+2023-09-01,433,Nostalgic;Melancholic,Home;Watching shows;By myself,few clouds,Melancholic,"Low Energy, Negative",2023-09-01 13:35:00,4,13:35:00
+2023-09-01,434,Sad;Apathetic,Home;Watching shows;By myself,few clouds,Sad,"Low Energy, Negative",2023-09-01 13:33:00,4,13:33:00
+2023-09-01,434,Sad;Apathetic,Home;Watching shows;By myself,few clouds,Apathetic,"Low Energy, Negative",2023-09-01 13:33:00,4,13:33:00
+2023-09-01,435,Disappointed;Grateful,Home;Writing;By myself,overcast clouds,Disappointed,"Low Energy, Negative",2023-09-01 09:15:00,4,09:15:00
+2023-09-01,435,Disappointed;Grateful,Home;Writing;By myself,overcast clouds,Grateful,"Low Energy, Positive",2023-09-01 09:15:00,4,09:15:00
+2023-08-31,436,Connected,Outside;Between places;Family,broken clouds,Connected,"High Energy, Positive",2023-08-31 16:59:00,3,16:59:00
+2023-08-31,437,Valued;Grateful,Outside;Walking;By myself,overcast clouds,Valued,"High Energy, Positive",2023-08-31 09:53:00,3,09:53:00
+2023-08-31,437,Valued;Grateful,Outside;Walking;By myself,overcast clouds,Grateful,"Low Energy, Positive",2023-08-31 09:53:00,3,09:53:00
+2023-08-31,438,Joyful,Home;Writing;By myself,overcast clouds,Joyful,"High Energy, Positive",2023-08-31 08:21:00,3,08:21:00
+2023-08-30,439,Excited;Worried,Home;Resting;By myself,overcast clouds,Excited,"High Energy, Positive",2023-08-30 21:35:00,2,21:35:00
+2023-08-30,439,Excited;Worried,Home;Resting;By myself,overcast clouds,Worried,"High Energy, Negative",2023-08-30 21:35:00,2,21:35:00
+2023-08-30,440,Confused;Mellow,Home;Resting;Pets,broken clouds,Confused,"Low Energy, Negative",2023-08-30 15:25:00,2,15:25:00
+2023-08-30,440,Confused;Mellow,Home;Resting;Pets,broken clouds,Mellow,"Low Energy, Positive",2023-08-30 15:25:00,2,15:25:00
+2023-08-30,441,Pensive;Thoughtful,Home;Writing;Waking up;By myself,broken clouds,Pensive,"Low Energy, Positive",2023-08-30 06:31:00,2,06:31:00
+2023-08-30,441,Pensive;Thoughtful,Home;Writing;Waking up;By myself,broken clouds,Thoughtful,"Low Energy, Positive",2023-08-30 06:31:00,2,06:31:00
+2023-08-29,442,Meh;Tired,Home;Resting;By myself,overcast clouds,Meh,"Low Energy, Negative",2023-08-29 18:57:00,1,18:57:00
+2023-08-29,442,Meh;Tired,Home;Resting;By myself,overcast clouds,Tired,"Low Energy, Negative",2023-08-29 18:57:00,1,18:57:00
+2023-08-29,443,Mellow;Empowered,Outside;Walking;By myself,overcast clouds,Mellow,"Low Energy, Positive",2023-08-29 10:04:00,1,10:04:00
+2023-08-29,443,Mellow;Empowered,Outside;Walking;By myself,overcast clouds,Empowered,"High Energy, Positive",2023-08-29 10:04:00,1,10:04:00
+2023-08-29,444,Vulnerable;Thoughtful,Home;Resting;By myself,overcast clouds,Vulnerable,"Low Energy, Negative",2023-08-29 08:49:00,1,08:49:00
+2023-08-29,444,Vulnerable;Thoughtful,Home;Resting;By myself,overcast clouds,Thoughtful,"Low Energy, Positive",2023-08-29 08:49:00,1,08:49:00
+2023-08-28,445,Chill;Vulnerable,Home;Watching shows;Resting;By myself,few clouds,Chill,"Low Energy, Positive",2023-08-28 19:01:00,0,19:01:00
+2023-08-28,445,Chill;Vulnerable,Home;Watching shows;Resting;By myself,few clouds,Vulnerable,"Low Energy, Negative",2023-08-28 19:01:00,0,19:01:00
+2023-08-28,446,Empowered;Wistful,Outside;Walking;By myself,few clouds,Empowered,"High Energy, Positive",2023-08-28 10:31:00,0,10:31:00
+2023-08-28,446,Empowered;Wistful,Outside;Walking;By myself,few clouds,Wistful,"Low Energy, Negative",2023-08-28 10:31:00,0,10:31:00
+2023-08-27,447,Spent;Disconnected,Home;Watching shows;Resting;By myself,few clouds,Spent,"Low Energy, Negative",2023-08-27 13:54:00,6,13:54:00
+2023-08-27,447,Spent;Disconnected,Home;Watching shows;Resting;By myself,few clouds,Disconnected,"Low Energy, Negative",2023-08-27 13:54:00,6,13:54:00
+2023-08-27,448,Fatigued,Outside;Walking;Strangers,scattered clouds,Fatigued,"Low Energy, Negative",2023-08-27 07:44:00,6,07:44:00
+2023-08-26,449,Enthusiastic;Determined,Outside;Walking;Strangers,overcast clouds,Enthusiastic,"High Energy, Positive",2023-08-26 14:10:00,5,14:10:00
+2023-08-26,449,Enthusiastic;Determined,Outside;Walking;Strangers,overcast clouds,Determined,"High Energy, Positive",2023-08-26 14:10:00,5,14:10:00
+2023-08-25,450,Chill,Home;Watching shows;By myself,broken clouds,Chill,"Low Energy, Positive",2023-08-25 17:22:00,4,17:22:00
+2023-08-25,451,Sad;Apathetic,Home;Planning teaching;By myself,broken clouds,Sad,"Low Energy, Negative",2023-08-25 14:46:00,4,14:46:00
+2023-08-25,451,Sad;Apathetic,Home;Planning teaching;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-08-25 14:46:00,4,14:46:00
+2023-08-25,452,Hopeful;Delighted,Outside;Walking;By myself,overcast clouds,Hopeful,"High Energy, Positive",2023-08-25 07:57:00,4,07:57:00
+2023-08-25,452,Hopeful;Delighted,Outside;Walking;By myself,overcast clouds,Delighted,"High Energy, Positive",2023-08-25 07:57:00,4,07:57:00
+2023-08-24,453,Enthusiastic,Work;Planning teaching;Co-workers,overcast clouds,Enthusiastic,"High Energy, Positive",2023-08-24 11:31:00,3,11:31:00
+2023-08-24,454,Nostalgic;Melancholic,Home;Writing;By myself,overcast clouds,Nostalgic,"Low Energy, Negative",2023-08-24 06:30:00,3,06:30:00
+2023-08-24,454,Nostalgic;Melancholic,Home;Writing;By myself,overcast clouds,Melancholic,"Low Energy, Negative",2023-08-24 06:30:00,3,06:30:00
+2023-08-23,455,Sad,Home;Resting;By myself,overcast clouds,Sad,"Low Energy, Negative",2023-08-23 15:40:00,2,15:40:00
+2023-08-23,456,Determined;Productive,Home;Writing;By myself,broken clouds,Determined,"High Energy, Positive",2023-08-23 06:42:00,2,06:42:00
+2023-08-23,456,Determined;Productive,Home;Writing;By myself,broken clouds,Productive,"High Energy, Positive",2023-08-23 06:42:00,2,06:42:00
+2023-08-22,457,Determined,Home;Resting;By myself,few clouds,Determined,"High Energy, Positive",2023-08-22 17:48:00,1,17:48:00
+2023-08-22,458,At Ease;Curious,Work;Planning teaching;Co-workers,broken clouds,At Ease,"Low Energy, Positive",2023-08-22 14:26:00,1,14:26:00
+2023-08-22,458,At Ease;Curious,Work;Planning teaching;Co-workers,broken clouds,Curious,"High Energy, Positive",2023-08-22 14:26:00,1,14:26:00
+2023-08-22,459,Sad;Challenged,Home;Writing;By myself,scattered clouds,Sad,"Low Energy, Negative",2023-08-22 06:55:00,1,06:55:00
+2023-08-22,459,Sad;Challenged,Home;Writing;By myself,scattered clouds,Challenged,"High Energy, Negative",2023-08-22 06:55:00,1,06:55:00
+2023-08-21,460,At Ease,Home;Eating;Pets,clear sky,At Ease,"Low Energy, Positive",2023-08-21 17:56:00,0,17:56:00
+2023-08-21,461,Meh,Home;Watching shows;By myself,clear sky,Meh,"Low Energy, Negative",2023-08-21 14:55:00,0,14:55:00
+2023-08-21,462,Confused;Hopeful,Outside;Walking;By myself,scattered clouds,Confused,"Low Energy, Negative",2023-08-21 07:34:00,0,07:34:00
+2023-08-21,462,Confused;Hopeful,Outside;Walking;By myself,scattered clouds,Hopeful,"High Energy, Positive",2023-08-21 07:34:00,0,07:34:00
+2023-08-20,463,Lost,Home;Watching shows;By myself,few clouds,Lost,"Low Energy, Negative",2023-08-20 18:45:00,6,18:45:00
+2023-08-20,464,Nostalgic;Wishful,Home;Resting;By myself,mist,Nostalgic,"Low Energy, Negative",2023-08-20 11:28:00,6,11:28:00
+2023-08-20,464,Nostalgic;Wishful,Home;Resting;By myself,mist,Wishful,"Low Energy, Negative",2023-08-20 11:28:00,6,11:28:00
+2023-08-20,465,Melancholic;Pensive,Outside;Walking;Listening to music;By myself,mist,Melancholic,"Low Energy, Negative",2023-08-20 09:18:00,6,09:18:00
+2023-08-20,465,Melancholic;Pensive,Outside;Walking;Listening to music;By myself,mist,Pensive,"Low Energy, Positive",2023-08-20 09:18:00,6,09:18:00
+2023-08-19,466,Valued;Proud,At friends;Hanging out;Friends,overcast clouds,Valued,"High Energy, Positive",2023-08-19 18:10:00,5,18:10:00
+2023-08-19,466,Valued;Proud,At friends;Hanging out;Friends,overcast clouds,Proud,"High Energy, Positive",2023-08-19 18:10:00,5,18:10:00
+2023-08-19,467,Pensive,Home;Writing;By myself,broken clouds,Pensive,"Low Energy, Positive",2023-08-19 06:50:00,5,06:50:00
+2023-08-18,468,Nostalgic;Calm,Commuting;Between places;Strangers,overcast clouds,Nostalgic,"Low Energy, Negative",2023-08-18 10:54:00,4,10:54:00
+2023-08-18,468,Nostalgic;Calm,Commuting;Between places;Strangers,overcast clouds,Calm,"Low Energy, Positive",2023-08-18 10:54:00,4,10:54:00
+2023-08-18,469,Thoughtful;Pensive,Home;Writing;Pets,broken clouds,Thoughtful,"Low Energy, Positive",2023-08-18 06:45:00,4,06:45:00
+2023-08-18,469,Thoughtful;Pensive,Home;Writing;Pets,broken clouds,Pensive,"Low Energy, Positive",2023-08-18 06:45:00,4,06:45:00
+2023-08-17,470,Pensive,Work;Resting;Pets,light rain,Pensive,"Low Energy, Positive",2023-08-17 20:03:00,3,20:03:00
+2023-08-17,471,Wishful;Wistful,Home;Watching shows;Resting;By myself,light rain,Wishful,"Low Energy, Negative",2023-08-17 18:03:00,3,18:03:00
+2023-08-17,471,Wishful;Wistful,Home;Watching shows;Resting;By myself,light rain,Wistful,"Low Energy, Negative",2023-08-17 18:03:00,3,18:03:00
+2023-08-17,472,Proud,Outside;Between places;By myself,overcast clouds,Proud,"High Energy, Positive",2023-08-17 13:43:00,3,13:43:00
+2023-08-17,473,Motivated;Wistful,Home;Writing;By myself,scattered clouds,Motivated,"High Energy, Positive",2023-08-17 06:31:00,3,06:31:00
+2023-08-17,473,Motivated;Wistful,Home;Writing;By myself,scattered clouds,Wistful,"Low Energy, Negative",2023-08-17 06:31:00,3,06:31:00
+2023-08-16,474,Balanced,Home;Writing;By myself,scattered clouds,Balanced,"Low Energy, Positive",2023-08-16 17:45:00,2,17:45:00
+2023-08-16,475,Connected;Productive,Work;Planning teaching;Co-workers,scattered clouds,Connected,"High Energy, Positive",2023-08-16 12:45:00,2,12:45:00
+2023-08-16,475,Connected;Productive,Work;Planning teaching;Co-workers,scattered clouds,Productive,"High Energy, Positive",2023-08-16 12:45:00,2,12:45:00
+2023-08-15,476,Sad,Home;Resting;Pets,overcast clouds,Sad,"Low Energy, Negative",2023-08-15 21:45:00,1,21:45:00
+2023-08-15,477,Chill,Home;Resting;Pets,moderate rain,Chill,"Low Energy, Positive",2023-08-15 14:42:00,1,14:42:00
+2023-08-15,478,Confident;Balanced,Outside;Between places;By myself,broken clouds,Confident,"High Energy, Positive",2023-08-15 06:37:00,1,06:37:00
+2023-08-15,478,Confident;Balanced,Outside;Between places;By myself,broken clouds,Balanced,"Low Energy, Positive",2023-08-15 06:37:00,1,06:37:00
+2023-08-14,479,Determined,Home;Writing;By myself,few clouds,Determined,"High Energy, Positive",2023-08-14 09:00:00,0,09:00:00
+2023-08-13,480,Calm;Anxious,Home;Hanging out;Strangers,broken clouds,Calm,"Low Energy, Positive",2023-08-13 18:04:00,6,18:04:00
+2023-08-13,480,Calm;Anxious,Home;Hanging out;Strangers,broken clouds,Anxious,"High Energy, Negative",2023-08-13 18:04:00,6,18:04:00
+2023-08-13,481,Pleasant;Motivated,Outside;Walking;Listening to music;By myself,overcast clouds,Pleasant,"Low Energy, Positive",2023-08-13 09:24:00,6,09:24:00
+2023-08-13,481,Pleasant;Motivated,Outside;Walking;Listening to music;By myself,overcast clouds,Motivated,"High Energy, Positive",2023-08-13 09:24:00,6,09:24:00
+2023-08-13,482,Proud;Accomplished,Outside;Walking;Listening to music;By myself,overcast clouds,Proud,"High Energy, Positive",2023-08-13 09:23:00,6,09:23:00
+2023-08-13,482,Proud;Accomplished,Outside;Walking;Listening to music;By myself,overcast clouds,Accomplished,"High Energy, Positive",2023-08-13 09:23:00,6,09:23:00
+2023-08-13,483,Desire;Longing,Home;Waking up;Pets,overcast clouds,Desire,"High Energy, Positive",2023-08-13 06:31:00,6,06:31:00
+2023-08-13,483,Desire;Longing,Home;Waking up;Pets,overcast clouds,Longing,"Low Energy, Negative",2023-08-13 06:31:00,6,06:31:00
+2023-08-12,484,Restless;Empty,Home;Watching shows;By myself,light rain,Restless,"High Energy, Negative",2023-08-12 15:48:00,5,15:48:00
+2023-08-12,484,Restless;Empty,Home;Watching shows;By myself,light rain,Empty,"Low Energy, Negative",2023-08-12 15:48:00,5,15:48:00
+2023-08-12,485,Appreciated;Chill,Outside;Walking;Friends,light rain,Appreciated,"High Energy, Positive",2023-08-12 12:30:00,5,12:30:00
+2023-08-12,485,Appreciated;Chill,Outside;Walking;Friends,light rain,Chill,"Low Energy, Positive",2023-08-12 12:30:00,5,12:30:00
+2023-08-12,486,Meh;Disconnected,Home;Writing;By myself,overcast clouds,Meh,"Low Energy, Negative",2023-08-12 07:20:00,5,07:20:00
+2023-08-12,486,Meh;Disconnected,Home;Writing;By myself,overcast clouds,Disconnected,"Low Energy, Negative",2023-08-12 07:20:00,5,07:20:00
+2023-08-11,487,Lonely,Home;Watching shows;By myself,overcast clouds,Lonely,"Low Energy, Negative",2023-08-11 18:04:00,4,18:04:00
+2023-08-11,488,Meh;Wistful,Home;Reading;Pets,overcast clouds,Meh,"Low Energy, Negative",2023-08-11 15:36:00,4,15:36:00
+2023-08-11,488,Meh;Wistful,Home;Reading;Pets,overcast clouds,Wistful,"Low Energy, Negative",2023-08-11 15:36:00,4,15:36:00
+2023-08-10,489,Annoyed,Home;Resting;By myself,few clouds,Annoyed,"High Energy, Negative",2023-08-10 17:05:00,3,17:05:00
+2023-08-10,490,Tired;Apathetic,Home;Reading;Watching shows;Resting;By myself,broken clouds,Tired,"Low Energy, Negative",2023-08-10 13:15:00,3,13:15:00
+2023-08-10,490,Tired;Apathetic,Home;Reading;Watching shows;Resting;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-08-10 13:15:00,3,13:15:00
+2023-08-10,491,Meh;Disengaged,Home;Writing;Family,overcast clouds,Meh,"Low Energy, Negative",2023-08-10 07:48:00,3,07:48:00
+2023-08-10,491,Meh;Disengaged,Home;Writing;Family,overcast clouds,Disengaged,"Low Energy, Negative",2023-08-10 07:48:00,3,07:48:00
+2023-08-09,492,Chill,Outside;Watching shows;Friends,,Chill,"Low Energy, Positive",2023-08-09 20:37:00,2,20:37:00
+2023-08-09,493,Appreciated;Connected,Work;Planning teaching;Co-workers,light rain,Appreciated,"High Energy, Positive",2023-08-09 14:55:00,2,14:55:00
+2023-08-09,493,Appreciated;Connected,Work;Planning teaching;Co-workers,light rain,Connected,"High Energy, Positive",2023-08-09 14:55:00,2,14:55:00
+2023-08-09,494,Balanced,Home;Writing;Pets,broken clouds,Balanced,"Low Energy, Positive",2023-08-09 06:31:00,2,06:31:00
+2023-08-08,495,Confident,Home;Writing;Networking;Strangers,broken clouds,Confident,"High Energy, Positive",2023-08-08 18:15:00,1,18:15:00
+2023-08-08,496,Good,Work;Planning teaching;Co-workers,overcast clouds,Good,"Low Energy, Positive",2023-08-08 10:58:00,1,10:58:00
+2023-08-07,497,Connected;Appreciated,Work,light rain,Connected,"High Energy, Positive",2023-08-07 15:30:00,0,15:30:00
+2023-08-07,497,Connected;Appreciated,Work,light rain,Appreciated,"High Energy, Positive",2023-08-07 15:30:00,0,15:30:00
+2023-08-07,498,Accomplished;Motivated,Home;Writing;By myself,light rain,Accomplished,"High Energy, Positive",2023-08-07 07:51:00,0,07:51:00
+2023-08-07,498,Accomplished;Motivated,Home;Writing;By myself,light rain,Motivated,"High Energy, Positive",2023-08-07 07:51:00,0,07:51:00
+2023-08-06,499,Chill;Balanced,Home;Resting;By myself,moderate rain,Chill,"Low Energy, Positive",2023-08-06 21:04:00,6,21:04:00
+2023-08-06,499,Chill;Balanced,Home;Resting;By myself,moderate rain,Balanced,"Low Energy, Positive",2023-08-06 21:04:00,6,21:04:00
+2023-08-06,500,Disengaged,Home;Writing;Waking up;Pets,overcast clouds,Disengaged,"Low Energy, Negative",2023-08-06 08:31:00,6,08:31:00
+2023-08-05,501,Tired,Home;Resting,few clouds,Tired,"Low Energy, Negative",2023-08-05 18:53:00,5,18:53:00
+2023-08-05,502,Chill;Pensive,Home;Watching shows;Eating;Pets,few clouds,Chill,"Low Energy, Positive",2023-08-05 16:28:00,5,16:28:00
+2023-08-05,502,Chill;Pensive,Home;Watching shows;Eating;Pets,few clouds,Pensive,"Low Energy, Positive",2023-08-05 16:28:00,5,16:28:00
+2023-08-05,503,Confident;At Ease,Home;Writing;Pets,overcast clouds,Confident,"High Energy, Positive",2023-08-05 08:06:00,5,08:06:00
+2023-08-05,503,Confident;At Ease,Home;Writing;Pets,overcast clouds,At Ease,"Low Energy, Positive",2023-08-05 08:06:00,5,08:06:00
+2023-08-04,504,Lonely;Down,Home;Watching shows;Pets,few clouds,Lonely,"Low Energy, Negative",2023-08-04 18:31:00,4,18:31:00
+2023-08-04,504,Lonely;Down,Home;Watching shows;Pets,few clouds,Down,"Low Energy, Negative",2023-08-04 18:31:00,4,18:31:00
+2023-08-04,505,Connected;Confident,Home;Writing;By myself,clear sky,Connected,"High Energy, Positive",2023-08-04 07:59:00,4,07:59:00
+2023-08-04,505,Connected;Confident,Home;Writing;By myself,clear sky,Confident,"High Energy, Positive",2023-08-04 07:59:00,4,07:59:00
+2023-08-03,506,Balanced;Confident,Outside;Walking;Pets,broken clouds,Balanced,"Low Energy, Positive",2023-08-03 18:41:00,3,18:41:00
+2023-08-03,506,Balanced;Confident,Outside;Walking;Pets,broken clouds,Confident,"High Energy, Positive",2023-08-03 18:41:00,3,18:41:00
+2023-08-03,507,Sad;Empty,Home;Back from run;By myself,broken clouds,Sad,"Low Energy, Negative",2023-08-03 08:24:00,3,08:24:00
+2023-08-03,507,Sad;Empty,Home;Back from run;By myself,broken clouds,Empty,"Low Energy, Negative",2023-08-03 08:24:00,3,08:24:00
+2023-08-02,508,Challenged;Tired,Home;Watching shows;Resting;By myself,overcast clouds,Challenged,"High Energy, Negative",2023-08-02 18:41:00,2,18:41:00
+2023-08-02,508,Challenged;Tired,Home;Watching shows;Resting;By myself,overcast clouds,Tired,"Low Energy, Negative",2023-08-02 18:41:00,2,18:41:00
+2023-08-02,509,Accomplished;Optimistic,Home;Writing;By myself,scattered clouds,Accomplished,"High Energy, Positive",2023-08-02 08:41:00,2,08:41:00
+2023-08-02,509,Accomplished;Optimistic,Home;Writing;By myself,scattered clouds,Optimistic,"High Energy, Positive",2023-08-02 08:41:00,2,08:41:00
+2023-08-01,510,Valued,Outside;Listening to music;Hanging out;Friends,overcast clouds,Valued,"High Energy, Positive",2023-08-01 21:10:00,1,21:10:00
+2023-08-01,511,Meh;Grumpy,Outside;Walking;Pets,scattered clouds,Meh,"Low Energy, Negative",2023-08-01 16:28:00,1,16:28:00
+2023-08-01,511,Meh;Grumpy,Outside;Walking;Pets,scattered clouds,Grumpy,"Low Energy, Negative",2023-08-01 16:28:00,1,16:28:00
+2023-08-01,512,Down;Apathetic,Outside;Walking;By myself,broken clouds,Down,"Low Energy, Negative",2023-08-01 08:55:00,1,08:55:00
+2023-08-01,512,Down;Apathetic,Outside;Walking;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-08-01 08:55:00,1,08:55:00
+2023-07-31,513,Relaxed;Longing,Home;Resting;By myself,overcast clouds,Relaxed,"Low Energy, Positive",2023-07-31 18:31:00,0,18:31:00
+2023-07-31,513,Relaxed;Longing,Home;Resting;By myself,overcast clouds,Longing,"Low Energy, Negative",2023-07-31 18:31:00,0,18:31:00
+2023-07-31,514,Mellow,Work;Reading;Writing;Hanging out;Co-workers,overcast clouds,Mellow,"Low Energy, Positive",2023-07-31 10:32:00,0,10:32:00
+2023-07-30,515,Tired;Sad,Home;Resting;By myself,scattered clouds,Tired,"Low Energy, Negative",2023-07-30 20:49:00,6,20:49:00
+2023-07-30,515,Tired;Sad,Home;Resting;By myself,scattered clouds,Sad,"Low Energy, Negative",2023-07-30 20:49:00,6,20:49:00
+2023-07-30,516,Disappointed,Outside;Walking;Pets,broken clouds,Disappointed,"Low Energy, Negative",2023-07-30 18:02:00,6,18:02:00
+2023-07-29,517,Excited;Determined,Home;Waking up;Pets,broken clouds,Excited,"High Energy, Positive",2023-07-29 09:32:00,5,09:32:00
+2023-07-29,517,Excited;Determined,Home;Waking up;Pets,broken clouds,Determined,"High Energy, Positive",2023-07-29 09:32:00,5,09:32:00
+2023-07-28,518,Excited;Wishful,Home;Resting;Pets,few clouds,Excited,"High Energy, Positive",2023-07-28 20:16:00,4,20:16:00
+2023-07-28,518,Excited;Wishful,Home;Resting;Pets,few clouds,Wishful,"Low Energy, Negative",2023-07-28 20:16:00,4,20:16:00
+2023-07-28,519,Accomplished,Home;Writing;By myself,broken clouds,Accomplished,"High Energy, Positive",2023-07-28 17:34:00,4,17:34:00
+2023-07-28,520,Tired;Annoyed,Home;Hanging out;Strangers;By myself,broken clouds,Tired,"Low Energy, Negative",2023-07-28 17:33:00,4,17:33:00
+2023-07-28,520,Tired;Annoyed,Home;Hanging out;Strangers;By myself,broken clouds,Annoyed,"High Energy, Negative",2023-07-28 17:33:00,4,17:33:00
+2023-07-28,521,Understood,At friends;Hanging out;Friends,broken clouds,Understood,"High Energy, Positive",2023-07-28 15:51:00,4,15:51:00
+2023-07-28,522,Longing;Discouraged,Home;Writing;Waking up;By myself,few clouds,Longing,"Low Energy, Negative",2023-07-28 10:52:00,4,10:52:00
+2023-07-28,522,Longing;Discouraged,Home;Writing;Waking up;By myself,few clouds,Discouraged,"Low Energy, Negative",2023-07-28 10:52:00,4,10:52:00
+2023-07-27,523,Chill;Balanced,Commuting;Between places;Resting;Strangers;Family;By myself,overcast clouds,Chill,"Low Energy, Positive",2023-07-27 20:53:00,3,20:53:00
+2023-07-27,523,Chill;Balanced,Commuting;Between places;Resting;Strangers;Family;By myself,overcast clouds,Balanced,"Low Energy, Positive",2023-07-27 20:53:00,3,20:53:00
+2023-07-27,524,Wistful,Outside;Commuting;Between places;Strangers;Family;By myself,overcast clouds,Wistful,"Low Energy, Negative",2023-07-27 17:30:00,3,17:30:00
+2023-07-27,525,Cheerful;Balanced,Vacation home;Outside;Between places;Strangers;Family,overcast clouds,Cheerful,"High Energy, Positive",2023-07-27 15:08:00,3,15:08:00
+2023-07-27,525,Cheerful;Balanced,Vacation home;Outside;Between places;Strangers;Family,overcast clouds,Balanced,"Low Energy, Positive",2023-07-27 15:08:00,3,15:08:00
+2023-07-26,526,Chill;Balanced,Vacation home;Hanging out;Eating;Family,broken clouds,Chill,"Low Energy, Positive",2023-07-26 20:07:00,2,20:07:00
+2023-07-26,526,Chill;Balanced,Vacation home;Hanging out;Eating;Family,broken clouds,Balanced,"Low Energy, Positive",2023-07-26 20:07:00,2,20:07:00
+2023-07-26,527,Accomplished,Vacation home;By myself,overcast clouds,Accomplished,"High Energy, Positive",2023-07-26 17:02:00,2,17:02:00
+2023-07-26,528,Frustrated;Gaslit,Vacation home;Outside;Hanging out;Eating;Family,overcast clouds,Frustrated,"High Energy, Negative",2023-07-26 15:54:00,2,15:54:00
+2023-07-26,528,Frustrated;Gaslit,Vacation home;Outside;Hanging out;Eating;Family,overcast clouds,Gaslit,"Low Energy, Negative",2023-07-26 15:54:00,2,15:54:00
+2023-07-26,529,Concerned;Hopeful,Vacation home;Writing;By myself,overcast clouds,Concerned,"High Energy, Negative",2023-07-26 09:00:00,2,09:00:00
+2023-07-26,529,Concerned;Hopeful,Vacation home;Writing;By myself,overcast clouds,Hopeful,"High Energy, Positive",2023-07-26 09:00:00,2,09:00:00
+2023-07-26,530,Pensive,Vacation home;Writing;Waking up;By myself,overcast clouds,Pensive,"Low Energy, Positive",2023-07-26 06:33:00,2,06:33:00
+2023-07-25,531,Tired;Disappointed,Shops;Hanging out;Family;By myself,overcast clouds,Tired,"Low Energy, Negative",2023-07-25 17:51:00,1,17:51:00
+2023-07-25,531,Tired;Disappointed,Shops;Hanging out;Family;By myself,overcast clouds,Disappointed,"Low Energy, Negative",2023-07-25 17:51:00,1,17:51:00
+2023-07-25,532,Chill;Wistful,Vacation home;Outside;After swimming;Walking;Listening to music;By myself,overcast clouds,Chill,"Low Energy, Positive",2023-07-25 08:54:00,1,08:54:00
+2023-07-25,532,Chill;Wistful,Vacation home;Outside;After swimming;Walking;Listening to music;By myself,overcast clouds,Wistful,"Low Energy, Negative",2023-07-25 08:54:00,1,08:54:00
+2023-07-24,533,Grateful;Loving,Vacation home;Resting;Family;By myself,overcast clouds,Grateful,"Low Energy, Positive",2023-07-24 19:15:00,0,19:15:00
+2023-07-24,533,Grateful;Loving,Vacation home;Resting;Family;By myself,overcast clouds,Loving,"High Energy, Positive",2023-07-24 19:15:00,0,19:15:00
+2023-07-24,534,Happy;Relaxed,Vacation home;Outside;Hanging out;Eating;Family,overcast clouds,Happy,"High Energy, Positive",2023-07-24 17:15:00,0,17:15:00
+2023-07-24,534,Happy;Relaxed,Vacation home;Outside;Hanging out;Eating;Family,overcast clouds,Relaxed,"Low Energy, Positive",2023-07-24 17:15:00,0,17:15:00
+2023-07-23,535,Nostalgic;Wistful,Commuting;Between places;Strangers;Family,overcast clouds,Nostalgic,"Low Energy, Negative",2023-07-23 14:31:00,6,14:31:00
+2023-07-23,535,Nostalgic;Wistful,Commuting;Between places;Strangers;Family,overcast clouds,Wistful,"Low Energy, Negative",2023-07-23 14:31:00,6,14:31:00
+2023-07-23,536,Accomplished;Amused,Commuting;Between places;Strangers;Family,light rain,Accomplished,"High Energy, Positive",2023-07-23 10:25:00,6,10:25:00
+2023-07-23,536,Accomplished;Amused,Commuting;Between places;Strangers;Family,light rain,Amused,"High Energy, Positive",2023-07-23 10:25:00,6,10:25:00
+2023-07-23,537,Grateful;Thoughtful,Commuting;Between places;Listening to music;Strangers;Family,broken clouds,Grateful,"Low Energy, Positive",2023-07-23 06:37:00,6,06:37:00
+2023-07-23,537,Grateful;Thoughtful,Commuting;Between places;Listening to music;Strangers;Family,broken clouds,Thoughtful,"Low Energy, Positive",2023-07-23 06:37:00,6,06:37:00
+2023-07-22,538,Excited;Tired,Home;Resting;Pets,light rain,Excited,"High Energy, Positive",2023-07-22 21:19:00,5,21:19:00
+2023-07-22,538,Excited;Tired,Home;Resting;Pets,light rain,Tired,"Low Energy, Negative",2023-07-22 21:19:00,5,21:19:00
+2023-07-22,539,Connected;Grateful,Outside;Walking;Friends,broken clouds,Connected,"High Energy, Positive",2023-07-22 11:30:00,5,11:30:00
+2023-07-22,539,Connected;Grateful,Outside;Walking;Friends,broken clouds,Grateful,"Low Energy, Positive",2023-07-22 11:30:00,5,11:30:00
+2023-07-22,540,Thoughtful;Pensive,Home;Writing;Waking up;Pets,broken clouds,Thoughtful,"Low Energy, Positive",2023-07-22 08:37:00,5,08:37:00
+2023-07-22,540,Thoughtful;Pensive,Home;Writing;Waking up;Pets,broken clouds,Pensive,"Low Energy, Positive",2023-07-22 08:37:00,5,08:37:00
+2023-07-21,541,Disconnected;Restless,Commuting;Between places;Listening to music;Strangers,scattered clouds,Disconnected,"Low Energy, Negative",2023-07-21 20:16:00,4,20:16:00
+2023-07-21,541,Disconnected;Restless,Commuting;Between places;Listening to music;Strangers,scattered clouds,Restless,"High Energy, Negative",2023-07-21 20:16:00,4,20:16:00
+2023-07-21,542,Lonely,Vacation home;Watching shows;By myself,overcast clouds,Lonely,"Low Energy, Negative",2023-07-21 13:45:00,4,13:45:00
+2023-07-21,543,Melancholic;Empty,Vacation home;Watching shows;By myself,overcast clouds,Melancholic,"Low Energy, Negative",2023-07-21 13:23:00,4,13:23:00
+2023-07-21,543,Melancholic;Empty,Vacation home;Watching shows;By myself,overcast clouds,Empty,"Low Energy, Negative",2023-07-21 13:23:00,4,13:23:00
+2023-07-21,544,At Ease;Connected,Vacation home;Writing;By myself,overcast clouds,At Ease,"Low Energy, Positive",2023-07-21 07:00:00,4,07:00:00
+2023-07-21,544,At Ease;Connected,Vacation home;Writing;By myself,overcast clouds,Connected,"High Energy, Positive",2023-07-21 07:00:00,4,07:00:00
+2023-07-20,545,Lonely;Peaceful,Vacation home;Watching shows;Pets,scattered clouds,Lonely,"Low Energy, Negative",2023-07-20 18:03:00,3,18:03:00
+2023-07-20,545,Lonely;Peaceful,Vacation home;Watching shows;Pets,scattered clouds,Peaceful,"Low Energy, Positive",2023-07-20 18:03:00,3,18:03:00
+2023-07-20,546,Accomplished;Resigned,Vacation home;Reading;Writing,scattered clouds,Accomplished,"High Energy, Positive",2023-07-20 14:00:00,3,14:00:00
+2023-07-20,546,Accomplished;Resigned,Vacation home;Reading;Writing,scattered clouds,Resigned,"Low Energy, Negative",2023-07-20 14:00:00,3,14:00:00
+2023-07-20,547,Uncertain;Pensive,Vacation home;Outside;Walking;By myself,few clouds,Uncertain,"Low Energy, Negative",2023-07-20 08:50:00,3,08:50:00
+2023-07-20,547,Uncertain;Pensive,Vacation home;Outside;Walking;By myself,few clouds,Pensive,"Low Energy, Positive",2023-07-20 08:50:00,3,08:50:00
+2023-07-19,548,Relaxed;Wistful,Vacation home;Watching shows;By myself,overcast clouds,Relaxed,"Low Energy, Positive",2023-07-19 19:00:00,2,19:00:00
+2023-07-19,548,Relaxed;Wistful,Vacation home;Watching shows;By myself,overcast clouds,Wistful,"Low Energy, Negative",2023-07-19 19:00:00,2,19:00:00
+2023-07-19,549,Inspired,Vacation home;Outside;Walking;By myself,overcast clouds,Inspired,"High Energy, Positive",2023-07-19 11:09:00,2,11:09:00
+2023-07-19,550,Good,Vacation home;Writing;Waking up;Pets,overcast clouds,Good,"Low Energy, Positive",2023-07-19 08:25:00,2,08:25:00
+2023-07-18,551,Restless;Insecure,Vacation home;Watching shows;By myself,broken clouds,Restless,"High Energy, Negative",2023-07-18 19:47:00,1,19:47:00
+2023-07-18,551,Restless;Insecure,Vacation home;Watching shows;By myself,broken clouds,Insecure,"Low Energy, Negative",2023-07-18 19:47:00,1,19:47:00
+2023-07-18,552,Lonely;Disengaged,Vacation home;Watching shows;Writing;By myself,scattered clouds,Lonely,"Low Energy, Negative",2023-07-18 16:24:00,1,16:24:00
+2023-07-18,552,Lonely;Disengaged,Vacation home;Watching shows;Writing;By myself,scattered clouds,Disengaged,"Low Energy, Negative",2023-07-18 16:24:00,1,16:24:00
+2023-07-18,553,Accomplished;Cheerful,Vacation home;Writing;By myself,clear sky,Accomplished,"High Energy, Positive",2023-07-18 08:15:00,1,08:15:00
+2023-07-18,553,Accomplished;Cheerful,Vacation home;Writing;By myself,clear sky,Cheerful,"High Energy, Positive",2023-07-18 08:15:00,1,08:15:00
+2023-07-17,554,At Ease;Content,Vacation home;Watching shows,overcast clouds,At Ease,"Low Energy, Positive",2023-07-17 18:38:00,0,18:38:00
+2023-07-17,554,At Ease;Content,Vacation home;Watching shows,overcast clouds,Content,"Low Energy, Positive",2023-07-17 18:38:00,0,18:38:00
+2023-07-17,555,Balanced;Inspired,Outside;After swimming;Walking;By myself,moderate rain,Balanced,"Low Energy, Positive",2023-07-17 09:32:00,0,09:32:00
+2023-07-17,555,Balanced;Inspired,Outside;After swimming;Walking;By myself,moderate rain,Inspired,"High Energy, Positive",2023-07-17 09:32:00,0,09:32:00
+2023-07-16,556,Meh;Restless,Home;Watching shows;Pets,scattered clouds,Meh,"Low Energy, Negative",2023-07-16 17:14:00,6,17:14:00
+2023-07-16,556,Meh;Restless,Home;Watching shows;Pets,scattered clouds,Restless,"High Energy, Negative",2023-07-16 17:14:00,6,17:14:00
+2023-07-16,557,Tired,Home;Writing;By myself,broken clouds,Tired,"Low Energy, Negative",2023-07-16 11:21:00,6,11:21:00
+2023-07-15,558,Relaxed;Connected,Outside;Listening to music;Hanging out;Strangers;Friends,broken clouds,Relaxed,"Low Energy, Positive",2023-07-15 20:12:00,5,20:12:00
+2023-07-15,558,Relaxed;Connected,Outside;Listening to music;Hanging out;Strangers;Friends,broken clouds,Connected,"High Energy, Positive",2023-07-15 20:12:00,5,20:12:00
+2023-07-15,559,Accomplished;Motivated,Home;Writing;By myself,overcast clouds,Accomplished,"High Energy, Positive",2023-07-15 06:28:00,5,06:28:00
+2023-07-15,559,Accomplished;Motivated,Home;Writing;By myself,overcast clouds,Motivated,"High Energy, Positive",2023-07-15 06:28:00,5,06:28:00
+2023-07-15,560,Nostalgic;Longing,Home;Waking up;By myself,overcast clouds,Nostalgic,"Low Energy, Negative",2023-07-15 05:25:00,5,05:25:00
+2023-07-15,560,Nostalgic;Longing,Home;Waking up;By myself,overcast clouds,Longing,"Low Energy, Negative",2023-07-15 05:25:00,5,05:25:00
+2023-07-14,561,Balanced;Happy,Outside;Walking;Listening to music;By myself,scattered clouds,Balanced,"Low Energy, Positive",2023-07-14 13:59:00,4,13:59:00
+2023-07-14,561,Balanced;Happy,Outside;Walking;Listening to music;By myself,scattered clouds,Happy,"High Energy, Positive",2023-07-14 13:59:00,4,13:59:00
+2023-07-14,562,Motivated;Excited,Home;Writing;By myself,clear sky,Motivated,"High Energy, Positive",2023-07-14 07:05:00,4,07:05:00
+2023-07-14,562,Motivated;Excited,Home;Writing;By myself,clear sky,Excited,"High Energy, Positive",2023-07-14 07:05:00,4,07:05:00
+2023-07-13,563,Determined;Pensive,Home;Watching shows;Writing;Resting;Pets,few clouds,Determined,"High Energy, Positive",2023-07-13 19:22:00,3,19:22:00
+2023-07-13,563,Determined;Pensive,Home;Watching shows;Writing;Resting;Pets,few clouds,Pensive,"Low Energy, Positive",2023-07-13 19:22:00,3,19:22:00
+2023-07-13,564,Angry,Outside;Walking;By myself,few clouds,Angry,"High Energy, Negative",2023-07-13 08:24:00,3,08:24:00
+2023-07-13,565,Sad,Home;Resting;By myself,few clouds,Sad,"Low Energy, Negative",2023-07-13 07:59:00,3,07:59:00
+2023-07-13,566,Determined;Wistful,Home;Writing;By myself,few clouds,Determined,"High Energy, Positive",2023-07-13 06:56:00,3,06:56:00
+2023-07-13,566,Determined;Wistful,Home;Writing;By myself,few clouds,Wistful,"Low Energy, Negative",2023-07-13 06:56:00,3,06:56:00
+2023-07-13,567,Discouraged;Rejected,Home;Waking up;By myself,few clouds,Discouraged,"Low Energy, Negative",2023-07-13 05:33:00,3,05:33:00
+2023-07-13,567,Discouraged;Rejected,Home;Waking up;By myself,few clouds,Rejected,"Low Energy, Negative",2023-07-13 05:33:00,3,05:33:00
+2023-07-12,568,Excited,Home;Resting;By myself,light intensity shower rain,Excited,"High Energy, Positive",2023-07-12 20:09:00,2,20:09:00
+2023-07-12,569,Frustrated;Confused,Home;Resting;By myself,light intensity shower rain,Frustrated,"High Energy, Negative",2023-07-12 18:36:00,2,18:36:00
+2023-07-12,569,Frustrated;Confused,Home;Resting;By myself,light intensity shower rain,Confused,"Low Energy, Negative",2023-07-12 18:36:00,2,18:36:00
+2023-07-12,570,Appreciated;Included,Home;Resting;By myself,light intensity shower rain,Appreciated,"High Energy, Positive",2023-07-12 15:46:00,2,15:46:00
+2023-07-12,570,Appreciated;Included,Home;Resting;By myself,light intensity shower rain,Included,"High Energy, Positive",2023-07-12 15:46:00,2,15:46:00
+2023-07-12,571,Restless;Uncertain,Home;Resting;Pets,,Restless,"High Energy, Negative",2023-07-12 00:41:00,2,00:41:00
+2023-07-12,571,Restless;Uncertain,Home;Resting;Pets,,Uncertain,"Low Energy, Negative",2023-07-12 00:41:00,2,00:41:00
+2023-07-11,572,Pessimistic;Longing,Home;Resting;By myself,broken clouds,Pessimistic,"Low Energy, Negative",2023-07-11 18:53:00,1,18:53:00
+2023-07-11,572,Pessimistic;Longing,Home;Resting;By myself,broken clouds,Longing,"Low Energy, Negative",2023-07-11 18:53:00,1,18:53:00
+2023-07-11,573,Thankful;Pensive,Home;Watching shows;Resting;By myself,broken clouds,Thankful,"Low Energy, Positive",2023-07-11 16:55:00,1,16:55:00
+2023-07-11,573,Thankful;Pensive,Home;Watching shows;Resting;By myself,broken clouds,Pensive,"Low Energy, Positive",2023-07-11 16:55:00,1,16:55:00
+2023-07-11,574,Playful;Happy,Outside;Hobbies;Strangers;Friends,broken clouds,Playful,"High Energy, Positive",2023-07-11 14:00:00,1,14:00:00
+2023-07-11,574,Playful;Happy,Outside;Hobbies;Strangers;Friends,broken clouds,Happy,"High Energy, Positive",2023-07-11 14:00:00,1,14:00:00
+2023-07-11,575,Curious;Playful,Outside;Walking;After swimming;By myself,fog,Curious,"High Energy, Positive",2023-07-11 08:25:00,1,08:25:00
+2023-07-11,575,Curious;Playful,Outside;Walking;After swimming;By myself,fog,Playful,"High Energy, Positive",2023-07-11 08:25:00,1,08:25:00
+2023-07-10,576,Disappointed,Home;Watching shows;By myself,broken clouds,Disappointed,"Low Energy, Negative",2023-07-10 19:57:00,0,19:57:00
+2023-07-10,577,Calm;Excited,Vacation home;Writing;Waking up;By myself,overcast clouds,Calm,"Low Energy, Positive",2023-07-10 06:01:00,0,06:01:00
+2023-07-10,577,Calm;Excited,Vacation home;Writing;Waking up;By myself,overcast clouds,Excited,"High Energy, Positive",2023-07-10 06:01:00,0,06:01:00
+2023-07-09,578,Relaxed;Melancholic,Vacation home;Watching shows;By myself,scattered clouds,Relaxed,"Low Energy, Positive",2023-07-09 19:05:00,6,19:05:00
+2023-07-09,578,Relaxed;Melancholic,Vacation home;Watching shows;By myself,scattered clouds,Melancholic,"Low Energy, Negative",2023-07-09 19:05:00,6,19:05:00
+2023-07-09,579,Excited,Outside;Walking;Resting;By myself,overcast clouds,Excited,"High Energy, Positive",2023-07-09 16:00:00,6,16:00:00
+2023-07-09,580,Pleased;Curious,Vacation home;Outside;Reading;Pets,clear sky,Pleased,"High Energy, Positive",2023-07-09 10:46:00,6,10:46:00
+2023-07-09,580,Pleased;Curious,Vacation home;Outside;Reading;Pets,clear sky,Curious,"High Energy, Positive",2023-07-09 10:46:00,6,10:46:00
+2023-07-08,581,Chill;Wistful,Vacation home;Outside;Resting;Reading;Pets,clear sky,Chill,"Low Energy, Positive",2023-07-08 15:55:00,5,15:55:00
+2023-07-08,581,Chill;Wistful,Vacation home;Outside;Resting;Reading;Pets,clear sky,Wistful,"Low Energy, Negative",2023-07-08 15:55:00,5,15:55:00
+2023-07-08,582,Peaceful;Pensive,Vacation home;Waking up;By myself,light rain,Peaceful,"Low Energy, Positive",2023-07-08 08:40:00,5,08:40:00
+2023-07-08,582,Peaceful;Pensive,Vacation home;Waking up;By myself,light rain,Pensive,"Low Energy, Positive",2023-07-08 08:40:00,5,08:40:00
+2023-07-07,583,Lonely;Apathetic,Vacation home;Watching shows;Resting;By myself,broken clouds,Lonely,"Low Energy, Negative",2023-07-07 21:10:00,4,21:10:00
+2023-07-07,583,Lonely;Apathetic,Vacation home;Watching shows;Resting;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-07-07 21:10:00,4,21:10:00
+2023-07-07,584,Chill,Vacation home;Outside;Writing;Waking up;By myself,broken clouds,Chill,"Low Energy, Positive",2023-07-07 07:18:00,4,07:18:00
+2023-07-06,585,Disengaged,Vacation home;Spacied out;Watching shows;By myself,,Disengaged,"Low Energy, Negative",2023-07-06 23:15:00,3,23:15:00
+2023-07-06,586,Balanced;Hopeful,Outside;Walking;By myself,overcast clouds,Balanced,"Low Energy, Positive",2023-07-06 09:35:00,3,09:35:00
+2023-07-06,586,Balanced;Hopeful,Outside;Walking;By myself,overcast clouds,Hopeful,"High Energy, Positive",2023-07-06 09:35:00,3,09:35:00
+2023-07-06,587,Melancholic;Wistful,Vacation home;Walking;Waking up;By myself,broken clouds,Melancholic,"Low Energy, Negative",2023-07-06 07:16:00,3,07:16:00
+2023-07-06,587,Melancholic;Wistful,Vacation home;Walking;Waking up;By myself,broken clouds,Wistful,"Low Energy, Negative",2023-07-06 07:16:00,3,07:16:00
+2023-07-05,588,Lonely;Apathetic,Vacation home;Resting;By myself,broken clouds,Lonely,"Low Energy, Negative",2023-07-05 19:24:00,2,19:24:00
+2023-07-05,588,Lonely;Apathetic,Vacation home;Resting;By myself,broken clouds,Apathetic,"Low Energy, Negative",2023-07-05 19:24:00,2,19:24:00
+2023-07-05,589,Wistful,Outside;Walking;By myself,broken clouds,Wistful,"Low Energy, Negative",2023-07-05 08:11:00,2,08:11:00
+2023-07-05,590,Balanced;Loving,Outside;Walking;By myself,broken clouds,Balanced,"Low Energy, Positive",2023-07-05 08:09:00,2,08:09:00
+2023-07-05,590,Balanced;Loving,Outside;Walking;By myself,broken clouds,Loving,"High Energy, Positive",2023-07-05 08:09:00,2,08:09:00
+2023-07-04,591,Relaxed;Pensive,Vacation home;Eating;Pets;Family,broken clouds,Relaxed,"Low Energy, Positive",2023-07-04 18:31:00,1,18:31:00
+2023-07-04,591,Relaxed;Pensive,Vacation home;Eating;Pets;Family,broken clouds,Pensive,"Low Energy, Positive",2023-07-04 18:31:00,1,18:31:00
+2023-07-04,592,Relaxed;Wistful,Vacation home;Hanging out;By myself,clear sky,Relaxed,"Low Energy, Positive",2023-07-04 09:37:00,1,09:37:00
+2023-07-04,592,Relaxed;Wistful,Vacation home;Hanging out;By myself,clear sky,Wistful,"Low Energy, Negative",2023-07-04 09:37:00,1,09:37:00
+2023-07-03,593,Confident;Peaceful,Vacation home;Resting;By myself,scattered clouds,Confident,"High Energy, Positive",2023-07-03 19:04:00,0,19:04:00
+2023-07-03,593,Confident;Peaceful,Vacation home;Resting;By myself,scattered clouds,Peaceful,"Low Energy, Positive",2023-07-03 19:04:00,0,19:04:00
+2023-07-03,594,Annoyed,Commuting;Between places;Strangers,scattered clouds,Annoyed,"High Energy, Negative",2023-07-03 17:33:00,0,17:33:00
+2023-07-03,595,Accomplished;At Ease,Outside;Walking;By myself,moderate rain,Accomplished,"High Energy, Positive",2023-07-03 12:29:00,0,12:29:00
+2023-07-03,595,Accomplished;At Ease,Outside;Walking;By myself,moderate rain,At Ease,"Low Energy, Positive",2023-07-03 12:29:00,0,12:29:00
+2023-07-03,596,Balanced;Pensive,Home;Writing;Waking up;Pets,few clouds,Balanced,"Low Energy, Positive",2023-07-03 06:53:00,0,06:53:00
+2023-07-03,596,Balanced;Pensive,Home;Writing;Waking up;Pets,few clouds,Pensive,"Low Energy, Positive",2023-07-03 06:53:00,0,06:53:00
+2023-07-02,597,Relaxed;Longing,Home;Resting;By myself,clear sky,Relaxed,"Low Energy, Positive",2023-07-02 19:59:00,6,19:59:00
+2023-07-02,597,Relaxed;Longing,Home;Resting;By myself,clear sky,Longing,"Low Energy, Negative",2023-07-02 19:59:00,6,19:59:00
+2023-07-02,598,Upbeat,Outside;Walking;By myself,clear sky,Upbeat,"High Energy, Positive",2023-07-02 10:46:00,6,10:46:00
+2023-07-02,599,Disengaged;Meh,Home;Writing;Waking up;Pets;By myself,broken clouds,Disengaged,"Low Energy, Negative",2023-07-02 08:12:00,6,08:12:00
+2023-07-02,599,Disengaged;Meh,Home;Writing;Waking up;Pets;By myself,broken clouds,Meh,"Low Energy, Negative",2023-07-02 08:12:00,6,08:12:00
+2023-07-01,600,Mellow;Lonely,Home;Resting;Pets,overcast clouds,Mellow,"Low Energy, Positive",2023-07-01 19:36:00,5,19:36:00
+2023-07-01,600,Mellow;Lonely,Home;Resting;Pets,overcast clouds,Lonely,"Low Energy, Negative",2023-07-01 19:36:00,5,19:36:00
+2023-07-01,601,Melancholic;Loving,Home;Spacied out;By myself,overcast clouds,Melancholic,"Low Energy, Negative",2023-07-01 13:00:00,5,13:00:00
+2023-07-01,601,Melancholic;Loving,Home;Spacied out;By myself,overcast clouds,Loving,"High Energy, Positive",2023-07-01 13:00:00,5,13:00:00
+2023-07-01,602,Optimistic,At friends;Resting;Pets,overcast clouds,Optimistic,"High Energy, Positive",2023-07-01 10:14:00,5,10:14:00
+2023-07-01,603,Grateful;Empathetic,Outside;Walking;By myself,light rain,Grateful,"Low Energy, Positive",2023-07-01 08:15:00,5,08:15:00
+2023-07-01,603,Grateful;Empathetic,Outside;Walking;By myself,light rain,Empathetic,"Low Energy, Positive",2023-07-01 08:15:00,5,08:15:00
+2023-06-30,604,Tired,Home;Resting;By myself,broken clouds,Tired,"Low Energy, Negative",2023-06-30 18:30:00,4,18:30:00
+2023-06-30,605,Connected,Work;Hanging out;Co-workers,overcast clouds,Connected,"High Energy, Positive",2023-06-30 16:00:00,4,16:00:00
+2023-06-30,606,Accomplished;Excited,Home;Resting;Eating;By myself,overcast clouds,Accomplished,"High Energy, Positive",2023-06-30 13:24:00,4,13:24:00
+2023-06-30,606,Accomplished;Excited,Home;Resting;Eating;By myself,overcast clouds,Excited,"High Energy, Positive",2023-06-30 13:24:00,4,13:24:00
+2023-06-30,607,Good,Home;Waking up;Pets,overcast clouds,Good,"Low Energy, Positive",2023-06-30 06:32:00,4,06:32:00
+2023-06-29,608,Restless;Envious,Home;Resting;By myself,overcast clouds,Restless,"High Energy, Negative",2023-06-29 22:13:00,3,22:13:00
+2023-06-29,608,Restless;Envious,Home;Resting;By myself,overcast clouds,Envious,"Low Energy, Negative",2023-06-29 22:13:00,3,22:13:00
+2023-06-29,609,Insecure,Home;Resting;By myself,light rain,Insecure,"Low Energy, Negative",2023-06-29 16:50:00,3,16:50:00
+2023-06-29,610,Accomplished;Uncertain,At friends;Helping someone;Cleaning;Resting;Pets,light rain,Accomplished,"High Energy, Positive",2023-06-29 16:41:00,3,16:41:00
+2023-06-29,610,Accomplished;Uncertain,At friends;Helping someone;Cleaning;Resting;Pets,light rain,Uncertain,"Low Energy, Negative",2023-06-29 16:41:00,3,16:41:00
+2023-06-29,611,Thoughtful;Longing,Home;Writing;Waking up;Pets,few clouds,Thoughtful,"Low Energy, Positive",2023-06-29 06:32:00,3,06:32:00
+2023-06-29,611,Thoughtful;Longing,Home;Writing;Waking up;Pets,few clouds,Longing,"Low Energy, Negative",2023-06-29 06:32:00,3,06:32:00
+2023-06-28,612,Empowered;Longing,Home;After dancing;Pets,broken clouds,Empowered,"High Energy, Positive",2023-06-28 17:45:00,2,17:45:00
+2023-06-28,612,Empowered;Longing,Home;After dancing;Pets,broken clouds,Longing,"Low Energy, Negative",2023-06-28 17:45:00,2,17:45:00
+2023-06-28,613,Relaxed;Accomplished,At friends;Helping someone;Cleaning;Resting;Pets,few clouds,Relaxed,"Low Energy, Positive",2023-06-28 13:52:00,2,13:52:00
+2023-06-28,613,Relaxed;Accomplished,At friends;Helping someone;Cleaning;Resting;Pets,few clouds,Accomplished,"High Energy, Positive",2023-06-28 13:52:00,2,13:52:00
+2023-06-28,614,Tired,Home;Resting;By myself,few clouds,Tired,"Low Energy, Negative",2023-06-28 11:38:00,2,11:38:00
+2023-06-28,615,Optimistic;Melancholic,Home;Writing;Waking up;Pets,broken clouds,Optimistic,"High Energy, Positive",2023-06-28 07:00:00,2,07:00:00
+2023-06-28,615,Optimistic;Melancholic,Home;Writing;Waking up;Pets,broken clouds,Melancholic,"Low Energy, Negative",2023-06-28 07:00:00,2,07:00:00
+2023-06-27,616,Balanced;Optimistic,Home;Resting;Pets,broken clouds,Balanced,"Low Energy, Positive",2023-06-27 18:51:00,1,18:51:00
+2023-06-27,616,Balanced;Optimistic,Home;Resting;Pets,broken clouds,Optimistic,"High Energy, Positive",2023-06-27 18:51:00,1,18:51:00
+2023-06-27,617,Relaxed;Chill,Home;Resting;By myself,broken clouds,Relaxed,"Low Energy, Positive",2023-06-27 16:41:00,1,16:41:00
+2023-06-27,617,Relaxed;Chill,Home;Resting;By myself,broken clouds,Chill,"Low Energy, Positive",2023-06-27 16:41:00,1,16:41:00
+2023-06-27,618,Thoughtful;Sympathetic,At friends;Home;Helping someone;Cleaning;By myself,few clouds,Thoughtful,"Low Energy, Positive",2023-06-27 08:30:00,1,08:30:00
+2023-06-27,618,Thoughtful;Sympathetic,At friends;Home;Helping someone;Cleaning;By myself,few clouds,Sympathetic,"Low Energy, Positive",2023-06-27 08:30:00,1,08:30:00
+2023-06-27,619,Balanced;Meh,Home;Writing;Waking up;Pets,few clouds,Balanced,"Low Energy, Positive",2023-06-27 06:45:00,1,06:45:00
+2023-06-27,619,Balanced;Meh,Home;Writing;Waking up;Pets,few clouds,Meh,"Low Energy, Negative",2023-06-27 06:45:00,1,06:45:00
+2023-06-26,620,Accomplished;Sympathetic,At friends;Cleaning;Helping someone;By myself,,Accomplished,"High Energy, Positive",2023-06-26 20:08:00,0,20:08:00
+2023-06-26,620,Accomplished;Sympathetic,At friends;Cleaning;Helping someone;By myself,,Sympathetic,"Low Energy, Positive",2023-06-26 20:08:00,0,20:08:00
+2023-06-26,621,Safe;Satisfied,Home;Resting;Friends;By myself,,Safe,"Low Energy, Positive",2023-06-26 17:37:00,0,17:37:00
+2023-06-26,621,Safe;Satisfied,Home;Resting;Friends;By myself,,Satisfied,"Low Energy, Positive",2023-06-26 17:37:00,0,17:37:00
+2023-06-26,622,Accepted;Relaxed,At friends;Hanging out;Friends,,Accepted,"High Energy, Positive",2023-06-26 17:05:00,0,17:05:00
+2023-06-26,622,Accepted;Relaxed,At friends;Hanging out;Friends,,Relaxed,"Low Energy, Positive",2023-06-26 17:05:00,0,17:05:00
+2023-06-26,623,Disengaged,Home;Resting;By myself,scattered clouds,Disengaged,"Low Energy, Negative",2023-06-26 13:54:00,0,13:54:00
+2023-06-26,624,Energized;Challenged,Library;Writing;Friends,clear sky,Energized,"High Energy, Positive",2023-06-26 11:45:00,0,11:45:00
+2023-06-26,624,Energized;Challenged,Library;Writing;Friends,clear sky,Challenged,"High Energy, Negative",2023-06-26 11:45:00,0,11:45:00
+2023-06-26,625,Determined;Nostalgic,Home;Writing;Pets,few clouds,Determined,"High Energy, Positive",2023-06-26 07:51:00,0,07:51:00
+2023-06-26,625,Determined;Nostalgic,Home;Writing;Pets,few clouds,Nostalgic,"Low Energy, Negative",2023-06-26 07:51:00,0,07:51:00
+2023-06-25,626,Envious;Excluded,Home;Resting;By myself,overcast clouds,Envious,"Low Energy, Negative",2023-06-25 18:49:00,6,18:49:00
+2023-06-25,626,Envious;Excluded,Home;Resting;By myself,overcast clouds,Excluded,"Low Energy, Negative",2023-06-25 18:49:00,6,18:49:00
+2023-06-25,627,Sad;Longing,Home;Resting;By myself,overcast clouds,Sad,"Low Energy, Negative",2023-06-25 16:35:00,6,16:35:00
+2023-06-25,627,Sad;Longing,Home;Resting;By myself,overcast clouds,Longing,"Low Energy, Negative",2023-06-25 16:35:00,6,16:35:00
+2023-06-25,628,Lonely;Apathetic,Home;Watching shows;Resting;Pets;By myself,overcast clouds,Lonely,"Low Energy, Negative",2023-06-25 15:08:00,6,15:08:00
+2023-06-25,628,Lonely;Apathetic,Home;Watching shows;Resting;Pets;By myself,overcast clouds,Apathetic,"Low Energy, Negative",2023-06-25 15:08:00,6,15:08:00
+2023-06-25,629,Disconnected,Home;Waking up;By myself,overcast clouds,Disconnected,"Low Energy, Negative",2023-06-25 08:40:00,6,08:40:00
+2023-06-25,630,Happy;Upbeat,At friends;Home;Listening to music;Resting;Hanging out;Family;Friends;By myself,,Happy,"High Energy, Positive",2023-06-25 01:48:00,6,01:48:00
+2023-06-25,630,Happy;Upbeat,At friends;Home;Listening to music;Resting;Hanging out;Family;Friends;By myself,,Upbeat,"High Energy, Positive",2023-06-25 01:48:00,6,01:48:00
+2023-06-24,631,Chill,At friends;Listening to music;Hanging out;Eating;Family;Friends,,Chill,"Low Energy, Positive",2023-06-24 18:19:00,5,18:19:00
+2023-06-24,632,Upbeat,Outside;Commuting;Between places;Listening to music;Strangers;By myself,few clouds,Upbeat,"High Energy, Positive",2023-06-24 14:53:00,5,14:53:00
+2023-06-24,633,Confident;Melancholic,Commuting;Between places;By myself;Strangers,few clouds,Confident,"High Energy, Positive",2023-06-24 14:34:00,5,14:34:00
+2023-06-24,633,Confident;Melancholic,Commuting;Between places;By myself;Strangers,few clouds,Melancholic,"Low Energy, Negative",2023-06-24 14:34:00,5,14:34:00
+2023-06-24,634,Chill;Empty,Home;Back from run;By myself,few clouds,Chill,"Low Energy, Positive",2023-06-24 12:41:00,5,12:41:00
+2023-06-24,634,Chill;Empty,Home;Back from run;By myself,few clouds,Empty,"Low Energy, Negative",2023-06-24 12:41:00,5,12:41:00
+2023-06-24,635,Alive;Joyful,Outside;Running;By myself,few clouds,Alive,"High Energy, Positive",2023-06-24 11:45:00,5,11:45:00
+2023-06-24,635,Alive;Joyful,Outside;Running;By myself,few clouds,Joyful,"High Energy, Positive",2023-06-24 11:45:00,5,11:45:00
+2023-06-24,636,Tired;Meh,Home;Waking up;Pets,few clouds,Tired,"Low Energy, Negative",2023-06-24 08:20:00,5,08:20:00
+2023-06-24,636,Tired;Meh,Home;Waking up;Pets,few clouds,Meh,"Low Energy, Negative",2023-06-24 08:20:00,5,08:20:00
+2023-06-23,637,Nostalgic;Lonely,Home;Watching shows;By myself,,Nostalgic,"Low Energy, Negative",2023-06-23 19:11:00,4,19:11:00
+2023-06-23,637,Nostalgic;Lonely,Home;Watching shows;By myself,,Lonely,"Low Energy, Negative",2023-06-23 19:11:00,4,19:11:00
+2023-06-23,638,Tranquil;Lonely,Outside;Listening to music;Hanging out;By myself,overcast clouds,Tranquil,"Low Energy, Positive",2023-06-23 14:20:00,4,14:20:00
+2023-06-23,638,Tranquil;Lonely,Outside;Listening to music;Hanging out;By myself,overcast clouds,Lonely,"Low Energy, Negative",2023-06-23 14:20:00,4,14:20:00
+2023-06-23,639,Alienated;Longing,Home;Waking up;Pets,overcast clouds,Alienated,"Low Energy, Negative",2023-06-23 09:35:00,4,09:35:00
+2023-06-23,639,Alienated;Longing,Home;Waking up;Pets,overcast clouds,Longing,"Low Energy, Negative",2023-06-23 09:35:00,4,09:35:00
+2023-06-22,640,At Ease,Outside;Hanging out;Eating;Co-workers,,At Ease,"Low Energy, Positive",2023-06-22 18:24:00,3,18:24:00
+2023-06-22,641,Sympathetic,Home;Back from run;Resting;By myself,scattered clouds,Sympathetic,"Low Energy, Positive",2023-06-22 11:05:00,3,11:05:00
+2023-06-22,642,Proud;Motivated,Home;Writing;Pets,scattered clouds,Proud,"High Energy, Positive",2023-06-22 07:57:00,3,07:57:00
+2023-06-22,642,Proud;Motivated,Home;Writing;Pets,scattered clouds,Motivated,"High Energy, Positive",2023-06-22 07:57:00,3,07:57:00
+2023-06-21,643,Relieved;Accomplished,Home;Resting;Pets,few clouds,Relieved,"Low Energy, Positive",2023-06-21 21:05:00,2,21:05:00
+2023-06-21,643,Relieved;Accomplished,Home;Resting;Pets,few clouds,Accomplished,"High Energy, Positive",2023-06-21 21:05:00,2,21:05:00
+2023-06-21,644,Tired,Home;Resting;By myself,scattered clouds,Tired,"Low Energy, Negative",2023-06-21 13:54:00,2,13:54:00
+2023-06-21,645,Excited;Nervous,Home;Resting;By myself,scattered clouds,Excited,"High Energy, Positive",2023-06-21 13:52:00,2,13:52:00
+2023-06-21,645,Excited;Nervous,Home;Resting;By myself,scattered clouds,Nervous,"High Energy, Negative",2023-06-21 13:52:00,2,13:52:00
+2023-06-21,646,Challenged;Nervous,Home;Writing;Pets,scattered clouds,Challenged,"High Energy, Negative",2023-06-21 07:58:00,2,07:58:00
+2023-06-21,646,Challenged;Nervous,Home;Writing;Pets,scattered clouds,Nervous,"High Energy, Negative",2023-06-21 07:58:00,2,07:58:00
+2023-06-20,647,Challenged;Determined,Home;Writing;By myself,overcast clouds,Challenged,"High Energy, Negative",2023-06-20 19:01:00,1,19:01:00
+2023-06-20,647,Challenged;Determined,Home;Writing;By myself,overcast clouds,Determined,"High Energy, Positive",2023-06-20 19:01:00,1,19:01:00
+2023-06-20,648,Tired;Longing,Home;Resting;By myself,overcast clouds,Tired,"Low Energy, Negative",2023-06-20 15:51:00,1,15:51:00
+2023-06-20,648,Tired;Longing,Home;Resting;By myself,overcast clouds,Longing,"Low Energy, Negative",2023-06-20 15:51:00,1,15:51:00
+2023-06-20,649,Compassionate;Nervous,,broken clouds,Compassionate,"Low Energy, Positive",2023-06-20 12:19:00,1,12:19:00
+2023-06-20,649,Compassionate;Nervous,,broken clouds,Nervous,"High Energy, Negative",2023-06-20 12:19:00,1,12:19:00
+2023-06-20,650,Focused;Empowered,Home;Writing;By myself,broken clouds,Focused,"High Energy, Positive",2023-06-20 12:15:00,1,12:15:00
+2023-06-20,650,Focused;Empowered,Home;Writing;By myself,broken clouds,Empowered,"High Energy, Positive",2023-06-20 12:15:00,1,12:15:00
+2023-06-20,651,Thoughtful;Resigned,Home;Waking up;By myself,broken clouds,Thoughtful,"Low Energy, Positive",2023-06-20 06:46:00,1,06:46:00
+2023-06-20,651,Thoughtful;Resigned,Home;Waking up;By myself,broken clouds,Resigned,"Low Energy, Negative",2023-06-20 06:46:00,1,06:46:00
+2023-06-20,652,Pressured;Insecure,Home;Waking up;By myself,broken clouds,Pressured,"High Energy, Negative",2023-06-20 06:43:00,1,06:43:00
+2023-06-20,652,Pressured;Insecure,Home;Waking up;By myself,broken clouds,Insecure,"Low Energy, Negative",2023-06-20 06:43:00,1,06:43:00
+2023-06-19,653,Balanced,Outside;Hanging out;Pets;Friends,overcast clouds,Balanced,"Low Energy, Positive",2023-06-19 18:31:00,0,18:31:00
+2023-06-19,654,Sad;Resigned,Home;Writing;By myself,scattered clouds,Sad,"Low Energy, Negative",2023-06-19 13:08:00,0,13:08:00
+2023-06-19,654,Sad;Resigned,Home;Writing;By myself,scattered clouds,Resigned,"Low Energy, Negative",2023-06-19 13:08:00,0,13:08:00
+2023-06-19,655,Challenged;Discouraged,Home;Back from run;By myself,scattered clouds,Challenged,"High Energy, Negative",2023-06-19 10:33:00,0,10:33:00
+2023-06-19,655,Challenged;Discouraged,Home;Back from run;By myself,scattered clouds,Discouraged,"Low Energy, Negative",2023-06-19 10:33:00,0,10:33:00
+2023-06-19,656,Excluded;Sad,Home;Waking up;By myself,fog,Excluded,"Low Energy, Negative",2023-06-19 06:00:00,0,06:00:00
+2023-06-19,656,Excluded;Sad,Home;Waking up;By myself,fog,Sad,"Low Energy, Negative",2023-06-19 06:00:00,0,06:00:00
+2023-06-18,657,Anxious,Home;Resting;By myself,clear sky,Anxious,"High Energy, Negative",2023-06-18 23:35:00,6,23:35:00
+2023-06-18,658,Overwhelmed;Inadequate,Home;Resting;By myself,broken clouds,Overwhelmed,"High Energy, Negative",2023-06-18 19:36:00,6,19:36:00
+2023-06-18,658,Overwhelmed;Inadequate,Home;Resting;By myself,broken clouds,Inadequate,"Low Energy, Negative",2023-06-18 19:36:00,6,19:36:00
+2023-06-18,659,Spent;Longing,Home;Resting;By myself,broken clouds,Spent,"Low Energy, Negative",2023-06-18 18:58:00,6,18:58:00
+2023-06-18,659,Spent;Longing,Home;Resting;By myself,broken clouds,Longing,"Low Energy, Negative",2023-06-18 18:58:00,6,18:58:00
+2023-06-18,660,Fatigued;Ashamed,Work;Resting;By myself,broken clouds,Fatigued,"Low Energy, Negative",2023-06-18 16:45:00,6,16:45:00
+2023-06-18,660,Fatigued;Ashamed,Work;Resting;By myself,broken clouds,Ashamed,"Low Energy, Negative",2023-06-18 16:45:00,6,16:45:00
+2023-06-18,661,Vulnerable;Confused,Home;Waking up;Pets,broken clouds,Vulnerable,"Low Energy, Negative",2023-06-18 12:45:00,6,12:45:00
+2023-06-18,661,Vulnerable;Confused,Home;Waking up;Pets,broken clouds,Confused,"Low Energy, Negative",2023-06-18 12:45:00,6,12:45:00
+2023-06-17,662,Balanced;Empowered,Outside;Listening to music;By myself,light rain,Balanced,"Low Energy, Positive",2023-06-17 18:35:00,5,18:35:00
+2023-06-17,662,Balanced;Empowered,Outside;Listening to music;By myself,light rain,Empowered,"High Energy, Positive",2023-06-17 18:35:00,5,18:35:00
+2023-06-17,663,Wishful;Balanced,Home;Back from run;By myself,overcast clouds,Wishful,"Low Energy, Negative",2023-06-17 10:37:00,5,10:37:00
+2023-06-17,663,Wishful;Balanced,Home;Back from run;By myself,overcast clouds,Balanced,"Low Energy, Positive",2023-06-17 10:37:00,5,10:37:00
+2023-06-17,664,Sad;Longing,Home;Resting;By myself,few clouds,Sad,"Low Energy, Negative",2023-06-17 06:12:00,5,06:12:00
+2023-06-17,664,Sad;Longing,Home;Resting;By myself,few clouds,Longing,"Low Energy, Negative",2023-06-17 06:12:00,5,06:12:00
+2023-06-16,665,Valued;Nostalgic,Home;Resting;By myself,overcast clouds,Valued,"High Energy, Positive",2023-06-16 23:26:00,4,23:26:00
+2023-06-16,665,Valued;Nostalgic,Home;Resting;By myself,overcast clouds,Nostalgic,"Low Energy, Negative",2023-06-16 23:26:00,4,23:26:00
+2023-06-16,666,Joyful,Outside;Listening to music;Friends,broken clouds,Joyful,"High Energy, Positive",2023-06-16 14:36:00,4,14:36:00
+2023-06-15,667,Ecstatic,Outside;Listening to music;Friends,scattered clouds,Ecstatic,"High Energy, Positive",2023-06-15 19:05:00,3,19:05:00
+2023-06-15,668,Included;Longing,Home;Resting;By myself,,Included,"High Energy, Positive",2023-06-15 10:38:00,3,10:38:00
+2023-06-15,668,Included;Longing,Home;Resting;By myself,,Longing,"Low Energy, Negative",2023-06-15 10:38:00,3,10:38:00
+2023-06-14,669,Satisfied,Outside;Listening to music;Friends,,Satisfied,"Low Energy, Positive",2023-06-14 23:27:00,2,23:27:00
+2023-06-14,670,Chill,Outside;Listening to music;By myself,,Chill,"Low Energy, Positive",2023-06-14 13:54:00,2,13:54:00
+2023-06-14,671,Empowered;Grateful,Home;Listening to music;By myself,,Empowered,"High Energy, Positive",2023-06-14 09:51:00,2,09:51:00
+2023-06-14,671,Empowered;Grateful,Home;Listening to music;By myself,,Grateful,"Low Energy, Positive",2023-06-14 09:51:00,2,09:51:00
+2023-06-14,672,Excited;Eager,Home;Back from run;By myself,,Excited,"High Energy, Positive",2023-06-14 09:10:00,2,09:10:00
+2023-06-14,672,Excited;Eager,Home;Back from run;By myself,,Eager,"High Energy, Positive",2023-06-14 09:10:00,2,09:10:00
+2023-06-13,673,Balanced;Meh,,,Balanced,"Low Energy, Positive",2023-06-13 19:03:00,1,19:03:00
+2023-06-13,673,Balanced;Meh,,,Meh,"Low Energy, Negative",2023-06-13 19:03:00,1,19:03:00
+2023-06-13,674,Excited;Glum,Home;Hanging out;Pets,,Excited,"High Energy, Positive",2023-06-13 18:00:00,1,18:00:00
+2023-06-13,674,Excited;Glum,Home;Hanging out;Pets,,Glum,"Low Energy, Negative",2023-06-13 18:00:00,1,18:00:00
+2023-06-13,675,Discouraged;Down,Home;Hanging out;Pets,,Discouraged,"Low Energy, Negative",2023-06-13 17:57:00,1,17:57:00
+2023-06-13,675,Discouraged;Down,Home;Hanging out;Pets,,Down,"Low Energy, Negative",2023-06-13 17:57:00,1,17:57:00
+2023-06-13,676,Frustrated;Annoyed,Work;Co-workers,,Frustrated,"High Energy, Negative",2023-06-13 13:46:00,1,13:46:00
+2023-06-13,676,Frustrated;Annoyed,Work;Co-workers,,Annoyed,"High Energy, Negative",2023-06-13 13:46:00,1,13:46:00
+2023-06-13,677,Tired;Resigned,Home;Hanging out;By myself,,Tired,"Low Energy, Negative",2023-06-13 11:33:00,1,11:33:00
+2023-06-13,677,Tired;Resigned,Home;Hanging out;By myself,,Resigned,"Low Energy, Negative",2023-06-13 11:33:00,1,11:33:00
+2023-06-13,678,Regretful;Confused,Home;Waking up;By myself,,Regretful,"Low Energy, Negative",2023-06-13 04:41:00,1,04:41:00
+2023-06-13,678,Regretful;Confused,Home;Waking up;By myself,,Confused,"Low Energy, Negative",2023-06-13 04:41:00,1,04:41:00
+2023-06-12,679,Chill,Home;Resting;Pets,,Chill,"Low Energy, Positive",2023-06-12 20:49:00,0,20:49:00
+2023-06-12,680,Accomplished,Home;Pets,,Accomplished,"High Energy, Positive",2023-06-12 17:55:00,0,17:55:00
+2023-06-12,681,Fatigued,Home;Resting;By myself,,Fatigued,"Low Energy, Negative",2023-06-12 14:00:00,0,14:00:00
+2023-06-12,682,Accomplished;Anxious,Home;Writing;By myself,,Accomplished,"High Energy, Positive",2023-06-12 12:07:00,0,12:07:00
+2023-06-12,682,Accomplished;Anxious,Home;Writing;By myself,,Anxious,"High Energy, Negative",2023-06-12 12:07:00,0,12:07:00
+2023-06-12,683,Engaged,Home;Writing;Pets,,Engaged,"High Energy, Positive",2023-06-12 07:44:00,0,07:44:00
+2023-06-11,684,Mellow;Apathetic,Home;Resting;Pets,,Mellow,"Low Energy, Positive",2023-06-11 18:52:00,6,18:52:00
+2023-06-11,684,Mellow;Apathetic,Home;Resting;Pets,,Apathetic,"Low Energy, Negative",2023-06-11 18:52:00,6,18:52:00
+2023-06-11,685,Pleased,Outside;Hanging out;By myself,,Pleased,"High Energy, Positive",2023-06-11 15:55:00,6,15:55:00
+2023-06-11,686,Relaxed;Tired,Home;Hanging out;By myself,,Relaxed,"Low Energy, Positive",2023-06-11 13:28:00,6,13:28:00
+2023-06-11,686,Relaxed;Tired,Home;Hanging out;By myself,,Tired,"Low Energy, Negative",2023-06-11 13:28:00,6,13:28:00
+2023-06-11,687,Desire;Fulfilled,Home;Resting;By myself,,Desire,"High Energy, Positive",2023-06-11 11:15:00,6,11:15:00
+2023-06-11,687,Desire;Fulfilled,Home;Resting;By myself,,Fulfilled,"High Energy, Positive",2023-06-11 11:15:00,6,11:15:00
+2023-06-11,688,Optimistic;Balanced,Home;Resting;Pets,clear sky,Optimistic,"High Energy, Positive",2023-06-11 07:52:00,6,07:52:00
+2023-06-11,688,Optimistic;Balanced,Home;Resting;Pets,clear sky,Balanced,"Low Energy, Positive",2023-06-11 07:52:00,6,07:52:00
+2023-06-11,689,Worried;Lonely,Home;Waking up;By myself,,Worried,"High Energy, Negative",2023-06-11 06:22:00,6,06:22:00
+2023-06-11,689,Worried;Lonely,Home;Waking up;By myself,,Lonely,"Low Energy, Negative",2023-06-11 06:22:00,6,06:22:00
+2023-06-10,690,Fatigued,Home;Resting;Pets,,Fatigued,"Low Energy, Negative",2023-06-10 22:34:00,5,22:34:00
+2023-06-10,691,Accomplished,Outside;Commuting;Back from run;By myself,,Accomplished,"High Energy, Positive",2023-06-10 19:20:00,5,19:20:00
+2023-06-10,692,Challenged,Commuting;Hanging out;By myself,,Challenged,"High Energy, Negative",2023-06-10 11:47:00,5,11:47:00
+2023-06-10,693,Confused;Determined,Home;Hanging out;Pets,,Confused,"Low Energy, Negative",2023-06-10 10:41:00,5,10:41:00
+2023-06-10,693,Confused;Determined,Home;Hanging out;Pets,,Determined,"High Energy, Positive",2023-06-10 10:41:00,5,10:41:00
+2023-06-10,694,Nostalgic;Longing,Home;Waking up;Pets,,Nostalgic,"Low Energy, Negative",2023-06-10 06:09:00,5,06:09:00
+2023-06-10,694,Nostalgic;Longing,Home;Waking up;Pets,,Longing,"Low Energy, Negative",2023-06-10 06:09:00,5,06:09:00
+2023-06-09,695,Bored;Longing,Home;Resting;By myself,,Bored,"Low Energy, Negative",2023-06-09 19:30:00,4,19:30:00
+2023-06-09,695,Bored;Longing,Home;Resting;By myself,,Longing,"Low Energy, Negative",2023-06-09 19:30:00,4,19:30:00
+2023-06-09,696,Accomplished;Relaxed,Work;Resting;By myself,,Accomplished,"High Energy, Positive",2023-06-09 16:33:00,4,16:33:00
+2023-06-09,696,Accomplished;Relaxed,Work;Resting;By myself,,Relaxed,"Low Energy, Positive",2023-06-09 16:33:00,4,16:33:00
+2023-06-09,697,Cheerful,Work;Exams;Co-workers,,Cheerful,"High Energy, Positive",2023-06-09 11:32:00,4,11:32:00
+2023-06-09,698,At Ease;Balanced,Home;Waking up;Pets,,At Ease,"Low Energy, Positive",2023-06-09 06:31:00,4,06:31:00
+2023-06-09,698,At Ease;Balanced,Home;Waking up;Pets,,Balanced,"Low Energy, Positive",2023-06-09 06:31:00,4,06:31:00
+2023-06-08,699,Exhausted,Home;Resting;Pets,,Exhausted,"Low Energy, Negative",2023-06-08 20:47:00,3,20:47:00
+2023-06-08,700,Curious;Inspired,Outside;Hanging out;Co-workers;Friends,,Curious,"High Energy, Positive",2023-06-08 16:45:00,3,16:45:00
+2023-06-08,700,Curious;Inspired,Outside;Hanging out;Co-workers;Friends,,Inspired,"High Energy, Positive",2023-06-08 16:45:00,3,16:45:00
+2023-06-08,701,Fatigued,Work;Co-workers,,Fatigued,"Low Energy, Negative",2023-06-08 11:39:00,3,11:39:00
+2023-06-08,702,Meh;Confident,Home;Waking up;Pets,,Meh,"Low Energy, Negative",2023-06-08 06:10:00,3,06:10:00
+2023-06-08,702,Meh;Confident,Home;Waking up;Pets,,Confident,"High Energy, Positive",2023-06-08 06:10:00,3,06:10:00
+2023-06-07,703,Discouraged;Disappointed,Home;Resting;Pets,,Discouraged,"Low Energy, Negative",2023-06-07 20:46:00,2,20:46:00
+2023-06-07,703,Discouraged;Disappointed,Home;Resting;Pets,,Disappointed,"Low Energy, Negative",2023-06-07 20:46:00,2,20:46:00
+2023-06-07,704,Empowered;Energized,Outside;After dancing,,Empowered,"High Energy, Positive",2023-06-07 18:29:00,2,18:29:00
+2023-06-07,704,Empowered;Energized,Outside;After dancing,,Energized,"High Energy, Positive",2023-06-07 18:29:00,2,18:29:00
+2023-06-07,705,Playful;Energized,Outside;By myself,,Playful,"High Energy, Positive",2023-06-07 16:35:00,2,16:35:00
+2023-06-07,705,Playful;Energized,Outside;By myself,,Energized,"High Energy, Positive",2023-06-07 16:35:00,2,16:35:00
+2023-06-07,706,Worried,Home;Waking up;By myself,,Worried,"High Energy, Negative",2023-06-07 05:09:00,2,05:09:00
+2023-06-07,707,Thoughtful;Optimistic,Home;Waking up;Pets,,Thoughtful,"Low Energy, Positive",2023-06-07 05:06:00,2,05:06:00
+2023-06-07,707,Thoughtful;Optimistic,Home;Waking up;Pets,,Optimistic,"High Energy, Positive",2023-06-07 05:06:00,2,05:06:00
+2023-06-06,708,Excited;Hopeful,Outside;By myself,,Excited,"High Energy, Positive",2023-06-06 20:00:00,1,20:00:00
+2023-06-06,708,Excited;Hopeful,Outside;By myself,,Hopeful,"High Energy, Positive",2023-06-06 20:00:00,1,20:00:00
+2023-06-06,709,Satisfied;Tired,Home;Resting;Pets,,Satisfied,"Low Energy, Positive",2023-06-06 18:31:00,1,18:31:00
+2023-06-06,709,Satisfied;Tired,Home;Resting;Pets,,Tired,"Low Energy, Negative",2023-06-06 18:31:00,1,18:31:00
+2023-06-06,710,At Ease;Mellow,Home;Back from run;By myself,,At Ease,"Low Energy, Positive",2023-06-06 07:27:00,1,07:27:00
+2023-06-06,710,At Ease;Mellow,Home;Back from run;By myself,,Mellow,"Low Energy, Positive",2023-06-06 07:27:00,1,07:27:00
+2023-06-05,711,Balanced,Home;Resting;By myself,,Balanced,"Low Energy, Positive",2023-06-05 20:27:00,0,20:27:00
+2023-06-05,712,Lonely,Home;Resting;By myself,,Lonely,"Low Energy, Negative",2023-06-05 20:22:00,0,20:22:00
+2023-06-05,713,Thoughtful;Pensive,Home;Resting;By myself,,Thoughtful,"Low Energy, Positive",2023-06-05 20:17:00,0,20:17:00
+2023-06-05,713,Thoughtful;Pensive,Home;Resting;By myself,,Pensive,"Low Energy, Positive",2023-06-05 20:17:00,0,20:17:00
